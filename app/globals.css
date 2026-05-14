@@ -1,26 +1,53 @@
 @import "tailwindcss";
 
+@theme {
+  --color-verde: #2D6A4F;
+  --color-naranja: #F4A261;
+  --color-rosa: #FFB4A2;
+  --color-celeste: #ADE8F4;
+  --color-crema: #FFF8F0;
+  --color-texto: #1C1917;
+  --color-verde-oscuro: #0D1F15;
+  --color-verde-claro: #DCF8C6;
+}
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --background: #FFF8F0;
+  --foreground: #1C1917;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* FAQ accordion animation */
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+/* WhatsApp mock styles */
+.wa-bubble-sent {
+  background: #DCF8C6;
+  border-radius: 12px 12px 2px 12px;
+}
+
+.wa-bubble-received {
+  background: #ffffff;
+  border-radius: 12px 12px 12px 2px;
 }
