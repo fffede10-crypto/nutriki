@@ -314,6 +314,14 @@ export default function LandingPage() {
                 <span key={b} className="text-xs bg-verde/10 text-verde border border-verde/30 px-3 py-1 rounded-full font-semibold">{b}</span>
               ))}
             </div>
+            <div style={{ background: '#E8F5E9', borderLeft: '4px solid #2D6A4F', borderRadius: '8px', padding: '16px', marginBottom: '24px' }}>
+              <p style={{ color: '#2D6A4F', fontSize: '15px', fontWeight: 700, marginBottom: '6px' }}>
+                🚫 Esto NO es un PDF ni un curso grabado.
+              </p>
+              <p style={{ color: '#374151', fontSize: '14px', lineHeight: '1.5' }}>
+                Es una plataforma interactiva completa — como Netflix pero de recetas saludables para tu hijo. Accedés desde el celular, tablet o compu, en cualquier momento.
+              </p>
+            </div>
             <div className="text-center mb-6">
               <p className="text-gray-400 line-through text-xl mb-1">$79.999 ARS</p>
               <p className="text-4xl font-extrabold text-verde">$19.999 ARS</p>
