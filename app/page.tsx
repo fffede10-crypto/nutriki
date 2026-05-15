@@ -144,10 +144,7 @@ export default function LandingPage() {
           </div>
 
           <a
-            href={SHOPIFY_URL}
-            target="_blank"
-            rel="noopener noreferrer"
-            onClick={trackCheckout}
+            href="#precio"
             className="inline-block bg-naranja text-white font-extrabold text-lg px-8 py-4 rounded-2xl shadow-lg transition-transform active:scale-95"
           >
             🥦 Quiero acceder a Nutriki →
@@ -303,7 +300,7 @@ export default function LandingPage() {
       </section>
 
       {/* ── Precio (blanco con borde verde) ── */}
-      <section className="px-5 py-14 max-w-lg mx-auto" style={{ background: '#FFFFFF' }}>
+      <section id="precio" className="px-5 py-14 max-w-lg mx-auto" style={{ background: '#FFFFFF' }}>
         <div className="border-2 border-verde rounded-3xl overflow-hidden shadow-md">
           <div className="bg-verde px-6 py-3 text-center">
             <span className="text-white font-bold text-sm uppercase tracking-wide">MÁS ELEGIDO</span>
