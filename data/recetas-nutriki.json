@@ -5725,5 +5725,4065 @@
     "tip_nutricional": "La avena cruda en el licuado aporta beta-glucano que ralentiza la absorción del azúcar de la banana, dando energía sostenida. El cacao suma hierro y magnesio que favorecen la recuperación muscular post-ejercicio.",
     "tip_para_mama": "Este smoothie es ideal para antes del colegio o después de la práctica deportiva. La avena lo hace muy espeso: si tu hijo lo prefiere más liviano, reducí la avena a 2 cucharadas. Con banana congelada queda más cremoso.",
     "imagen_url": "https://images.pexels.com/photos/7655878/pexels-photo-7655878.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 91,
+    "nombre": "Buñuelos de arroz con miel y canela",
+    "descripcion": "La forma más ingeniosa de aprovechar el arroz cocido del día anterior. Crujientes por fuera, suaves por dentro, con un toque dulce de miel. Listos en 20 minutos.",
+    "categoria": "desayuno",
+    "tiempo_preparacion": 20,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 20,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": true,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "arroz blanco cocido (del día anterior)",
+        "cantidad": "2",
+        "unidad": "tazas"
+      },
+      {
+        "nombre": "huevos",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "harina 0000",
+        "cantidad": "3",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "miel",
+        "cantidad": "2",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "canela en polvo",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "aceite de girasol",
+        "cantidad": "3",
+        "unidad": "cucharadas"
+      }
+    ],
+    "pasos": [
+      "En un bowl mezclás el arroz cocido con los huevos, la harina, la miel y la canela hasta obtener una masa pegajosa que se pueda moldear.",
+      "Con las manos húmedas formás medallones chatos de unos 5 cm de diámetro.",
+      "En una sartén con el aceite caliente a fuego medio, cocinás los buñuelos 3 minutos por lado hasta que queden dorados y crocantes.",
+      "Retirás sobre papel absorbente y servís tibios con un hilito extra de miel."
+    ],
+    "tip_nutricional": "El arroz aporta energía de liberación gradual gracias a su almidón. Combinado con el huevo suma proteínas completas para un arranque escolar con combustible duradero.",
+    "tip_para_mama": "Es la receta perfecta para no tirar el arroz sobrante. Los buñuelos fríos también están ricos y se pueden meter en la vianda envueltos en papel manteca. Si tu hijo es más saladero, omití la miel y agregá queso rallado.",
+    "imagen_url": "https://images.pexels.com/photos/34488753/pexels-photo-34488753.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 92,
+    "nombre": "Crepes rellenas de atún y choclo",
+    "descripcion": "Crepes finitas con relleno salado, ideales para variar el desayuno o llevar enrolladas en la vianda. La combinación atún-choclo es un clásico que los chicos adoran.",
+    "categoria": "desayuno",
+    "tiempo_preparacion": 25,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "edad_minima": 3,
+    "lista_en_minutos": 25,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": false,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "harina 0000",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "leche",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "huevos",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "sal",
+        "cantidad": "1",
+        "unidad": "pizca"
+      },
+      {
+        "nombre": "atún al natural en lata",
+        "cantidad": "2",
+        "unidad": "latas (170 g c/u)"
+      },
+      {
+        "nombre": "choclo en lata o fresco cocido",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "mayonesa liviana",
+        "cantidad": "2",
+        "unidad": "cucharadas"
+      }
+    ],
+    "pasos": [
+      "Para la masa: batís los huevos con la leche, la harina y la sal hasta obtener una mezcla lisa sin grumos. Dejás reposar 10 minutos.",
+      "En una sartén antiadherente apenas aceitada a fuego medio, volcás un cucharón de mezcla y la movés para que cubra todo el fondo. Cocinás 1-2 minutos hasta que los bordes se despeguen, dás vuelta y cocinás 30 segundos más.",
+      "Para el relleno: escurrís bien el atún, lo mezclás con el choclo y la mayonesa. Salpimentás a gusto.",
+      "Ponés una cucharada del relleno en cada crepe, la doblás en cuartos o la enrollás.",
+      "Servís de inmediato o las envolvés en film para la vianda."
+    ],
+    "tip_nutricional": "El atún al natural es una de las mejores fuentes de omega-3 y proteína magra disponibles en el súper. El choclo aporta fibra y vitamina B que ayudan al rendimiento escolar.",
+    "tip_para_mama": "Hacé todas las crepes de una sola vez y guardalas apiladas con papel manteca entre medio en la heladera hasta 3 días. El relleno también dura 2 días en un tupper.",
+    "imagen_url": "https://images.pexels.com/photos/29810298/pexels-photo-29810298.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 93,
+    "nombre": "Muffins de arándanos y yogur",
+    "descripcion": "Muffins esponjosos con arándanos que estallan en cada mordida. Sin manteca, con yogur en lugar de aceite en exceso. Perfectos para la vianda o el recreo.",
+    "categoria": "desayuno",
+    "tiempo_preparacion": 30,
+    "porciones": 12,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 30,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": false,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 5,
+    "ingredientes": [
+      {
+        "nombre": "harina 0000",
+        "cantidad": "2",
+        "unidad": "tazas"
+      },
+      {
+        "nombre": "yogur natural entero",
+        "cantidad": "1",
+        "unidad": "pote (200 g)"
+      },
+      {
+        "nombre": "huevos",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "aceite de girasol",
+        "cantidad": "1/3",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "azúcar",
+        "cantidad": "3/4",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "arándanos frescos o congelados",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "ralladura de limón",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "polvo de hornear",
+        "cantidad": "2",
+        "unidad": "cucharaditas"
+      },
+      {
+        "nombre": "sal",
+        "cantidad": "1",
+        "unidad": "pizca"
+      }
+    ],
+    "pasos": [
+      "Precalentás el horno a 180°C y preparás un molde de muffins con pirotines de papel.",
+      "En un bowl grande mezclás los ingredientes secos: harina, azúcar, polvo de hornear y sal.",
+      "En otro bowl batís los huevos con el yogur, el aceite y la ralladura de limón.",
+      "Volcás los ingredientes líquidos sobre los secos y mezclás con movimientos envolventes hasta integrar, sin batir demasiado (está bien si quedan algunos grumos).",
+      "Incorporás los arándanos con cuidado. Si usás congelados, no los descongelés antes.",
+      "Repartís la mezcla en los moldecitos hasta 3/4 de su capacidad.",
+      "Cocinás 20-22 minutos hasta que al pincharlos con un palillo salga limpio. Dejás enfriar 10 minutos antes de desmoldar."
+    ],
+    "tip_nutricional": "Los arándanos son una de las frutas con mayor concentración de antioxidantes y vitamina C. El yogur aporta calcio y probióticos, haciendo de este muffin un desayuno mucho más nutritivo que los industriales.",
+    "tip_para_mama": "Guardá los muffins en un recipiente hermético hasta 4 días, o congelalos individualmente envueltos en film. Se descongelan solos a temperatura ambiente en 30 minutos o en 20 segundos en microondas.",
+    "imagen_url": "https://images.pexels.com/photos/7935283/pexels-photo-7935283.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 94,
+    "nombre": "Tazón de quinoa con mango y coco",
+    "descripcion": "Desayuno nutritivo y colorido sin gluten ni lácteos. La quinoa dulce con leche de coco y mango fresco es una combinación tropical que sorprende a chicos y adultos.",
+    "categoria": "desayuno",
+    "tiempo_preparacion": 20,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 20,
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "quinoa",
+        "cantidad": "1/2",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "leche de coco en lata",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "agua",
+        "cantidad": "1/2",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "mango maduro",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "miel o jarabe de arce",
+        "cantidad": "1",
+        "unidad": "cucharada"
+      },
+      {
+        "nombre": "coco rallado sin azúcar",
+        "cantidad": "2",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "extracto de vainilla",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      }
+    ],
+    "pasos": [
+      "Enjuagás bien la quinoa bajo el agua fría para sacarle el amargor.",
+      "En una cacerolita mezclás la quinoa con la leche de coco, el agua y la vainilla. Llevas a fuego medio.",
+      "Cuando rompe el hervor bajás el fuego al mínimo, tapás y cocinás 15 minutos hasta que la quinoa absorbió todo el líquido y se ven los germenes blancos.",
+      "Mientras tanto, pelás el mango y lo cortás en cubos.",
+      "Servís la quinoa caliente en bowls, la endulzás con miel, ponés el mango encima y espolvoreás el coco rallado."
+    ],
+    "tip_nutricional": "La quinoa es uno de los pocos alimentos de origen vegetal con proteína completa (contiene los 9 aminoácidos esenciales). Sin gluten, es ideal para chicos celíacos o sensibles al trigo.",
+    "tip_para_mama": "Podés cocinar la quinoa el domingo y guardarla en la heladera 5 días. Por las mañanas solo calentás y armás el tazón. El mango lo podés reemplazar por la fruta de temporada que tengas.",
+    "imagen_url": "https://images.pexels.com/photos/8230028/pexels-photo-8230028.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 95,
+    "nombre": "Pancitos de queso y cebolla de verdeo",
+    "descripcion": "Pancitos caseros saladitos que se hacen en 35 minutos. Crujientes por fuera y esponjosos por dentro, con un olor que despierta a toda la casa. Ideales para llevar en la vianda.",
+    "categoria": "desayuno",
+    "tiempo_preparacion": 35,
+    "porciones": 8,
+    "nivel_dificultad": "medio",
+    "edad_minima": 2,
+    "lista_en_minutos": 35,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": false,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "harina 0000",
+        "cantidad": "2",
+        "unidad": "tazas"
+      },
+      {
+        "nombre": "levadura seca instantánea",
+        "cantidad": "1",
+        "unidad": "sobre (7 g)"
+      },
+      {
+        "nombre": "leche tibia",
+        "cantidad": "3/4",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "huevo",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "queso parmesano rallado",
+        "cantidad": "1/2",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "cebolla de verdeo",
+        "cantidad": "3",
+        "unidad": "ramas"
+      },
+      {
+        "nombre": "aceite de girasol",
+        "cantidad": "2",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "sal",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      }
+    ],
+    "pasos": [
+      "En un bowl mezclás la harina con la sal y la levadura seca.",
+      "Hacés un hueco en el centro y agregás la leche tibia, el huevo y el aceite. Mezclás hasta formar una masa.",
+      "Amasás sobre la mesada enharinada 5 minutos hasta que quede suave. Incorporás el queso rallado y la cebolla de verdeo picada finita.",
+      "Dividís la masa en 8 porciones iguales y formás bolitas. Las acomodás en una placa aceitada con espacio entre sí.",
+      "Dejás descansar 15 minutos en un lugar cálido hasta que crezcan un poco.",
+      "Precalentás el horno a 200°C. Pintás los pancitos con leche o huevo batido y cocinás 18-20 minutos hasta que estén dorados."
+    ],
+    "tip_nutricional": "El queso parmesano es una fuente concentrada de calcio y proteínas. La levadura suma vitaminas del grupo B que apoyan el sistema nervioso y la energía mental.",
+    "tip_para_mama": "Podés congelar los pancitos ya horneados. Se recalientan 5 minutos en el horno o toaster y quedan como recién hechos. La cebolla de verdeo también se puede reemplazar por orégano y aceitunas negras.",
+    "imagen_url": "https://images.pexels.com/photos/13887556/pexels-photo-13887556.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 96,
+    "nombre": "Cazuela de quinoa con pollo y verduras",
+    "descripcion": "Plato completo y sin gluten con proteína doble: pollo y quinoa. Se hace en una sola olla y la quinoa absorbe todos los jugos del pollo quedando irresistible.",
+    "categoria": "almuerzo",
+    "tiempo_preparacion": 40,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 40,
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "pechuga de pollo en cubos",
+        "cantidad": "400",
+        "unidad": "g"
+      },
+      {
+        "nombre": "quinoa",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "caldo de pollo o verdura",
+        "cantidad": "2",
+        "unidad": "tazas"
+      },
+      {
+        "nombre": "zanahoria",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "morrón rojo",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "cebolla",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "2",
+        "unidad": "dientes"
+      },
+      {
+        "nombre": "pimentón dulce, comino, sal, aceite",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Enjuagás la quinoa bajo el agua fría y la escurrís.",
+      "En una olla con un chorrito de aceite, dorás el pollo en cubos con sal y pimentón. Retirás y reservás.",
+      "En la misma olla sofreís la cebolla y el ajo picados 3 minutos. Agregás la zanahoria en rodajas y el morrón en tiras.",
+      "Incorporás la quinoa, el caldo caliente y el comino. Revolvés para integrar todo.",
+      "Devolvés el pollo a la olla, tapás y cocinás a fuego medio-bajo 20 minutos hasta que la quinoa absorbió el caldo.",
+      "Dejás reposar 5 minutos tapado. Servís con perejil fresco si tenés."
+    ],
+    "tip_nutricional": "La quinoa aporta hierro, zinc y proteína completa, sumada a la proteína del pollo hace de este plato uno de los más nutritivos del menú infantil. Sin gluten ni lácteos, es apto para la mayoría de las intolerancias.",
+    "tip_para_mama": "Este plato frío también está muy rico y se puede llevar en tupper para la vianda escolar. La quinoa aguanta bien hasta el día siguiente sin perder textura.",
+    "imagen_url": "https://images.pexels.com/photos/25315523/pexels-photo-25315523.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 97,
+    "nombre": "Canelones de carne y espinaca al horno",
+    "descripcion": "Los canelones clásicos de la abuela, con relleno de carne picada y espinaca bañados en salsa bechamel. Un plato festivo que los chicos piden repetir.",
+    "categoria": "almuerzo",
+    "tiempo_preparacion": 60,
+    "porciones": 4,
+    "nivel_dificultad": "medio",
+    "edad_minima": 3,
+    "lista_en_minutos": 60,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": false,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "indice_popularidad": 5,
+    "ingredientes": [
+      {
+        "nombre": "tapas de canelón (pasta seca)",
+        "cantidad": "16",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "carne picada",
+        "cantidad": "300",
+        "unidad": "g"
+      },
+      {
+        "nombre": "espinaca congelada descongelada y escurrida",
+        "cantidad": "200",
+        "unidad": "g"
+      },
+      {
+        "nombre": "cebolla",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "queso rallado",
+        "cantidad": "100",
+        "unidad": "g"
+      },
+      {
+        "nombre": "leche",
+        "cantidad": "2",
+        "unidad": "tazas"
+      },
+      {
+        "nombre": "harina",
+        "cantidad": "3",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "manteca",
+        "cantidad": "30",
+        "unidad": "g"
+      },
+      {
+        "nombre": "nuez moscada, sal, pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Para el relleno: sofreís la cebolla picada en aceite, agregás la carne y cocinás hasta que cambie de color. Incorporás la espinaca exprimida y picada. Salpimentás y dejás enfriar.",
+      "Para la bechamel: derretís la manteca en una cacerolita, agregás la harina y revolvés 1 minuto. Incorporás la leche de a poco sin dejar de revolver hasta obtener una salsa cremosa. Salpimentás con nuez moscada.",
+      "Hervís las tapas de canelón según las instrucciones del paquete. Las escurrís sobre un repasador.",
+      "Colocás una cucharada de relleno en cada tapa y la enrollás. Las acomodás en una fuente aceitada.",
+      "Cubrís con la bechamel y el queso rallado.",
+      "Cocinás en horno a 180°C por 25-30 minutos hasta que la superficie esté dorada y burbujee."
+    ],
+    "tip_nutricional": "La combinación carne más espinaca en un mismo plato optimiza la absorción de hierro: la vitamina C de la espinaca potencia el hierro hemo de la carne. La bechamel agrega calcio de la leche.",
+    "tip_para_mama": "Podés armar los canelones el día anterior y refrigerarlos sin hornear. Al día siguiente los metés directo al horno 10 minutos más. También se congelan crudos hasta 2 meses.",
+    "imagen_url": "https://images.pexels.com/photos/36701467/pexels-photo-36701467.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 98,
+    "nombre": "Sopa minestrone con pan tostado",
+    "descripcion": "La sopa italiana de verduras que alimenta de verdad. Con pasta, porotos y todo lo que hay en la heladera. Espesa, sabrosa y lista en 40 minutos.",
+    "categoria": "almuerzo",
+    "tiempo_preparacion": 40,
+    "porciones": 6,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 40,
+    "apta_vianda": false,
+    "sin_gluten": false,
+    "sin_lacteos": true,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "porotos blancos cocidos o en lata",
+        "cantidad": "400",
+        "unidad": "g"
+      },
+      {
+        "nombre": "fideos cortos (coditos o tirabuzón)",
+        "cantidad": "100",
+        "unidad": "g"
+      },
+      {
+        "nombre": "zapallito verde",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "zanahoria",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "apio",
+        "cantidad": "2",
+        "unidad": "ramas"
+      },
+      {
+        "nombre": "tomate perita",
+        "cantidad": "3",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "cebolla",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "caldo de verdura",
+        "cantidad": "1.5",
+        "unidad": "litros"
+      },
+      {
+        "nombre": "ajo, albahaca, sal, aceite de oliva",
+        "cantidad": "a gusto",
+        "unidad": ""
+      },
+      {
+        "nombre": "pan integral para tostar",
+        "cantidad": "6",
+        "unidad": "rebanadas"
+      }
+    ],
+    "pasos": [
+      "En una olla grande con aceite de oliva, sofreís la cebolla y el ajo picados 3 minutos.",
+      "Agregás la zanahoria y el apio en cubos pequeños y cocinás 5 minutos más.",
+      "Sumás el zapallito y el tomate picado. Revolvés y cocinás 3 minutos.",
+      "Vertés el caldo caliente y los porotos escurridos. Llevás a hervor y cocinás 15 minutos.",
+      "Agregás los fideos y cocinás el tiempo que indica el paquete. Rectificás sal y sumás albahaca fresca picada.",
+      "Tostás el pan y servís la sopa con las tostadas al costado para mojar."
+    ],
+    "tip_nutricional": "Los porotos blancos son excelente fuente de proteína vegetal, hierro y fibra soluble que regula la digestión. Esta sopa completa los requerimientos nutricionales de un almuerzo escolar con ingredientes económicos.",
+    "tip_para_mama": "La minestrone mejora al día siguiente cuando todos los sabores se integran. Hacé el doble y guardá la mitad en la heladera hasta 3 días, o congelá sin los fideos para agregar frescos al recalentar.",
+    "imagen_url": "https://images.pexels.com/photos/20150377/pexels-photo-20150377.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 99,
+    "nombre": "Pechugas rellenas de jamón y queso al horno",
+    "descripcion": "Pollo jugoso con interior derretido de jamón y queso. Se parece al cordon bleu pero más fácil y sin freír. En 35 minutos tenés un almuerzo que parece de restaurante.",
+    "categoria": "almuerzo",
+    "tiempo_preparacion": 35,
+    "porciones": 4,
+    "nivel_dificultad": "medio",
+    "edad_minima": 3,
+    "lista_en_minutos": 35,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": false,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "indice_popularidad": 5,
+    "ingredientes": [
+      {
+        "nombre": "pechugas de pollo",
+        "cantidad": "4",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "jamón cocido",
+        "cantidad": "8",
+        "unidad": "fetas"
+      },
+      {
+        "nombre": "queso muzzarella o cremoso",
+        "cantidad": "150",
+        "unidad": "g"
+      },
+      {
+        "nombre": "pan rallado",
+        "cantidad": "1/2",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "huevo",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "mostaza",
+        "cantidad": "1",
+        "unidad": "cucharada"
+      },
+      {
+        "nombre": "sal, pimienta, ajo en polvo, orégano",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Precalentás el horno a 200°C.",
+      "Con un cuchillo afilado hacés un corte profundo a lo largo de cada pechuga para formar un bolsillo sin llegar a atravesarla.",
+      "Rellenás cada pechuga con 2 fetas de jamón y una porción de queso. Cerrás con palillos si es necesario.",
+      "Pasás cada pechuga rellena por huevo batido con mostaza y luego por pan rallado condimentado con sal, pimienta, ajo en polvo y orégano.",
+      "Acomodás en una fuente aceitada y rociás con un hilito de aceite.",
+      "Cocinás 25-30 minutos hasta que el pollo esté bien cocido y el rebozado dorado. Si el queso empieza a salir, es que están listas."
+    ],
+    "tip_nutricional": "El pollo aporta proteína de alto valor biológico con poca grasa saturada. El queso suma calcio y zinc fundamentales en la etapa de crecimiento. Horneado en lugar de frito mantiene los nutrientes sin el exceso de aceite.",
+    "tip_para_mama": "Frías también están riquísimas y se pueden cortar en medallones para la vianda. Preparalas la noche anterior y el día siguiente solo calentás en el horno 10 minutos o las mandás frías al colegio.",
+    "imagen_url": "https://images.pexels.com/photos/31768243/pexels-photo-31768243.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 100,
+    "nombre": "Pollo a la naranja con arroz jazmín",
+    "descripcion": "Pollo tierno con salsa agridulce de naranja natural, servido sobre arroz jazmín perfumado. Un plato diferente que amplía el paladar de los chicos con sabores nuevos.",
+    "categoria": "almuerzo",
+    "tiempo_preparacion": 35,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "edad_minima": 3,
+    "lista_en_minutos": 35,
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "muslos o pechugas de pollo",
+        "cantidad": "600",
+        "unidad": "g"
+      },
+      {
+        "nombre": "naranjas",
+        "cantidad": "3",
+        "unidad": "unidades (jugo y ralladura)"
+      },
+      {
+        "nombre": "arroz jazmín o arroz blanco largo",
+        "cantidad": "1.5",
+        "unidad": "tazas"
+      },
+      {
+        "nombre": "miel",
+        "cantidad": "2",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "salsa de soja baja en sodio",
+        "cantidad": "2",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "2",
+        "unidad": "dientes"
+      },
+      {
+        "nombre": "almidón de maíz",
+        "cantidad": "1",
+        "unidad": "cucharada"
+      },
+      {
+        "nombre": "sal, aceite",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cocinás el arroz en agua con sal según las instrucciones del paquete. Reservás.",
+      "Mezclás el jugo de naranja, la ralladura, la miel, la soja y el almidón disuelto en 2 cucharadas de agua fría.",
+      "En una sartén grande con aceite a fuego fuerte, dorás el pollo troceado con sal y el ajo picado, 4 minutos por lado.",
+      "Volcás la salsa de naranja sobre el pollo y cocinás a fuego medio 10 minutos revolviendo hasta que la salsa espese y brille.",
+      "Rectificás sal y servís sobre el arroz."
+    ],
+    "tip_nutricional": "La naranja aporta vitamina C que no solo beneficia las defensas sino que también mejora la absorción del hierro del pollo. La salsa de soja baja en sodio da umami sin exceso de sal.",
+    "tip_para_mama": "Si tu hijo es sensible al agridulce, reducí la naranja a 2 y aumentá la miel. La salsa queda más dulce y suave. También podés usar mandarina en lugar de naranja para un sabor más suave.",
+    "imagen_url": "https://images.pexels.com/photos/12916879/pexels-photo-12916879.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 101,
+    "nombre": "Quesadillas de pollo y morrón",
+    "descripcion": "Cena rápida y crujiente lista en 15 minutos. Tortillas de trigo con pollo desmenuzado, morrón asado y queso derretido. Los chicos las comen solos sin quejarse.",
+    "categoria": "cena",
+    "tiempo_preparacion": 15,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "edad_minima": 3,
+    "lista_en_minutos": 15,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": false,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "indice_popularidad": 5,
+    "ingredientes": [
+      {
+        "nombre": "tortillas de trigo medianas",
+        "cantidad": "8",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "pechuga de pollo cocida y desmenuzada",
+        "cantidad": "300",
+        "unidad": "g"
+      },
+      {
+        "nombre": "morrón rojo asado (en lata o fresco asado)",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "queso muzzarella rallado",
+        "cantidad": "200",
+        "unidad": "g"
+      },
+      {
+        "nombre": "cebolla de verdeo",
+        "cantidad": "2",
+        "unidad": "ramas"
+      },
+      {
+        "nombre": "sal, orégano, aceite",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Mezclás el pollo desmenuzado con el morrón en tiritas, la cebolla de verdeo picada, sal y orégano.",
+      "En una sartén o plancha caliente sin aceite, ponés una tortilla. La cubrís con una capa de queso rallado, luego el relleno de pollo y otra capa de queso.",
+      "Tapás con otra tortilla y aplastás levemente.",
+      "Cocinás 2-3 minutos hasta que la base esté crocante y el queso empiece a derretirse. Con cuidado dás vuelta con dos espátulas y cocinás 2 minutos más.",
+      "Cortás en cuartos como una pizza y servís de inmediato.",
+      "Repetís con las tortillas restantes."
+    ],
+    "tip_nutricional": "La tortilla de trigo más el pollo más el queso conforman una cena con los tres macronutrientes balanceados. El morrón aporta el doble de vitamina C que la naranja, potenciando la absorción del hierro del pollo.",
+    "tip_para_mama": "Podés armar las quesadillas sin cocinar y llevarlas a la vianda. En el colegio se comen frías y están igual de ricas. También podés hacer versión vegetariana con porotos negros y choclo en lugar del pollo.",
+    "imagen_url": "https://images.pexels.com/photos/14930606/pexels-photo-14930606.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 102,
+    "nombre": "Sopa de lentejas rojas con cúrcuma",
+    "descripcion": "Sopa cremosa y dorada sin necesidad de procesar. Las lentejas rojas se deshacen solas dando una textura aterciopelada. Reconfortante, anti-inflamatoria y lista en 30 minutos.",
+    "categoria": "cena",
+    "tiempo_preparacion": 30,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "edad_minima": 1,
+    "lista_en_minutos": 30,
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "lentejas rojas (peladas)",
+        "cantidad": "300",
+        "unidad": "g"
+      },
+      {
+        "nombre": "caldo de verdura",
+        "cantidad": "1.2",
+        "unidad": "litros"
+      },
+      {
+        "nombre": "cebolla",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "2",
+        "unidad": "dientes"
+      },
+      {
+        "nombre": "zanahoria",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "cúrcuma en polvo",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "comino en polvo",
+        "cantidad": "1/2",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "1",
+        "unidad": "cucharada"
+      },
+      {
+        "nombre": "sal, aceite de oliva",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Las lentejas rojas no necesitan remojo. Las enjuagás bajo el agua fría.",
+      "En una olla con aceite sofreís la cebolla y el ajo picados 3 minutos. Agregás la zanahoria en rodajas, la cúrcuma y el comino. Cocinás 2 minutos más.",
+      "Sumás las lentejas y el caldo caliente. Llevás a hervor, bajás el fuego y cocinás 20 minutos sin tapa, revolviendo ocasionalmente.",
+      "Las lentejas se van deshaciendo solas formando una sopa espesa. Si quedó muy espesa, agregás un poco más de caldo.",
+      "Apagás el fuego, agregás el jugo de limón y rectificás sal.",
+      "Servís con un hilito de aceite de oliva crudo encima."
+    ],
+    "tip_nutricional": "La cúrcuma contiene curcumina, uno de los antiinflamatorios naturales más potentes. Combinada con lentejas rojas —ricas en hierro y proteína— forma una cena con propiedades inmunomoduladoras ideales para el invierno.",
+    "tip_para_mama": "Las lentejas rojas son las más fáciles para introducir legumbres en los chicos porque se deshacen y no se notan. Si tu hijo rechaza los trozos de verdura, procesá todo con una licuadora de mano para una crema sedosa.",
+    "imagen_url": "https://images.pexels.com/photos/15655219/pexels-photo-15655219.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 103,
+    "nombre": "Peceto frío con ensalada de papas y zanahoria",
+    "descripcion": "La clásica ensalada de papas argentina potenciada con peceto tierno. Un plato que puede prepararse el día anterior y que frío en la vianda llega perfecto al mediodía.",
+    "categoria": "cena",
+    "tiempo_preparacion": 50,
+    "porciones": 6,
+    "nivel_dificultad": "facil",
+    "edad_minima": 3,
+    "lista_en_minutos": 50,
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "peceto",
+        "cantidad": "600",
+        "unidad": "g"
+      },
+      {
+        "nombre": "papa",
+        "cantidad": "4",
+        "unidad": "unidades medianas"
+      },
+      {
+        "nombre": "zanahoria",
+        "cantidad": "3",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "arvejas en lata",
+        "cantidad": "1",
+        "unidad": "lata (400 g)"
+      },
+      {
+        "nombre": "huevos duros",
+        "cantidad": "3",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "mayonesa",
+        "cantidad": "4",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "mostaza",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "sal, pimienta, laurel",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Hervís el peceto en agua con sal, una hoja de laurel y pimienta en grano por 40 minutos hasta que esté bien tierno. Dejás enfriar en el caldo.",
+      "Mientras tanto, hervís las papas y zanahorias peladas en cubos hasta que estén tiernas (15 minutos). Escurrís y dejás enfriar.",
+      "Cocinás los huevos duros 10 minutos en agua hirviendo. Pelás y cortás en rodajas.",
+      "Cortás el peceto en láminas finas contra la fibra.",
+      "Mezclás las papas y zanahorias con las arvejas escurridas, la mayonesa y la mostaza. Salpimentás.",
+      "Servís la ensalada de papas con el peceto laminado encima y los huevos duros al costado."
+    ],
+    "tip_nutricional": "El peceto es uno de los cortes más magros de la vaca con alto contenido de hierro y zinc. Las papas con arvejas suman fibra, vitamina C y folato para un plato nutricionalmente completo.",
+    "tip_para_mama": "Hacé el peceto y la ensalada de papas el domingo y tenés cenas listas para lunes y martes. Se conserva 3 días en la heladera. La porción fría en tupper es perfecta para la vianda.",
+    "imagen_url": "https://images.pexels.com/photos/29030333/pexels-photo-29030333.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 104,
+    "nombre": "Papas rellenas de carne picada al horno",
+    "descripcion": "Papas enteras vaciadas y rellenas con carne picada especiada, cubiertas de queso derretido. Un plato que impresiona y que los chicos comen entero sin que les quede nada.",
+    "categoria": "cena",
+    "tiempo_preparacion": 55,
+    "porciones": 4,
+    "nivel_dificultad": "medio",
+    "edad_minima": 3,
+    "lista_en_minutos": 55,
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "indice_popularidad": 5,
+    "ingredientes": [
+      {
+        "nombre": "papas grandes",
+        "cantidad": "4",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "carne picada",
+        "cantidad": "300",
+        "unidad": "g"
+      },
+      {
+        "nombre": "cebolla",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "tomate perita",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "queso muzzarella o cremoso",
+        "cantidad": "100",
+        "unidad": "g"
+      },
+      {
+        "nombre": "aceitunas verdes (opcional)",
+        "cantidad": "6",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "pimentón, comino, orégano, sal, aceite",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Lavás bien las papas y las cocinás enteras en microondas 10-12 minutos o hervidas 20 minutos hasta que estén tiernas.",
+      "Las dejás enfriar un poco, les cortás la tapa superior y con una cuchara las vaciás dejando una pared de 1 cm. Reservás la pulpa.",
+      "Sofreís la cebolla picada en aceite, agregás la carne y la cocinás hasta que cambie de color. Sumás el tomate picado, los condimentos y la pulpa de papa aplastada. Cocinás 5 minutos.",
+      "Rellenás las papas con la mezcla de carne, cubrís con queso en trocitos.",
+      "Las ponés en una fuente para horno y cocinás a 200°C por 15-20 minutos hasta que el queso esté dorado y burbujee.",
+      "Servís calientes con una cucharadita de crema ácida o yogur natural encima si querés."
+    ],
+    "tip_nutricional": "La papa con cáscara concentra el potasio y la vitamina C; al comerla rellena se aprovecha toda la fibra que normalmente se desecha. La carne suma hierro hemo biodisponible esencial para el crecimiento.",
+    "tip_para_mama": "Las papas rellenas crudas (antes del horneado final) se pueden congelar. Sacalas del freezer directo al horno a 180°C por 35 minutos. También son espectaculares frías en la vianda del día siguiente.",
+    "imagen_url": "https://images.pexels.com/photos/31953510/pexels-photo-31953510.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 105,
+    "nombre": "Polenta cremosa con salsa de tomate y muzzarella",
+    "descripcion": "Cena reconfortante, rápida y sin gluten. La polenta cremosa como base con salsa de tomate casera y queso derretido encima es el comfort food más fácil del invierno.",
+    "categoria": "cena",
+    "tiempo_preparacion": 25,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "edad_minima": 1,
+    "lista_en_minutos": 25,
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "polenta precocida",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "leche",
+        "cantidad": "2",
+        "unidad": "tazas"
+      },
+      {
+        "nombre": "agua",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "queso parmesano rallado",
+        "cantidad": "50",
+        "unidad": "g"
+      },
+      {
+        "nombre": "manteca",
+        "cantidad": "20",
+        "unidad": "g"
+      },
+      {
+        "nombre": "tomate triturado en lata",
+        "cantidad": "400",
+        "unidad": "g"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "2",
+        "unidad": "dientes"
+      },
+      {
+        "nombre": "muzzarella",
+        "cantidad": "150",
+        "unidad": "g"
+      },
+      {
+        "nombre": "sal, azúcar, orégano, albahaca, aceite",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Para la salsa: sofreís el ajo picado en aceite, agregás el tomate triturado, una pizca de azúcar, sal y orégano. Cocinás a fuego medio 10 minutos.",
+      "Para la polenta: hervís la leche con el agua y sal. Cuando rompe el hervor agregás la polenta en lluvia revolviendo constantemente.",
+      "Cocinás a fuego bajo 5 minutos revolviendo sin parar hasta que espese. Apagás el fuego y agregás la manteca y el parmesano. Mezclás.",
+      "Servís la polenta caliente en platos hondos, ponés la salsa de tomate encima y cubrís con trozos de muzzarella.",
+      "Si querés que el queso se derrita más, metés los platos al horno o en el microondas 1 minuto antes de servir."
+    ],
+    "tip_nutricional": "La polenta de maíz es una excelente fuente de carbohidratos sin gluten, ideal para chicos celíacos. Con leche y queso suma calcio; la salsa de tomate aporta licopeno, antioxidante que se potencia con el calor.",
+    "tip_para_mama": "La polenta que sobra se puede volcar en una fuente aceitada, dejar enfriar hasta que solidifique, cortar en bastones y hornear o freír: quedan crujientes y son otro snack riquísimo.",
+    "imagen_url": "https://images.pexels.com/photos/921362/pexels-photo-921362.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 106,
+    "nombre": "Tortitas de maíz con queso y miel",
+    "descripcion": "Pequeñas tortitas sin gluten hechas con harina de maíz, doradas en sartén. Solas con queso y miel son el snack más sencillo y rendidor para la merienda o la vianda.",
+    "categoria": "merienda",
+    "tiempo_preparacion": 20,
+    "porciones": 10,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 20,
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "harina de maíz fina (polenta fina o harina de choclo)",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "queso crema",
+        "cantidad": "100",
+        "unidad": "g"
+      },
+      {
+        "nombre": "huevo",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "miel",
+        "cantidad": "1",
+        "unidad": "cucharada"
+      },
+      {
+        "nombre": "sal",
+        "cantidad": "1",
+        "unidad": "pizca"
+      },
+      {
+        "nombre": "agua tibia",
+        "cantidad": "3",
+        "unidad": "cucharadas"
+      }
+    ],
+    "pasos": [
+      "Mezclás la harina de maíz con la sal en un bowl.",
+      "Agregás el queso crema, el huevo, la miel y el agua tibia. Mezclás con tenedor hasta obtener una masa blanda que se pueda moldear.",
+      "Formás bolitas del tamaño de una pelota de golf y las aplastás con la palma de la mano para hacer medallones de 1 cm de alto.",
+      "En una sartén antiadherente con unas gotitas de aceite a fuego medio-bajo, cocinás las tortitas 3-4 minutos por lado hasta que estén doradas.",
+      "Servís con un hilito extra de miel o con queso crema al costado."
+    ],
+    "tip_nutricional": "La harina de maíz es naturalmente sin gluten y aporta carbohidratos de absorción media que dan energía sostenida en la tarde. Libre de trigo, es ideal para chicos celíacos o con sensibilidad al gluten.",
+    "tip_para_mama": "Se hacen en 20 minutos y se guardan en un frasco hermético hasta 3 días. Frías en la vianda también están riquísimas. Podés hacerlas en versión salada reemplazando la miel por queso rallado y hierbas.",
+    "imagen_url": "https://images.pexels.com/photos/28445592/pexels-photo-28445592.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 107,
+    "nombre": "Dip de palta y yogur con grisines",
+    "descripcion": "Dip cremoso y saludable listo en 5 minutos. La palta con yogur es más suave que el guacamole tradicional y perfecta para mojar grisines o bastones de verdura en la merienda.",
+    "categoria": "merienda",
+    "tiempo_preparacion": 5,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "edad_minima": 1,
+    "lista_en_minutos": 5,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": false,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "palta madura",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "yogur natural entero",
+        "cantidad": "3",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "1",
+        "unidad": "cucharada"
+      },
+      {
+        "nombre": "sal",
+        "cantidad": "1",
+        "unidad": "pizca"
+      },
+      {
+        "nombre": "grisines o bastones de zanahoria y pepino",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Abrís las paltas, sacás la semilla y raspás la pulpa con una cuchara.",
+      "En un bowl aplastás la palta con un tenedor hasta obtener una pasta suave (podés dejar algunos trocitos para textura).",
+      "Agregás el yogur, el jugo de limón y la sal. Mezclás bien.",
+      "Probás y ajustás el limón o la sal a gusto.",
+      "Servís de inmediato en un plato con los grisines al costado para mojar.",
+      "Si lo preparás con anticipación, cubrís la superficie con papel film tocando el dip para evitar que se oxide."
+    ],
+    "tip_nutricional": "La palta aporta grasas monoinsaturadas que mejoran la absorción de vitaminas liposolubles A, D, E y K. El yogur suma calcio y probióticos. Juntos forman un dip nutricionalmente potente sin aditivos.",
+    "tip_para_mama": "Guardalo en un tupper bien tapado en la heladera hasta 24 horas. El limón ayuda a que no se oxide y mantenga el color verde. Podés mandarlo a la vianda con los grisines en bolsita separada.",
+    "imagen_url": "https://images.pexels.com/photos/14989830/pexels-photo-14989830.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 108,
+    "nombre": "Alfajorcitos de avena con dulce de leche",
+    "descripcion": "Alfajorcitos caseros con masa de avena y relleno de dulce de leche. Sin manteca, más nutritivos que los industriales y con el mismo sabor que conquista a chicos de todas las edades.",
+    "categoria": "merienda",
+    "tiempo_preparacion": 35,
+    "porciones": 15,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 35,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": false,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 5,
+    "ingredientes": [
+      {
+        "nombre": "avena arrollada molida (en licuadora)",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "harina integral",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "aceite de girasol",
+        "cantidad": "1/3",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "miel",
+        "cantidad": "3",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "huevo",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "extracto de vainilla",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "polvo de hornear",
+        "cantidad": "1/2",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "dulce de leche repostero",
+        "cantidad": "200",
+        "unidad": "g"
+      }
+    ],
+    "pasos": [
+      "Precalentás el horno a 170°C y preparás una placa con papel manteca.",
+      "Molés la avena en licuadora hasta obtener una harina gruesa.",
+      "Mezclás la harina de avena con la harina integral y el polvo de hornear.",
+      "En otro bowl batís el aceite con la miel, el huevo y la vainilla. Agregás los ingredientes secos y mezclás hasta formar una masa que no se pegue. Si es necesario, añadís una cucharada de agua.",
+      "Estirás la masa entre dos papeles manteca hasta 5 mm de grosor. Cortás con cortante redondo pequeño (5 cm).",
+      "Cocinás 10-12 minutos hasta que los bordes estén apenas dorados. Dejás enfriar completamente.",
+      "Untás la mitad de las galletas con dulce de leche y tapás con la otra mitad."
+    ],
+    "tip_nutricional": "La avena molida aporta beta-glucano, fibra soluble que ayuda a mantener la glucosa estable y da saciedad duradera. Estos alfajorcitos tienen mucho menos azúcar que los industriales y más fibra real.",
+    "tip_para_mama": "Las galletas solas (sin relleno) se guardan en lata hasta 2 semanas. Rellenás a medida que los necesitás para que no se ablanden. Un alfajorcito en la vianda es el snack favorito que no genera peleas.",
+    "imagen_url": "https://images.pexels.com/photos/34520946/pexels-photo-34520946.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 109,
+    "nombre": "Rollitos de jamón, queso y pepino",
+    "descripcion": "Snack sin cocción, sin horno y sin ensuciar. Fetas de jamón enrolladas con queso crema y bastones de pepino. Frescos, crujientes y perfectos para la vianda del verano.",
+    "categoria": "merienda",
+    "tiempo_preparacion": 10,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 10,
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "jamón cocido en fetas",
+        "cantidad": "8",
+        "unidad": "fetas"
+      },
+      {
+        "nombre": "queso crema",
+        "cantidad": "100",
+        "unidad": "g"
+      },
+      {
+        "nombre": "pepino",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "queso parmesano rallado",
+        "cantidad": "2",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "orégano o ciboulette picado",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Mezclás el queso crema con el parmesano rallado y el orégano hasta obtener una pasta sabrosa.",
+      "Lavás el pepino y lo cortás en bastones del largo de las fetas de jamón.",
+      "Extendés cada feta de jamón sobre la mesada, untás una capa fina de la mezcla de queso crema.",
+      "Colocás un bastón de pepino en el borde y enrollás el jamón bien ajustado.",
+      "Cerrás con un palillo si es necesario para que no se desarme.",
+      "Guardás en la heladera hasta el momento de servir. Si van a la vianda, los ponés en un tupper pequeño con la tapa bien cerrada."
+    ],
+    "tip_nutricional": "El pepino tiene 96% de agua, lo que lo convierte en uno de los alimentos más hidratantes. El jamón cocido aporta proteínas y el queso crema calcio y vitamina A, todo en un bocado fresco y completo.",
+    "tip_para_mama": "Estos rollitos se hacen en 10 minutos la noche anterior y aguantan hasta el mediodía en la vianda sin perder textura. Son la opción perfecta para días de calor cuando no querés encender el horno.",
+    "imagen_url": "https://images.pexels.com/photos/30790363/pexels-photo-30790363.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 110,
+    "nombre": "Scones de queso y ciboulette",
+    "descripcion": "Scones saladitos tiernos por dentro y crocantes por fuera. Con queso derretido y ciboulette fragante. Listos en 25 minutos y perfectos para la merienda o la vianda.",
+    "categoria": "merienda",
+    "tiempo_preparacion": 25,
+    "porciones": 10,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 25,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": false,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "harina 0000",
+        "cantidad": "2",
+        "unidad": "tazas"
+      },
+      {
+        "nombre": "polvo de hornear",
+        "cantidad": "2",
+        "unidad": "cucharaditas"
+      },
+      {
+        "nombre": "manteca fría en cubos",
+        "cantidad": "60",
+        "unidad": "g"
+      },
+      {
+        "nombre": "leche fría",
+        "cantidad": "2/3",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "queso rallado (tipo sardo o parmesano)",
+        "cantidad": "3/4",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "ciboulette o cebolla de verdeo picado",
+        "cantidad": "2",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "huevo",
+        "cantidad": "1",
+        "unidad": "unidad (para pintar)"
+      },
+      {
+        "nombre": "sal",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      }
+    ],
+    "pasos": [
+      "Precalentás el horno a 200°C y preparás una placa con papel manteca.",
+      "En un bowl mezclás la harina con el polvo de hornear y la sal.",
+      "Incorporás la manteca fría en cubos y la trabajás con los dedos frotando rápidamente hasta que quede una arena gruesa.",
+      "Agregás el queso rallado y el ciboulette. Mezclás.",
+      "Sumás la leche fría de a poco y mezclás con tenedor hasta que la masa se una (no amasés de más, sino los scones quedan duros).",
+      "Extendés en la mesada enharinada a 2 cm de grosor y cortás con cortante redondo o cuadrado.",
+      "Pintás con huevo batido y cocinás 18-20 minutos hasta que estén dorados."
+    ],
+    "tip_nutricional": "El ciboulette pertenece a la familia de las cebollas y contiene compuestos azufrados que apoyan el sistema inmune. Junto al queso y la harina, estos scones aportan calcio, hierro y vitaminas del grupo B.",
+    "tip_para_mama": "Los scones se congelan perfectamente una vez horneados. Se recalientan en el horno a 180°C por 8 minutos. Preparalos los domingos y tenés merienda lista toda la semana.",
+    "imagen_url": "https://images.pexels.com/photos/13427918/pexels-photo-13427918.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 111,
+    "nombre": "Semifrío de durazno y crema",
+    "descripcion": "Postre helado sin máquina de helados. Cremoso, frutal y con una textura que enamora. Requiere 4 horas de freezer pero solo 15 minutos de trabajo real.",
+    "categoria": "postre",
+    "tiempo_preparacion": 15,
+    "porciones": 8,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 255,
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 5,
+    "ingredientes": [
+      {
+        "nombre": "duraznos en almíbar natural (lata)",
+        "cantidad": "2",
+        "unidad": "latas (420 g c/u)"
+      },
+      {
+        "nombre": "crema de leche",
+        "cantidad": "300",
+        "unidad": "ml"
+      },
+      {
+        "nombre": "leche condensada",
+        "cantidad": "1/2",
+        "unidad": "lata (200 g)"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "2",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "gelatina sin sabor",
+        "cantidad": "1",
+        "unidad": "sobre (7 g)"
+      }
+    ],
+    "pasos": [
+      "Escurrís los duraznos del almíbar y los procesás en licuadora o con mixer hasta obtener un puré liso. Reservás.",
+      "Hidratás la gelatina en 3 cucharadas de agua fría 5 minutos. La disolvés en microondas 20 segundos o a baño maría.",
+      "Mezclás el puré de durazno con la leche condensada, el jugo de limón y la gelatina disuelta.",
+      "Batís la crema de leche a punto chantilly (hasta que forme picos firmes).",
+      "Integrás la crema batida al puré con movimientos envolventes.",
+      "Volcás en un molde tipo budinera forrado con film. Llevás al freezer mínimo 4 horas o toda la noche.",
+      "Para servir, desmoldás sobre una fuente, sacás el film y cortás en rodajas."
+    ],
+    "tip_nutricional": "Los duraznos aportan betacaroteno, vitamina A y antioxidantes naturales. El postre tiene menos azúcar que uno convencional porque la dulzura viene de la fruta y la leche condensada en proporción moderada.",
+    "tip_para_mama": "Es el postre ideal para hacer el día anterior y tenerlo listo para cualquier cumpleaños o reunión familiar. Se mantiene hasta 2 semanas en el freezer bien tapado.",
+    "imagen_url": "https://images.pexels.com/photos/34636906/pexels-photo-34636906.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 112,
+    "nombre": "Torta invertida de ananá",
+    "descripcion": "Un clásico de las cocinas argentinas que nunca falla. Rodajas de ananá caramelizadas al fondo del molde que al desmoldar forman la decoración perfecta. Sin necesidad de glasear.",
+    "categoria": "postre",
+    "tiempo_preparacion": 50,
+    "porciones": 8,
+    "nivel_dificultad": "medio",
+    "edad_minima": 3,
+    "lista_en_minutos": 50,
+    "apta_vianda": false,
+    "sin_gluten": false,
+    "sin_lacteos": false,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 5,
+    "ingredientes": [
+      {
+        "nombre": "ananá en rodajas en almíbar (lata)",
+        "cantidad": "1",
+        "unidad": "lata (565 g)"
+      },
+      {
+        "nombre": "azúcar mascabo o común",
+        "cantidad": "1/2",
+        "unidad": "taza (para el caramelo)"
+      },
+      {
+        "nombre": "manteca",
+        "cantidad": "50",
+        "unidad": "g (para el caramelo)"
+      },
+      {
+        "nombre": "huevos",
+        "cantidad": "3",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "azúcar",
+        "cantidad": "3/4",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "aceite de girasol",
+        "cantidad": "1/3",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "harina 0000",
+        "cantidad": "1.5",
+        "unidad": "tazas"
+      },
+      {
+        "nombre": "polvo de hornear",
+        "cantidad": "2",
+        "unidad": "cucharaditas"
+      },
+      {
+        "nombre": "vainilla",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "leche",
+        "cantidad": "1/3",
+        "unidad": "taza"
+      }
+    ],
+    "pasos": [
+      "Precalentás el horno a 175°C. En una sartén a fuego medio derretís la manteca con el azúcar mascabo revolviendo hasta obtener un caramelo oscuro. Lo volcás en el fondo del molde desmontable o budinera.",
+      "Escurrís el ananá y acomodás las rodajas sobre el caramelo formando una capa decorativa. Reservás.",
+      "Para la masa: batís los huevos con el azúcar hasta que queden espumosos. Agregás el aceite y la vainilla.",
+      "Incorporás la harina con el polvo de hornear alternando con la leche. Mezclás hasta obtener una masa lisa.",
+      "Volcás la masa sobre el ananá y el caramelo suavemente.",
+      "Cocinás 35-40 minutos hasta que al pinchar con un palillo salga limpio. Dejás enfriar 10 minutos y desmoldás dado vuelta sobre una fuente."
+    ],
+    "tip_nutricional": "El ananá contiene bromelina, una enzima que mejora la digestión de proteínas. Aporta vitamina C y manganeso, mineral importante para el desarrollo óseo infantil.",
+    "tip_para_mama": "Servila tibia con una bocha de helado de vainilla o una cucharada de crema batida. Se conserva a temperatura ambiente 2 días cubierta, o en la heladera hasta 5 días.",
+    "imagen_url": "https://images.pexels.com/photos/13963474/pexels-photo-13963474.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 113,
+    "nombre": "Alfajores de maicena con dulce de leche",
+    "descripcion": "Los alfajores más tiernos que existen. La masa de maicena literalmente se deshace en la boca. Rellenos de dulce de leche y rebozados en coco rallado, son el postre favorito de Argentina.",
+    "categoria": "postre",
+    "tiempo_preparacion": 40,
+    "porciones": 20,
+    "nivel_dificultad": "medio",
+    "edad_minima": 3,
+    "lista_en_minutos": 40,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": false,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 5,
+    "ingredientes": [
+      {
+        "nombre": "almidón de maíz (maicena)",
+        "cantidad": "200",
+        "unidad": "g"
+      },
+      {
+        "nombre": "harina 0000",
+        "cantidad": "100",
+        "unidad": "g"
+      },
+      {
+        "nombre": "manteca a temperatura ambiente",
+        "cantidad": "150",
+        "unidad": "g"
+      },
+      {
+        "nombre": "azúcar impalpable",
+        "cantidad": "100",
+        "unidad": "g"
+      },
+      {
+        "nombre": "huevos",
+        "cantidad": "2",
+        "unidad": "yemas"
+      },
+      {
+        "nombre": "extracto de vainilla",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "polvo de hornear",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "dulce de leche repostero",
+        "cantidad": "300",
+        "unidad": "g"
+      },
+      {
+        "nombre": "coco rallado fino",
+        "cantidad": "100",
+        "unidad": "g"
+      }
+    ],
+    "pasos": [
+      "Batís la manteca con el azúcar impalpable hasta obtener una crema blanca y esponjosa.",
+      "Agregás las yemas de a una y la vainilla. Seguís batiendo.",
+      "Incorporás la maicena y la harina tamizadas con el polvo de hornear. Mezclás con espátula hasta obtener una masa suave que no se pegue. Si es necesario, agregás una cucharadita de agua fría.",
+      "Envolvés en film y refrigerás 20 minutos.",
+      "Precalentás el horno a 170°C. Estirás la masa a 5 mm de grosor y cortás con cortante redondo de 4 cm.",
+      "Cocinás 10-12 minutos (las tapas no deben dorarse, tienen que quedar blancas y pálidas). Dejás enfriar completamente.",
+      "Untás generosamente con dulce de leche y unís de a pares. Pasás los bordes por coco rallado."
+    ],
+    "tip_nutricional": "La maicena da una textura única que es más fácil de masticar para los chicos pequeños que las galletitas de harina común. El dulce de leche aporta calcio de la leche en una forma que todos aceptan con gusto.",
+    "tip_para_mama": "Las tapas solas se conservan en lata hasta 2 semanas. Rellenás el día anterior para que el alfajor absorba el dulce y quede más jugoso. Una vez rellenos se guardan en heladera hasta 5 días.",
+    "imagen_url": "https://images.pexels.com/photos/34520946/pexels-photo-34520946.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 114,
+    "nombre": "Pionono de frutillas y crema",
+    "descripcion": "Bizcochuelo finito enrollado con crema chantilly y frutillas frescas. Elegante, esponjoso y con sabor de cumpleaños. Más fácil de hacer de lo que parece.",
+    "categoria": "postre",
+    "tiempo_preparacion": 35,
+    "porciones": 8,
+    "nivel_dificultad": "medio",
+    "edad_minima": 3,
+    "lista_en_minutos": 35,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": false,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 5,
+    "ingredientes": [
+      {
+        "nombre": "huevos",
+        "cantidad": "4",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "azúcar",
+        "cantidad": "100",
+        "unidad": "g"
+      },
+      {
+        "nombre": "harina 0000",
+        "cantidad": "100",
+        "unidad": "g"
+      },
+      {
+        "nombre": "extracto de vainilla",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "crema de leche",
+        "cantidad": "300",
+        "unidad": "ml"
+      },
+      {
+        "nombre": "azúcar impalpable",
+        "cantidad": "2",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "frutillas frescas",
+        "cantidad": "300",
+        "unidad": "g"
+      }
+    ],
+    "pasos": [
+      "Precalentás el horno a 180°C. Forrás una asadera grande (30x40 cm) con papel manteca aceitado.",
+      "Batís los huevos con el azúcar a máxima velocidad 8-10 minutos hasta que tripliquen el volumen y queden bien espumosos y claros.",
+      "Incorporás la vainilla y la harina tamizada con movimientos envolventes, cuidando de no perder el aire.",
+      "Volcás la mezcla sobre la asadera y extendés de manera pareja.",
+      "Cocinás 12-15 minutos hasta que esté dorado y al tocarlo vuelve. Volcás inmediatamente sobre un repasador húmedo espolvoreado con azúcar. Retirás el papel y enrollás el bizcochuelo con el repasador. Dejás enfriar.",
+      "Batís la crema con el azúcar impalpable a punto chantilly. Cortás las frutillas en rodajas.",
+      "Desenrollás, cubrís con la crema y las frutillas y volvés a enrollar. Refrigerás 30 minutos y espolvoreás con azúcar impalpable antes de servir."
+    ],
+    "tip_nutricional": "Las frutillas son la fruta con mayor concentración de vitamina C por porción. La crema de leche aporta vitaminas A y D liposolubles. Es un postre de cumpleaños que no tiene que envidiarnos nada.",
+    "tip_para_mama": "El truco de enrollar el bizcochuelo caliente con el repasador húmedo es clave para que no se rompa. Una vez frío es flexible y se rellena sin problemas. Se mantiene en la heladera hasta 2 días.",
+    "imagen_url": "https://images.pexels.com/photos/4686817/pexels-photo-4686817.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 115,
+    "nombre": "Tarta de ricota y dulce de leche sin bordes",
+    "descripcion": "Una torta-tarta sin masa de bordes: solo base de galleta, relleno cremoso de ricota y capa de dulce de leche arriba. Sin horno para la parte más fácil del mundo.",
+    "categoria": "postre",
+    "tiempo_preparacion": 20,
+    "porciones": 8,
+    "nivel_dificultad": "facil",
+    "edad_minima": 3,
+    "lista_en_minutos": 140,
+    "apta_vianda": false,
+    "sin_gluten": false,
+    "sin_lacteos": false,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 5,
+    "ingredientes": [
+      {
+        "nombre": "galletitas de vainilla o chocolate",
+        "cantidad": "200",
+        "unidad": "g"
+      },
+      {
+        "nombre": "manteca derretida",
+        "cantidad": "80",
+        "unidad": "g"
+      },
+      {
+        "nombre": "ricota",
+        "cantidad": "500",
+        "unidad": "g"
+      },
+      {
+        "nombre": "azúcar",
+        "cantidad": "4",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "extracto de vainilla",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "gelatina sin sabor",
+        "cantidad": "1",
+        "unidad": "sobre (7 g)"
+      },
+      {
+        "nombre": "dulce de leche repostero",
+        "cantidad": "300",
+        "unidad": "g"
+      },
+      {
+        "nombre": "huevos",
+        "cantidad": "2",
+        "unidad": "unidades"
+      }
+    ],
+    "pasos": [
+      "Triturás las galletitas en procesadora o en bolsa con palote hasta obtener arena fina. Mezclás con la manteca derretida.",
+      "Volcás la base en un molde desmontable de 22 cm, aplastás bien con una cuchara formando una base pareja. Refrigerás 15 minutos.",
+      "Hidratás la gelatina en 3 cucharadas de agua fría 5 minutos, la disolvés a baño maría.",
+      "Batís la ricota con el azúcar, la vainilla y los huevos hasta que quede cremosa. Incorporás la gelatina.",
+      "Volcás el relleno sobre la base de galletitas.",
+      "Cocinás en horno a 160°C (baño maría opcional) por 30-35 minutos hasta que el centro esté apenas firme.",
+      "Dejás enfriar completamente, luego cubrís con el dulce de leche y refrigerás mínimo 2 horas."
+    ],
+    "tip_nutricional": "La ricota es una de las fuentes lácteas más altas en proteínas con bajo contenido en grasa saturada. Esta tarta aporta calcio, fósforo y proteínas completas en un postre que los chicos esperan todo el fin de semana.",
+    "tip_para_mama": "Podés dejar la tarta en la heladera hasta 3 días. El dulce de leche encima actúa como sellador que mantiene la ricota hidratada. Para una versión sin horno, reemplazás los huevos por 2 sobres de gelatina.",
+    "imagen_url": "https://images.pexels.com/photos/31020417/pexels-photo-31020417.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 116,
+    "nombre": "Licuado de kiwi, espinaca y manzana verde",
+    "descripcion": "Licuado verde que parece de superhéroe. El kiwi y la manzana verde dominan el sabor haciendo que la espinaca pase desapercibida. Lleno de vitamina C, hierro y clorofila.",
+    "categoria": "jugo",
+    "tiempo_preparacion": 5,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 5,
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "kiwi",
+        "cantidad": "3",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "manzana verde",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "espinaca fresca",
+        "cantidad": "1",
+        "unidad": "puñado (30 g)"
+      },
+      {
+        "nombre": "agua fría",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "1",
+        "unidad": "cucharada"
+      },
+      {
+        "nombre": "miel (opcional)",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      }
+    ],
+    "pasos": [
+      "Pelás los kiwis y los cortás en trozos.",
+      "Lavás bien la manzana, la descorazonás y la cortás en trozos (podés dejar la cáscara para más fibra).",
+      "Lavás las hojas de espinaca.",
+      "Ponés todo en la licuadora con el agua fría y el jugo de limón.",
+      "Licuás a máxima velocidad 1 minuto hasta que quede completamente liso.",
+      "Probás y agregás miel si lo querés más dulce. Servís de inmediato con hielo.",
+      "Para la vianda: lo ponés en una botellita cerrada con una rodajita de limón adentro para que no oxide."
+    ],
+    "tip_nutricional": "El kiwi tiene más vitamina C que la naranja por porción. La espinaca aporta hierro no hemo, cuya absorción se duplica gracias a la vitamina C del kiwi y el limón. Un vaso de este licuado cubre más del 100% de la vitamina C diaria.",
+    "tip_para_mama": "Si tu hijo rechaza el color verde, podés reducir la espinaca a la mitad sin cambiar el sabor. A medida que lo va aceptando, aumentás la proporción. Se puede guardar en heladera hasta 24 horas en botella cerrada.",
+    "imagen_url": "https://images.pexels.com/photos/8169572/pexels-photo-8169572.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 117,
+    "nombre": "Agua fresca de ananá y jengibre",
+    "descripcion": "Bebida tropical y digestiva que hidrata de otra manera. El ananá con jengibre y limón es refrescante y anti-inflamatoria. Sin azúcar agregada, lista en 10 minutos.",
+    "categoria": "jugo",
+    "tiempo_preparacion": 10,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 10,
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "ananá fresco o en lata al natural",
+        "cantidad": "2",
+        "unidad": "tazas de cubos"
+      },
+      {
+        "nombre": "jengibre fresco rallado",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "2",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "agua fría",
+        "cantidad": "3",
+        "unidad": "tazas"
+      },
+      {
+        "nombre": "miel o azúcar (opcional)",
+        "cantidad": "1",
+        "unidad": "cucharada"
+      },
+      {
+        "nombre": "hielo",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Licuás el ananá con 1 taza del agua, el jengibre y el jugo de limón hasta que quede bien liso.",
+      "Colás la mezcla a través de un colador fino o lienzo si querés una bebida más clara (opcional, podés dejar la pulpa).",
+      "Mezclás con el resto del agua fría. Probás y agregás miel si lo querés más dulce.",
+      "Servís sobre hielo en vasos altos.",
+      "Para la vianda: guardás en botella plástica en la heladera hasta el día siguiente."
+    ],
+    "tip_nutricional": "El ananá contiene bromelina, enzima que mejora la digestión y tiene efecto anti-inflamatorio. El jengibre potencia la digestión y es antibacteriano natural. Juntos forman una bebida funcional real.",
+    "tip_para_mama": "Si tu hijo encuentra el jengibre muy intenso, reducí a media cucharadita. El agua de ananá sola (sin jengibre) también es deliciosa y aceptable para los paladares más sensibles.",
+    "imagen_url": "https://images.pexels.com/photos/34955/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 118,
+    "nombre": "Horchata de avena con coco y vainilla",
+    "descripcion": "Bebida vegetal cremosa y naturalmente dulce. La horchata de avena con coco es más fácil de hacer que la de arroz y no necesita remojo. Una alternativa a la leche que los chicos adoptan rápido.",
+    "categoria": "jugo",
+    "tiempo_preparacion": 10,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "edad_minima": 1,
+    "lista_en_minutos": 10,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": true,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "avena arrollada",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "agua fría",
+        "cantidad": "3",
+        "unidad": "tazas"
+      },
+      {
+        "nombre": "leche de coco en lata",
+        "cantidad": "1/2",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "extracto de vainilla",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "miel o jarabe de arce",
+        "cantidad": "2",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "canela en polvo",
+        "cantidad": "1",
+        "unidad": "pizca"
+      },
+      {
+        "nombre": "coco rallado sin azúcar (para decorar)",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      }
+    ],
+    "pasos": [
+      "Ponés la avena en la licuadora con 2 tazas de agua fría.",
+      "Licuás 1 minuto a máxima velocidad.",
+      "Colás la mezcla a través de un colador fino o lienzo apretando bien para extraer todo el líquido. Descartás la pulpa o la usás en muffins.",
+      "Al líquido colado le agregás la leche de coco, el agua restante, la vainilla, la miel y la canela.",
+      "Revolvés bien, probás y ajustás el dulzor.",
+      "Servís frío con hielo y un poquito de coco rallado encima."
+    ],
+    "tip_nutricional": "La horchata de avena aporta beta-glucano y hierro vegetal. La leche de coco suma grasas de cadena media que el cuerpo metaboliza rápidamente como energía. Es una opción sin lácteos apta para intolerantes a la lactosa.",
+    "tip_para_mama": "Se guarda en la heladera en una botella cerrada hasta 3 días. Agitá antes de servir porque tiende a separarse. Podés usar la pulpa que sobra del colado para enriquecer muffins o cookies.",
+    "imagen_url": "https://images.pexels.com/photos/3735217/pexels-photo-3735217.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 119,
+    "nombre": "Batido de frambuesa y yogur con miel",
+    "descripcion": "Batido de color intenso y sabor afrutado. Las frambuesas le dan un rosado profundo que a los chicos les encanta. Con yogur queda cremoso y sin necesidad de azúcar.",
+    "categoria": "jugo",
+    "tiempo_preparacion": 5,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "edad_minima": 1,
+    "lista_en_minutos": 5,
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "frambuesas frescas o congeladas",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "yogur natural entero",
+        "cantidad": "1",
+        "unidad": "pote (200 g)"
+      },
+      {
+        "nombre": "leche o bebida vegetal",
+        "cantidad": "1/2",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "miel",
+        "cantidad": "1",
+        "unidad": "cucharada"
+      },
+      {
+        "nombre": "banana (opcional para más cremosidad)",
+        "cantidad": "1/2",
+        "unidad": "unidad"
+      }
+    ],
+    "pasos": [
+      "Si las frambuesas son congeladas, las usás directamente sin descongelar para que el batido quede bien frío.",
+      "Ponés todos los ingredientes en la licuadora.",
+      "Licuás a velocidad alta hasta que quede completamente liso y de color fucsia intenso.",
+      "Probás y ajustás el dulzor con más miel si lo querés.",
+      "Servís de inmediato en vasos. Si querés decorar, dejás unas frambuesas enteras encima."
+    ],
+    "tip_nutricional": "Las frambuesas son de las frutas con mayor concentración de antioxidantes, vitamina C y fibra por porción. El yogur suma probióticos y calcio, haciendo de este batido una bebida que cuida el sistema digestivo e inmune.",
+    "tip_para_mama": "Las frambuesas congeladas son igual de nutritivas que las frescas y están disponibles todo el año en el súper. Comprá en bolsa grande y usalas para smoothies y postres durante meses.",
+    "imagen_url": "https://images.pexels.com/photos/4006347/pexels-photo-4006347.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 120,
+    "nombre": "Smoothie verde de pepino, apio y manzana",
+    "descripcion": "El detox más suave y aceptable para chicos. Sin frutas tropicales, con ingredientes de verdulería de siempre. Hidratante, digestivo y con un sabor limpio y fresco.",
+    "categoria": "jugo",
+    "tiempo_preparacion": 5,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "edad_minima": 3,
+    "lista_en_minutos": 5,
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "indice_popularidad": 3,
+    "ingredientes": [
+      {
+        "nombre": "pepino mediano",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "apio",
+        "cantidad": "2",
+        "unidad": "ramas"
+      },
+      {
+        "nombre": "manzana verde",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "1",
+        "unidad": "cucharada"
+      },
+      {
+        "nombre": "agua fría",
+        "cantidad": "1/2",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "menta fresca",
+        "cantidad": "4",
+        "unidad": "hojas (opcional)"
+      }
+    ],
+    "pasos": [
+      "Lavás bien todos los ingredientes.",
+      "Cortás el pepino en trozos (podés dejar la cáscara si es orgánico).",
+      "Cortás el apio en trozos, descartando las hojas más amargas.",
+      "Descorazonás la manzana y la cortás en cubos.",
+      "Ponés todo en la licuadora con el agua, el limón y la menta.",
+      "Licuás 1 minuto a máxima velocidad. Si lo querés más fino, colás con un colador.",
+      "Servís de inmediato con hielo abundante."
+    ],
+    "tip_nutricional": "El pepino y el apio son dos de los vegetales más hidratantes, con más del 95% de agua. La manzana verde aporta pectina, fibra soluble que regula la digestión. Es el licuado más alcalinizante del menú.",
+    "tip_para_mama": "Introducí este licuado gradualmente: la primera vez agregá más manzana para que sea más dulce. A medida que tu hijo lo acepta, vas aumentando el pepino y el apio. Es un hábito saludable que vale la pena construir.",
+    "imagen_url": "https://images.pexels.com/photos/616833/pexels-photo-616833.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 121,
+    "nombre": "Medialunas rápidas de manteca con dulce de leche",
+    "descripcion": "El desayuno porteño por excelencia hecho en casa. Medialunas tiernas y doradas sin necesidad de laminar la masa. El olor a medialunas recién horneadas es el mejor despertador que existe.",
+    "categoria": "desayuno",
+    "tiempo_preparacion": 90,
+    "porciones": 12,
+    "nivel_dificultad": "medio",
+    "edad_minima": 2,
+    "lista_en_minutos": 90,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": false,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 5,
+    "ingredientes": [
+      {
+        "nombre": "harina 0000",
+        "cantidad": "3",
+        "unidad": "tazas"
+      },
+      {
+        "nombre": "levadura seca instantánea",
+        "cantidad": "1",
+        "unidad": "sobre (7 g)"
+      },
+      {
+        "nombre": "leche tibia",
+        "cantidad": "3/4",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "manteca a temperatura ambiente",
+        "cantidad": "80",
+        "unidad": "g"
+      },
+      {
+        "nombre": "azúcar",
+        "cantidad": "3",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "huevo",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "sal",
+        "cantidad": "1/2",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "dulce de leche repostero (para rellenar)",
+        "cantidad": "150",
+        "unidad": "g"
+      },
+      {
+        "nombre": "huevo batido y azúcar (para pintar)",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Mezclás la harina con la levadura, el azúcar y la sal. Hacés un hueco en el centro.",
+      "Agregás la leche tibia, el huevo y la manteca blanda. Mezclás hasta integrar y amasás 8 minutos hasta obtener una masa suave y elástica.",
+      "Cubrís con un repasador húmedo y dejás leudar en lugar cálido 45 minutos hasta que duplique su tamaño.",
+      "Dividís la masa en dos bollos. Estirás cada uno en un círculo de 30 cm y lo cortás en 6 triángulos (como una pizza).",
+      "Ponés una cucharadita de dulce de leche en la base de cada triángulo y enrollás desde la base hacia la punta. Curvás levemente los extremos para darle la forma característica.",
+      "Acomodás en placa con papel manteca. Dejás descansar 15 minutos más.",
+      "Pintás con huevo batido, espolvoreás con azúcar y horneás a 190°C por 15-18 minutos hasta que estén bien doradas."
+    ],
+    "tip_nutricional": "La manteca aporta vitaminas A y D liposolubles importantes para el crecimiento. Como desayuno ocasional, las medialunas caseras tienen mucho menos conservantes y azúcar que las de confitería industrial.",
+    "tip_para_mama": "Las medialunas se pueden congelar crudas después del armado (antes del segundo leudado). Sacalas del freezer la noche anterior, dejá que levden en la heladera, y hornealas a la mañana. Medialunas recién hechas sin madrugar.",
+    "imagen_url": "https://images.pexels.com/photos/30666857/pexels-photo-30666857.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 122,
+    "nombre": "Overnight oats de durazno y miel",
+    "descripcion": "Avena que se prepara la noche anterior y está lista para comer al despertar. Con durazno fresco o en almíbar y un toque de miel, es el desayuno más práctico para los días de semana.",
+    "categoria": "desayuno",
+    "tiempo_preparacion": 5,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 5,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": true,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "avena arrollada",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "leche de avena o bebida vegetal",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "duraznos maduros o en almíbar natural",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "miel",
+        "cantidad": "2",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "canela en polvo",
+        "cantidad": "1/2",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "semillas de chía (opcional)",
+        "cantidad": "1",
+        "unidad": "cucharada"
+      }
+    ],
+    "pasos": [
+      "La noche anterior: mezclás la avena con la leche vegetal, la miel y la canela en un frasco o tupper.",
+      "Si usás semillas de chía, las agregás ahora. Revolvés bien.",
+      "Cerrás herméticamente y guardás en la heladera toda la noche (mínimo 6 horas).",
+      "A la mañana: pelás los duraznos y los cortás en cubos. Si son en almíbar, los escurrís y los cortás.",
+      "Servís la avena directamente del frasco, ponés los cubos de durazno encima y un hilito extra de miel.",
+      "Para la vianda: armás el frasco completo con la fruta arriba y lo mandás tal cual al colegio."
+    ],
+    "tip_nutricional": "La avena remojada es más fácil de digerir que la cocida porque el remojo descompone el ácido fítico, mejorando la absorción de hierro y zinc. El durazno aporta vitamina A y potasio para el sistema muscular.",
+    "tip_para_mama": "Los overnight oats duran hasta 3 días en la heladera, así que preparás varios frascos el domingo y tenés desayuno hasta el miércoles. Podés variar la fruta cada día: frutillas, mango, o simplemente miel y canela.",
+    "imagen_url": "https://images.pexels.com/photos/9002779/pexels-photo-9002779.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 123,
+    "nombre": "Revuelto de champiñones y tomillo en pan de campo",
+    "descripcion": "Desayuno sabroso y sustancioso con champiñones salteados al tomillo sobre pan tostado. Diferente a todo lo habitual, listo en 15 minutos y con un sabor que enamora.",
+    "categoria": "desayuno",
+    "tiempo_preparacion": 15,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "edad_minima": 3,
+    "lista_en_minutos": 15,
+    "apta_vianda": false,
+    "sin_gluten": false,
+    "sin_lacteos": true,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "champiñones frescos",
+        "cantidad": "250",
+        "unidad": "g"
+      },
+      {
+        "nombre": "huevos",
+        "cantidad": "3",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "pan de campo o integral",
+        "cantidad": "4",
+        "unidad": "rebanadas gruesas"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "1",
+        "unidad": "diente"
+      },
+      {
+        "nombre": "tomillo fresco o seco",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "2",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Limpiás los champiñones con papel húmedo y los cortás en láminas.",
+      "En una sartén con el aceite de oliva a fuego alto, saltás el ajo picado 30 segundos. Agregás los champiñones en una sola capa y no los movés por 2 minutos para que doren.",
+      "Revolvés, agregás el tomillo, sal y pimienta. Cocinás 3 minutos más hasta que estén dorados y tiernos.",
+      "Mientras tanto, tostás el pan.",
+      "En la misma sartén a fuego medio, batís los huevos con sal y los revolvés junto a los champiñones hasta que queden cremosos y apenas cuajados.",
+      "Servís inmediatamente sobre el pan tostado con un hilito de aceite de oliva crudo."
+    ],
+    "tip_nutricional": "Los champiñones son una de las únicas fuentes no animales de vitamina D, esencial para la absorción del calcio. También aportan selenio, zinc y vitaminas del grupo B que sostienen el sistema nervioso.",
+    "tip_para_mama": "Si tu hijo es escéptico con los champiñones, empezá picándolos bien pequeños para que se integren en los huevos y queden casi invisibles. El sabor es suave y una vez que lo prueba generalmente lo acepta.",
+    "imagen_url": "https://images.pexels.com/photos/5662176/pexels-photo-5662176.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 124,
+    "nombre": "Frittata de papa y cebolla de verdeo",
+    "descripcion": "Tortilla de papa sin gluten ni lácteos, hecha a la manera italiana: cocinada en sartén y terminada en el horno. Jugosa, dorada y perfecta también fría para la vianda.",
+    "categoria": "desayuno",
+    "tiempo_preparacion": 25,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 25,
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "papas medianas",
+        "cantidad": "3",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "huevos",
+        "cantidad": "5",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "cebolla de verdeo",
+        "cantidad": "4",
+        "unidad": "ramas"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "1",
+        "unidad": "diente"
+      },
+      {
+        "nombre": "pimentón dulce",
+        "cantidad": "1/2",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "sal, pimienta, aceite de oliva",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Pelás las papas y las cortás en rodajas de 3 mm de grosor. Las hervís en agua con sal 8 minutos hasta que estén tiernas pero firmes. Escurrís y reservás.",
+      "Precalentás el horno a 190°C.",
+      "En una sartén apta para horno con aceite a fuego medio, saltás el ajo picado y la cebolla de verdeo 2 minutos.",
+      "Acomodás las rodajas de papa en la sartén formando una capa pareja.",
+      "Batís los huevos con sal, pimienta y pimentón. Volcás sobre las papas.",
+      "Cocinás en la hornalla a fuego bajo 4 minutos hasta que los bordes empiecen a cuajar.",
+      "Pasás la sartén al horno y cocinás 10-12 minutos hasta que la frittata esté firme y dorada en la superficie."
+    ],
+    "tip_nutricional": "La papa con cáscara es rica en potasio, vitamina C y fibra. Los huevos aportan colina, nutriente esencial para el desarrollo cerebral y la memoria. Sin lácteos ni gluten, es apta para la mayoría de las intolerancias.",
+    "tip_para_mama": "La frittata fría en la vianda es igual de rica que caliente. Cortá en porciones generosas, envolvelas en papel manteca y listo. Aguanta en la heladera hasta 3 días y se recalienta en 1 minuto en microondas.",
+    "imagen_url": "https://images.pexels.com/photos/5639255/pexels-photo-5639255.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 125,
+    "nombre": "Licuado proteico de ricota y cacao",
+    "descripcion": "Batido espeso y cremoso que parece malteada pero está cargado de proteína real. La ricota da la textura sin que se note, el cacao lo hace irresistible y la banana lo endulza naturalmente.",
+    "categoria": "desayuno",
+    "tiempo_preparacion": 5,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 5,
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "ricota fresca",
+        "cantidad": "150",
+        "unidad": "g"
+      },
+      {
+        "nombre": "banana madura",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "cacao amargo en polvo",
+        "cantidad": "2",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "leche",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "miel",
+        "cantidad": "1",
+        "unidad": "cucharada"
+      },
+      {
+        "nombre": "extracto de vainilla",
+        "cantidad": "1/2",
+        "unidad": "cucharadita"
+      }
+    ],
+    "pasos": [
+      "Ponés todos los ingredientes en la licuadora: la ricota, la banana en trozos, el cacao, la leche, la miel y la vainilla.",
+      "Licuás a máxima velocidad 1 minuto hasta obtener una mezcla completamente lisa y cremosa.",
+      "Si quedó muy espeso para tu gusto, agregás un poco más de leche y licuás 10 segundos más.",
+      "Servís de inmediato en vasos altos. Podés espolvorear un poquito de cacao encima para presentar."
+    ],
+    "tip_nutricional": "La ricota aporta 11 g de proteína por cada 100 g, con calcio y fósforo. Este licuado tiene más proteína que la mayoría de los desayunos infantiles y prácticamente nada de azúcar agregada: todo el dulzor viene de la banana y la miel.",
+    "tip_para_mama": "Si tu hijo rechaza la ricota sola, en este licuado no se nota para nada: el cacao domina completamente el sabor y la textura parece un helado de chocolate derretido. Es el truco más efectivo para que coman proteína a la mañana.",
+    "imagen_url": "https://images.pexels.com/photos/926361/pexels-photo-926361.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 126,
+    "nombre": "Tortilla de espinaca y garbanzos al horno",
+    "descripcion": "Plato proteico sin carne que sorprende por lo sustancioso. La combinación espinaca con garbanzos en tortilla horneada es nutritiva, económica y conquista hasta a los más carnívoros de la mesa.",
+    "categoria": "almuerzo",
+    "tiempo_preparacion": 35,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 35,
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "garbanzos cocidos o en lata",
+        "cantidad": "400",
+        "unidad": "g"
+      },
+      {
+        "nombre": "espinaca fresca o congelada descongelada",
+        "cantidad": "200",
+        "unidad": "g"
+      },
+      {
+        "nombre": "huevos",
+        "cantidad": "5",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "cebolla",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "queso parmesano rallado",
+        "cantidad": "50",
+        "unidad": "g"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "2",
+        "unidad": "dientes"
+      },
+      {
+        "nombre": "pimentón, comino, sal, aceite",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Precalentás el horno a 190°C. Aceitás una fuente de horno de 22x22 cm.",
+      "Sofreís la cebolla y el ajo picados en aceite 3 minutos. Agregás la espinaca exprimida y picada. Cocinás 2 minutos más. Salpimentás.",
+      "En un bowl aplastás los garbanzos escurridos con un tenedor (no hace falta que quede liso, podés dejar algunos enteros).",
+      "Mezclás los garbanzos con la espinaca sofrita, el pimentón y el comino.",
+      "Batís los huevos con sal y los incorporás a la mezcla de garbanzos y espinaca.",
+      "Volcás en la fuente, espolvoreás con el parmesano y cocinás en el horno 25 minutos hasta que esté firme y dorada."
+    ],
+    "tip_nutricional": "Garbanzos más huevo forman una proteína completa con todos los aminoácidos esenciales, sin necesidad de carne. Los garbanzos también aportan hierro y fibra que mejoran el tránsito intestinal y la sensación de saciedad.",
+    "tip_para_mama": "Fría en la vianda está igual de rica. Cortala en cuadrados como una lasaña y mandala en tupper. También podés reemplazar la espinaca por cualquier verdura cocida que tengas disponible: zapallito, morrón o acelga.",
+    "imagen_url": "https://images.pexels.com/photos/36997460/pexels-photo-36997460.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 127,
+    "nombre": "Albóndigas de pollo en salsa de tomate",
+    "descripcion": "Albóndigas más tiernas y magras que las de vaca, en una salsa de tomate casera que se puede servir sola o sobre fideos o arroz. Una variante que renueva el clásico.",
+    "categoria": "almuerzo",
+    "tiempo_preparacion": 40,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 40,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": true,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "indice_popularidad": 5,
+    "ingredientes": [
+      {
+        "nombre": "carne de pollo picada (muslos sin hueso procesados)",
+        "cantidad": "500",
+        "unidad": "g"
+      },
+      {
+        "nombre": "pan rallado",
+        "cantidad": "4",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "huevo",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "ajo en polvo",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "perejil fresco picado",
+        "cantidad": "2",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "tomates perita",
+        "cantidad": "5",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "cebolla",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "2",
+        "unidad": "dientes"
+      },
+      {
+        "nombre": "sal, orégano, aceite",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Para las albóndigas: mezclás el pollo picado con el pan rallado, el huevo, el ajo en polvo, el perejil y sal. Formás bolitas del tamaño de una nuez.",
+      "En una sartén con aceite a fuego medio-alto, dorás las albóndigas en tandas dándoles vuelta hasta que estén selladas por todos lados. No las apilés. Reservás.",
+      "En la misma sartén sofreís la cebolla y el ajo picados 3 minutos. Agregás los tomates pelados y picados.",
+      "Cocinás la salsa a fuego medio 10 minutos. Condimentás con orégano y sal.",
+      "Devolvés las albóndigas a la salsa, tapás y cocinás 15 minutos a fuego bajo hasta que estén bien cocidas por dentro.",
+      "Servís solas, sobre fideos cortos o con arroz blanco."
+    ],
+    "tip_nutricional": "El pollo tiene la mitad de la grasa saturada que la carne vacuna con igual cantidad de proteína. Las albóndigas de pollo son una excelente opción para variar la proteína animal sin resignar el sabor que los chicos ya conocen.",
+    "tip_para_mama": "Podés congelar las albóndigas cocidas con su salsa hasta 3 meses. Son perfectas para la vianda en tupper: el arroz o fideos se cocinan en 10 minutos y el resto está listo del freezer.",
+    "imagen_url": "https://images.pexels.com/photos/17989471/pexels-photo-17989471.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 128,
+    "nombre": "Merluza al limón con arroz y arvejas",
+    "descripcion": "El plato de pescado más simple y aceptable para chicos que recién empiezan con el pescado. La merluza al limón con arroz y arvejas es nutritiva, rápida y no huele fuerte.",
+    "categoria": "almuerzo",
+    "tiempo_preparacion": 30,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 30,
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "filets de merluza",
+        "cantidad": "600",
+        "unidad": "g"
+      },
+      {
+        "nombre": "limones",
+        "cantidad": "2",
+        "unidad": "unidades (jugo y ralladura)"
+      },
+      {
+        "nombre": "arroz blanco",
+        "cantidad": "1.5",
+        "unidad": "tazas"
+      },
+      {
+        "nombre": "arvejas en lata o congeladas",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "2",
+        "unidad": "dientes"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "3",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "perejil, sal, pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cocinás el arroz en agua con sal según las instrucciones del paquete. Los últimos 3 minutos agregás las arvejas escurridas. Reservás.",
+      "Secás bien los filets con papel absorbente y los salpimentás. Si son congelados, los descongelás completamente antes.",
+      "En una sartén grande con el aceite de oliva a fuego medio-alto, cocinás la merluza 3 minutos de cada lado hasta que esté dorada y se deshaga fácilmente con el tenedor.",
+      "Retirás el pescado y en la misma sartén saltás el ajo picado 30 segundos. Apagás el fuego y agregás el jugo y la ralladura de limón.",
+      "Servís el arroz con arvejas en el plato, la merluza encima y la salsita de limón y ajo por arriba.",
+      "Espolvoreás perejil fresco picado."
+    ],
+    "tip_nutricional": "La merluza es el pescado más accesible de Argentina y uno de los más ricos en proteína magra y yodo. El yodo es esencial para el correcto funcionamiento de la tiroides y el desarrollo cognitivo en la infancia.",
+    "tip_para_mama": "Para chicos que nunca comieron pescado, empezá con filets sin piel y sin espinas (los filets de merluza suelen venir así). El limón elimina cualquier olor y hace el sabor más suave. Si lo rechaza al principio, intentá empanarlo.",
+    "imagen_url": "https://images.pexels.com/photos/6129137/pexels-photo-6129137.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 129,
+    "nombre": "Fideos con atún y aceitunas verdes",
+    "descripcion": "Pasta rápida de semana con dos ingredientes de la alacena: atún y aceitunas. Lista en 20 minutos, sin cocción larga, con el sabor mediterráneo que conquista a toda la familia.",
+    "categoria": "almuerzo",
+    "tiempo_preparacion": 20,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "edad_minima": 3,
+    "lista_en_minutos": 20,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": true,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "fideos moño o espiral",
+        "cantidad": "400",
+        "unidad": "g"
+      },
+      {
+        "nombre": "atún al natural en lata",
+        "cantidad": "2",
+        "unidad": "latas (170 g c/u)"
+      },
+      {
+        "nombre": "aceitunas verdes sin carozo",
+        "cantidad": "80",
+        "unidad": "g"
+      },
+      {
+        "nombre": "tomates cherry o perita",
+        "cantidad": "250",
+        "unidad": "g"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "2",
+        "unidad": "dientes"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "4",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "albahaca fresca o seca, sal, pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cocinás los fideos en abundante agua con sal según las instrucciones del paquete. Reservás 1/2 taza del agua de cocción.",
+      "Mientras hierven los fideos, cortás los tomates cherry al medio. Cortás las aceitunas en rodajas. Escurrís bien el atún.",
+      "En una sartén grande con el aceite a fuego medio, saltás el ajo picado 1 minuto. Agregás los tomates y cocinás 3 minutos hasta que se ablanden levemente.",
+      "Retirás del fuego. Incorporás el atún desmenuzado y las aceitunas. Mezclás.",
+      "Escurrís los fideos y los agregás a la sartén con un poco del agua de cocción reservada. Mezclás todo bien.",
+      "Rectificás sal, agregás albahaca y servís de inmediato con pimienta a gusto."
+    ],
+    "tip_nutricional": "El atún es una de las fuentes más económicas de omega-3 DHA y EPA, ácidos grasos que mejoran la función cerebral y reducen la inflamación. Las aceitunas aportan grasas monoinsaturadas y vitamina E antioxidante.",
+    "tip_para_mama": "Esta pasta fría también es excelente como vianda: metela en un tupper con un chorrito extra de aceite de oliva para que no se pegue. Dura 2 días en la heladera y el sabor mejora con el reposo.",
+    "imagen_url": "https://images.pexels.com/photos/8983412/pexels-photo-8983412.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 130,
+    "nombre": "Cazuela de porotos y calabaza",
+    "descripcion": "Guiso vegetariano y reconfortante con porotos blancos y calabaza, los ingredientes más nutritivos del invierno argentino. Hecho en una sola olla y listo en 35 minutos usando porotos en lata.",
+    "categoria": "almuerzo",
+    "tiempo_preparacion": 35,
+    "porciones": 6,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 35,
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "porotos blancos cocidos o en lata",
+        "cantidad": "800",
+        "unidad": "g"
+      },
+      {
+        "nombre": "calabaza",
+        "cantidad": "600",
+        "unidad": "g"
+      },
+      {
+        "nombre": "caldo de verdura",
+        "cantidad": "1",
+        "unidad": "litro"
+      },
+      {
+        "nombre": "cebolla",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "3",
+        "unidad": "dientes"
+      },
+      {
+        "nombre": "tomate perita",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "pimentón ahumado",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "romero o tomillo seco",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "sal, aceite de oliva",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cortás la calabaza en cubos medianos (pelada o con cáscara, a gusto).",
+      "En una olla grande con aceite, sofreís la cebolla y el ajo picados 3 minutos hasta que estén transparentes.",
+      "Agregás el tomate picado, el pimentón ahumado y el romero. Cocinás 3 minutos más.",
+      "Sumás la calabaza en cubos y el caldo caliente. Llevás a hervor.",
+      "Cocinás 15 minutos hasta que la calabaza esté tierna. Aplastás algunos cubos contra la olla para espesar el caldo.",
+      "Incorporás los porotos escurridos y cocinás 5 minutos más.",
+      "Rectificás sal y servís con un chorrito de aceite de oliva crudo."
+    ],
+    "tip_nutricional": "Los porotos blancos tienen más proteína y fibra que la carne en la misma porción. La calabaza aporta betacaroteno, precursor de vitamina A esencial para la vista y las defensas. Esta cazuela cubre los requerimientos proteicos vegetales de un día entero.",
+    "tip_para_mama": "Hacé el doble y congelá la mitad. Se conserva hasta 3 meses en el freezer. Si la calabaza está madura, se deshace sola espesando el guiso sin necesidad de procesarlo. Ideal para los chicos que no quieren ver trozos.",
+    "imagen_url": "https://images.pexels.com/photos/6845314/pexels-photo-6845314.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 131,
+    "nombre": "Fideos con crema de atún y limón",
+    "descripcion": "Cena de semana lista en 20 minutos que parece de restaurante. La crema de atún al limón sobre fideos es suave, sabrosa y diferente a todo lo habitual. Los chicos siempre piden el doble.",
+    "categoria": "cena",
+    "tiempo_preparacion": 20,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "edad_minima": 3,
+    "lista_en_minutos": 20,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": false,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "indice_popularidad": 5,
+    "ingredientes": [
+      {
+        "nombre": "fideos linguine, espagueti o tagliatelle",
+        "cantidad": "400",
+        "unidad": "g"
+      },
+      {
+        "nombre": "atún al natural en lata",
+        "cantidad": "2",
+        "unidad": "latas (170 g c/u)"
+      },
+      {
+        "nombre": "crema de leche",
+        "cantidad": "200",
+        "unidad": "ml"
+      },
+      {
+        "nombre": "limón",
+        "cantidad": "1",
+        "unidad": "unidad (jugo y ralladura)"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "2",
+        "unidad": "dientes"
+      },
+      {
+        "nombre": "cebolla de verdeo",
+        "cantidad": "3",
+        "unidad": "ramas"
+      },
+      {
+        "nombre": "queso parmesano rallado",
+        "cantidad": "50",
+        "unidad": "g"
+      },
+      {
+        "nombre": "sal, pimienta, aceite de oliva",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cocinás los fideos en agua con sal hasta que estén al dente según las instrucciones del paquete.",
+      "En una sartén con aceite a fuego medio, saltás el ajo picado y la parte blanca de la cebolla de verdeo 2 minutos.",
+      "Agregás la crema y cocinás 3 minutos revolviendo hasta que reduzca levemente.",
+      "Incorporás el atún bien escurrido y desmenuzado, el jugo y la ralladura de limón. Mezclás.",
+      "Escurrís los fideos y los agregás a la crema. Mezclás bien, rectificás sal y pimienta.",
+      "Servís con el parmesano rallado encima y la parte verde de la cebolla de verdeo picada."
+    ],
+    "tip_nutricional": "El atún aporta omega-3 y proteína magra mientras que la crema suma vitaminas A y D. El limón no solo aporta vitamina C sino que además neutraliza el olor del pescado, haciendo el plato más aceptable para chicos sensibles a los sabores fuertes.",
+    "tip_para_mama": "Para la vianda: guardá la pasta con la salsa en un tupper con un poquito más de crema para que no se seque. Se come fría y está igual de rica. Si tu hijo rechaza el atún, empezá con una sola lata y más crema.",
+    "imagen_url": "https://images.pexels.com/photos/10059904/pexels-photo-10059904.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 132,
+    "nombre": "Sopa de verduras con pelotas de harina",
+    "descripcion": "La sopa más tradicional de las abuelas argentinas con sus clásicas pelotas de harina flotando. Reconfortante, económica y perfecta para los días fríos de invierno en que nada más alcanza.",
+    "categoria": "cena",
+    "tiempo_preparacion": 45,
+    "porciones": 6,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 45,
+    "apta_vianda": false,
+    "sin_gluten": false,
+    "sin_lacteos": true,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 5,
+    "ingredientes": [
+      {
+        "nombre": "harina 0000",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "huevos",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "sal",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "papa",
+        "cantidad": "3",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "zanahoria",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "zapallito verde",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "cebolla",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "caldo de verdura casero o en cubito",
+        "cantidad": "1.5",
+        "unidad": "litros"
+      },
+      {
+        "nombre": "perejil, sal, aceite",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Para las pelotas de harina: mezclás la harina con los huevos y la sal hasta obtener una masa densa. Si está muy seca, agregás una cucharada de agua.",
+      "Dejás reposar la masa 10 minutos tapada.",
+      "En una olla grande, calentás el caldo con la cebolla picada y las verduras cortadas en cubos (papa, zanahoria, zapallito).",
+      "Cocinás 15 minutos hasta que las verduras estén tiernas.",
+      "Con una cuchara chica o con las manos mojadas, tomás porciones pequeñas de masa y las arrojás directamente al caldo hirviendo.",
+      "Las pelotas flotan cuando están listas (8-10 minutos). Cocinás 2 minutos más después de que suban.",
+      "Servís bien caliente con perejil picado y un chorrito de aceite crudo."
+    ],
+    "tip_nutricional": "Las pelotas de harina aportan carbohidratos de lenta absorción que dan energía sostenida. Las verduras del caldo suman vitaminas hidrosolubles (C y B) que se conservan mejor en el caldo que con la cocción prolongada.",
+    "tip_para_mama": "Las pelotas de harina son el secreto para que los chicos tomen la sopa con entusiasmo: les encantan buscarlas con la cuchara. Si la masa queda muy líquida para armar, añadís harina de a poco; si está muy seca, unas gotitas de agua.",
+    "imagen_url": "https://images.pexels.com/photos/36865958/pexels-photo-36865958.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 133,
+    "nombre": "Milanesas de soja al horno",
+    "descripcion": "Milanesas vegetarianas con carne de soja texturizada, crujientes al horno y con el sabor especiado que encanta a chicos y adultos. Más económicas que las de carne y con proteína vegetal completa.",
+    "categoria": "cena",
+    "tiempo_preparacion": 30,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "edad_minima": 3,
+    "lista_en_minutos": 30,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": true,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "soja texturizada gruesa",
+        "cantidad": "2",
+        "unidad": "tazas"
+      },
+      {
+        "nombre": "caldo de verdura caliente",
+        "cantidad": "2",
+        "unidad": "tazas (para hidratar)"
+      },
+      {
+        "nombre": "pan rallado",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "huevos",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "ajo en polvo",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "pimentón dulce",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "orégano, sal, pimienta, aceite",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Hidratás la soja texturizada en el caldo caliente por 15 minutos. Escurrís muy bien apretando con las manos.",
+      "Mezclás la soja escurrida con un huevo batido, el ajo en polvo, el pimentón, sal y pimienta hasta que todo se integre.",
+      "Formás medallones chatos de tamaño similar a una milanesa, apretando bien para que no se desarmen.",
+      "Pasás cada medallón por huevo batido y luego por pan rallado condimentado con orégano.",
+      "Los acomodás en una placa con papel manteca aceitado y los rociás con aceite.",
+      "Cocinás en horno a 200°C por 15 minutos, dás vuelta con cuidado y cocinás 10 minutos más hasta que estén bien doradas."
+    ],
+    "tip_nutricional": "La soja texturizada tiene hasta 52 g de proteína por cada 100 g en seco, más que cualquier carne. Tiene todos los aminoácidos esenciales y además aporta fibra, hierro y calcio. Es la fuente de proteína vegetal más completa disponible.",
+    "tip_para_mama": "Guardá las milanesas de soja horneadas en la heladera hasta 4 días. Se recalientan en el horno o toaster y quedan crocantes. También van perfectas frías en la vianda cortadas en tiras con lechuga y tomate.",
+    "imagen_url": "https://images.pexels.com/photos/5773999/pexels-photo-5773999.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 134,
+    "nombre": "Puchero de pollo con garbanzos",
+    "descripcion": "Versión completa del puchero argentino con pollo tierno, garbanzos y todas las verduras del invierno. Un solo plato que alimenta con proteína, legumbres y verdura en cada bocado.",
+    "categoria": "cena",
+    "tiempo_preparacion": 55,
+    "porciones": 6,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 55,
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "muslos y patas de pollo",
+        "cantidad": "4",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "garbanzos cocidos o en lata",
+        "cantidad": "400",
+        "unidad": "g"
+      },
+      {
+        "nombre": "papa",
+        "cantidad": "3",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "batata",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "choclo",
+        "cantidad": "1",
+        "unidad": "unidad (en rodajas)"
+      },
+      {
+        "nombre": "puerro",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "zanahoria",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "caldo de pollo",
+        "cantidad": "1.5",
+        "unidad": "litros"
+      },
+      {
+        "nombre": "sal, pimienta, laurel, orégano",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "En una olla grande, calentás el caldo con la hoja de laurel y el orégano.",
+      "Agregás el pollo y el puerro cortado en rodajas. Llevás a hervor, bajás el fuego y cocinás 20 minutos espumando si es necesario.",
+      "Incorporás las papas y batatas peladas en trozos grandes, la zanahoria en rodajas y el choclo.",
+      "Cocinás 15 minutos más hasta que las verduras estén tiernas.",
+      "Agregás los garbanzos escurridos y cocinás 5 minutos para que se impregnen del sabor.",
+      "Rectificás sal y pimienta. Servís en platos hondos con caldo abundante."
+    ],
+    "tip_nutricional": "El puchero reúne en un solo plato proteína animal (pollo), proteína vegetal (garbanzos), hidratos complejos (papa, batata) y fibra (zanahoria, choclo). Es uno de los platos más nutritivamente completos de la cocina argentina.",
+    "tip_para_mama": "El caldo sobrante es oro: guardalo en la heladera hasta 4 días o congelalo en cubeteras. Ese caldo casero de pollo es mejor que cualquier cubito del súper para sopas, arroces y salsas durante la semana.",
+    "imagen_url": "https://images.pexels.com/photos/19526778/pexels-photo-19526778.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 135,
+    "nombre": "Zapallitos rellenos al horno",
+    "descripcion": "Zapallitos vaciados y rellenos con queso cremoso, tomate y hierbas, gratinados en el horno. Una presentación que llama la atención de los chicos y que convierte la verdura en protagonista.",
+    "categoria": "cena",
+    "tiempo_preparacion": 40,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "edad_minima": 3,
+    "lista_en_minutos": 40,
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "zapallitos verdes grandes",
+        "cantidad": "4",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "queso cremoso o ricota",
+        "cantidad": "150",
+        "unidad": "g"
+      },
+      {
+        "nombre": "queso rallado",
+        "cantidad": "80",
+        "unidad": "g"
+      },
+      {
+        "nombre": "tomate perita",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "cebolla",
+        "cantidad": "1/2",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "huevos",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "orégano, sal, pimienta, aceite",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Precalentás el horno a 190°C.",
+      "Cortás los zapallitos al medio a lo largo. Con una cuchara, vaciás el interior dejando una pared de 1 cm. Reservás la pulpa picada.",
+      "En una sartén con aceite sofreís la cebolla picada 3 minutos. Agregás la pulpa de zapallito y el tomate picado. Cocinás 5 minutos hasta que el líquido se evapore.",
+      "Retirás del fuego. Mezclás con el queso cremoso, los huevos batidos, sal, pimienta y orégano.",
+      "Rellenás las mitades de zapallito con la mezcla.",
+      "Los acomodás en una fuente aceitada y cubrís con el queso rallado.",
+      "Cocinás 25 minutos hasta que el relleno esté firme y el queso dorado."
+    ],
+    "tip_nutricional": "El zapallito tiene muy pocas calorías y alto contenido de agua, vitamina C y potasio. El relleno con huevo y queso transforma esta verdura de guarnición en un plato principal completo con proteínas y calcio.",
+    "tip_para_mama": "Los zapallitos rellenos fríos van perfectos en la vianda del día siguiente. Envolvelos en papel aluminio para que no se aplasten. También podés preparar el relleno con arroz cocido para hacerlos más sustanciosos.",
+    "imagen_url": "https://images.pexels.com/photos/36865407/pexels-photo-36865407.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 136,
+    "nombre": "Bizcochos de campo saladitos",
+    "descripcion": "Los bizcochos más argentinos que existen, crujientes y saladitos, ideales para acompañar mate o para la vianda. Hechos con grasa o manteca, con el sabor que recuerda a la cocina de las abuelas.",
+    "categoria": "merienda",
+    "tiempo_preparacion": 30,
+    "porciones": 20,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 30,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": false,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 5,
+    "ingredientes": [
+      {
+        "nombre": "harina 0000",
+        "cantidad": "3",
+        "unidad": "tazas"
+      },
+      {
+        "nombre": "grasa vacuna o manteca",
+        "cantidad": "80",
+        "unidad": "g"
+      },
+      {
+        "nombre": "leche tibia",
+        "cantidad": "3/4",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "polvo de hornear",
+        "cantidad": "2",
+        "unidad": "cucharaditas"
+      },
+      {
+        "nombre": "sal fina",
+        "cantidad": "1.5",
+        "unidad": "cucharaditas"
+      }
+    ],
+    "pasos": [
+      "Precalentás el horno a 200°C y engrasás una placa.",
+      "En un bowl mezclás la harina con el polvo de hornear y la sal.",
+      "Incorporás la grasa (o manteca) fría en trozos y la trabajás con los dedos frotando hasta que quede una especie de arena gruesa.",
+      "Agregás la leche tibia de a poco y mezclás con tenedor hasta que la masa se una. No amasés de más: los bizcochos deben quedar crocantes, no suaves.",
+      "Estirás la masa con palote a 1 cm de grosor sobre la mesada enharinada.",
+      "Cortás círculos con un vaso o cortante de 6-7 cm y los pinchás con un tenedor.",
+      "Cocinás 18-20 minutos hasta que estén dorados y crocantes. Dejás enfriar sobre rejilla."
+    ],
+    "tip_nutricional": "Los bizcochos de campo son una fuente de carbohidratos de bajo índice glucémico que dan energía sostenida. La grasa vacuna, aunque demonizada, contiene ácido linoleico conjugado (CLA) que favorece el sistema inmune cuando se usa en cantidades moderadas.",
+    "tip_para_mama": "Se guardan en una lata hermética hasta 2 semanas sin perder el crocante. Son perfectos para la vianda porque no se aplastan ni se ablandan. Podés hacer la mitad saladitos y la mitad con una cucharadita de azúcar para los que prefieren lo dulce.",
+    "imagen_url": "https://images.pexels.com/photos/37108654/pexels-photo-37108654.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 137,
+    "nombre": "Bombones de coco y dulce de leche sin horno",
+    "descripcion": "Bolitas irresistibles que se hacen en 20 minutos sin prender el horno. El coco rallado con el dulce de leche es la combinación perfecta para la merienda o para llevar de regalo.",
+    "categoria": "merienda",
+    "tiempo_preparacion": 20,
+    "porciones": 20,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 20,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": false,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 5,
+    "ingredientes": [
+      {
+        "nombre": "coco rallado fino",
+        "cantidad": "2",
+        "unidad": "tazas"
+      },
+      {
+        "nombre": "dulce de leche repostero",
+        "cantidad": "200",
+        "unidad": "g"
+      },
+      {
+        "nombre": "galletitas de chocolate trituradas",
+        "cantidad": "100",
+        "unidad": "g"
+      },
+      {
+        "nombre": "extracto de vainilla",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "coco rallado extra (para rebozar)",
+        "cantidad": "1/2",
+        "unidad": "taza"
+      }
+    ],
+    "pasos": [
+      "Triturás las galletitas en bolsa con palote o en procesadora hasta obtener arena fina.",
+      "En un bowl mezclás 1 y ½ tazas del coco rallado con las galletitas trituradas, el dulce de leche y la vainilla hasta integrar todo.",
+      "Refrigerás la mezcla 10 minutos en la heladera para que esté más manejable.",
+      "Con las manos ligeramente aceitadas, formás bolitas del tamaño de una nuez.",
+      "Rebozás cada bombón en el coco rallado restante presionando suavemente para que se adhiera.",
+      "Acomodás en una fuente y refrigerás al menos 30 minutos antes de servir."
+    ],
+    "tip_nutricional": "El coco rallado aporta grasas de cadena media que el cuerpo metaboliza rápidamente como energía, sin almacenarse como grasa corporal. El dulce de leche suma calcio de la leche en una forma que los chicos adoran.",
+    "tip_para_mama": "Guardá los bombones en un recipiente hermético en la heladera hasta 2 semanas. Son perfectos para llevar en tupper en la vianda porque no se derriten ni se aplastan. También son excelentes para llevar a cumpleaños.",
+    "imagen_url": "https://images.pexels.com/photos/34520946/pexels-photo-34520946.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 138,
+    "nombre": "Palitos de queso al horno",
+    "descripcion": "Palitos crocantes de queso que desaparecen en minutos. Se hacen con ingredientes básicos de la heladera y el horno los convierte en el snack más adictivo de la tarde.",
+    "categoria": "merienda",
+    "tiempo_preparacion": 25,
+    "porciones": 30,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 25,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": false,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 5,
+    "ingredientes": [
+      {
+        "nombre": "harina 0000",
+        "cantidad": "1.5",
+        "unidad": "tazas"
+      },
+      {
+        "nombre": "queso parmesano rallado",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "manteca fría en cubos",
+        "cantidad": "80",
+        "unidad": "g"
+      },
+      {
+        "nombre": "yemas de huevo",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "agua fría",
+        "cantidad": "3",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "sal, pimentón dulce, semillas de sésamo (opcional)",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Precalentás el horno a 190°C y preparás una placa con papel manteca.",
+      "En un bowl mezclás la harina con el queso rallado, la sal y el pimentón.",
+      "Incorporás la manteca fría en cubos y la trabajás con los dedos hasta obtener una arena gruesa.",
+      "Agregás las yemas y el agua fría de a poco. Mezclás hasta que la masa se una (no amasés).",
+      "Estirás la masa entre dos papeles manteca a 4 mm de grosor.",
+      "Cortás en tiras de 1 cm de ancho y 10 cm de largo. Si querés, espolvoreás sésamo encima.",
+      "Cocinás 15-18 minutos hasta que estén dorados y crocantes. Cuidado que se queman rápido al final."
+    ],
+    "tip_nutricional": "El queso parmesano es uno de los alimentos más ricos en calcio por porción: aporta 1200 mg por cada 100 g. Estos palitos son una forma divertida de que los chicos consuman calcio sin tener que tomar leche.",
+    "tip_para_mama": "Guardaos en lata hermética hasta 10 días sin perder el crocante. Son perfectos para la vianda en bolsita zip. Podés hacerlos con distintos quesos: cheddar da un sabor más fuerte, reggianito da uno más suave.",
+    "imagen_url": "https://images.pexels.com/photos/5639378/pexels-photo-5639378.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 139,
+    "nombre": "Hummus de remolacha con palitos de pita",
+    "descripcion": "Hummus color fucsia que llama la atención de los chicos desde el primer momento. La remolacha le da un sabor suave y levemente dulce que conquista hasta a los más difíciles.",
+    "categoria": "merienda",
+    "tiempo_preparacion": 15,
+    "porciones": 6,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 15,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": true,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "garbanzos cocidos o en lata",
+        "cantidad": "400",
+        "unidad": "g"
+      },
+      {
+        "nombre": "remolacha cocida",
+        "cantidad": "2",
+        "unidad": "unidades medianas"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "2",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "1",
+        "unidad": "diente"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "3",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "tahini o mantequilla de sésamo (opcional)",
+        "cantidad": "1",
+        "unidad": "cucharada"
+      },
+      {
+        "nombre": "sal, comino",
+        "cantidad": "a gusto",
+        "unidad": ""
+      },
+      {
+        "nombre": "panes de pita",
+        "cantidad": "4",
+        "unidad": "unidades"
+      }
+    ],
+    "pasos": [
+      "Si comprás remolacha cruda, la hervís con cáscara en agua hasta que esté tierna (40 minutos). Pelás cuando enfría. Si usás remolacha en lata o al vacío cocida, directo al paso 2.",
+      "Procesás en licuadora o mixer los garbanzos escurridos con la remolacha cortada en trozos, el limón, el ajo, el aceite y el comino.",
+      "Procesás hasta obtener una pasta suave y de color fucsia intenso. Si queda muy espeso, agregás una cucharada de agua.",
+      "Rectificás sal y limón a gusto.",
+      "Cortás los panes de pita en triángulos y los tostás en el horno o en la tostadora.",
+      "Servís el hummus en un bowl con un chorrito de aceite de oliva crudo y los triángulos de pita al costado."
+    ],
+    "tip_nutricional": "La remolacha es extraordinariamente rica en folato (vitamina B9) esencial para el desarrollo del sistema nervioso y la producción de glóbulos rojos. El nitrato natural de la remolacha mejora el flujo sanguíneo y la oxigenación cerebral.",
+    "tip_para_mama": "El hummus de remolacha aguanta hasta 5 días en la heladera en recipiente hermético. Para la vianda, mandá el hummus en un tupper chico y los palitos de pita en bolsita aparte. El color fucsia divierte a los chicos y les da curiosidad por probar.",
+    "imagen_url": "https://images.pexels.com/photos/4899785/pexels-photo-4899785.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 140,
+    "nombre": "Manzanas asadas con miel y granola",
+    "descripcion": "Postre o merienda caliente lista en 20 minutos. Las manzanas se cocinan en el horno con miel y canela, se vuelven tiernas y caramelizadas, y con granola encima son irresistibles.",
+    "categoria": "merienda",
+    "tiempo_preparacion": 20,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "edad_minima": 1,
+    "lista_en_minutos": 20,
+    "apta_vianda": false,
+    "sin_gluten": false,
+    "sin_lacteos": true,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "manzanas rojas",
+        "cantidad": "4",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "miel",
+        "cantidad": "4",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "canela en polvo",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "granola",
+        "cantidad": "1/2",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "1",
+        "unidad": "cucharada"
+      },
+      {
+        "nombre": "manteca o aceite de coco (opcional)",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      }
+    ],
+    "pasos": [
+      "Precalentás el horno a 180°C.",
+      "Lavás bien las manzanas. Con un descorazonador o cuchillo, les sacás el centro haciendo un hueco sin atravesar la base.",
+      "Las colocás en una fuente para horno. En cada hueco ponés una cucharada de miel y una pizca de canela.",
+      "Si querés, ponés una mínima porción de manteca o aceite de coco encima.",
+      "Rociás el jugo de limón alrededor para evitar que se oscurezcan.",
+      "Cocinás 15-18 minutos hasta que las manzanas estén tiernas pero mantengan su forma.",
+      "Sacás del horno, espolvoreás la granola encima y servís de inmediato."
+    ],
+    "tip_nutricional": "La manzana asada es más fácil de digerir que la cruda porque el calor rompe parcialmente la pectina. Es ideal para chicos con digestiones sensibles o cuando están con el estómago revuelto. La miel aporta antioxidantes y prebióticos.",
+    "tip_para_mama": "Podés preparar las manzanas con el hueco y la miel a la tarde, refrigerarlas, y hornearlas cuando lleguen del colegio. En 20 minutos tenés la merienda lista y el olor que llena la casa las convierte en las más deseadas.",
+    "imagen_url": "https://images.pexels.com/photos/31024449/pexels-photo-31024449.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 141,
+    "nombre": "Volcán de chocolate casero",
+    "descripcion": "El postre más espectacular que podés hacer en casa. Se mezcla en 10 minutos, se hornea 12 minutos y al cortar sale un centro de chocolate líquido que vuelve locos a chicos y adultos.",
+    "categoria": "postre",
+    "tiempo_preparacion": 25,
+    "porciones": 6,
+    "nivel_dificultad": "medio",
+    "edad_minima": 3,
+    "lista_en_minutos": 25,
+    "apta_vianda": false,
+    "sin_gluten": false,
+    "sin_lacteos": false,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 5,
+    "ingredientes": [
+      {
+        "nombre": "chocolate negro (60% cacao o más)",
+        "cantidad": "150",
+        "unidad": "g"
+      },
+      {
+        "nombre": "manteca",
+        "cantidad": "80",
+        "unidad": "g"
+      },
+      {
+        "nombre": "huevos",
+        "cantidad": "3",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "yemas de huevo",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "azúcar impalpable",
+        "cantidad": "80",
+        "unidad": "g"
+      },
+      {
+        "nombre": "harina 0000",
+        "cantidad": "3",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "cacao amargo en polvo",
+        "cantidad": "1",
+        "unidad": "cucharada (para enharinar)"
+      }
+    ],
+    "pasos": [
+      "Derretís el chocolate con la manteca a baño maría o en microondas en pulsos de 30 segundos. Mezclás hasta que quede liso. Dejás tibiar.",
+      "Batís los huevos enteros con las yemas y el azúcar impalpable hasta que la mezcla quede espumosa y aclare.",
+      "Incorporás el chocolate derretido tibio a los huevos mezclando suavemente.",
+      "Agregás la harina tamizada y mezclás con movimientos envolventes.",
+      "Enmantecás y espolvoreás con cacao 6 moldecitos individuales resistentes al horno. Volcás la mezcla.",
+      "Refrigerás los moldecitos 15 minutos (o hasta 24 horas).",
+      "Cocinás en horno precalentado a 200°C exactamente 12 minutos. El centro debe verse apenas tembloroso. Desmoldás de inmediato sobre el plato."
+    ],
+    "tip_nutricional": "El chocolate negro de alta concentración (60%+) es rico en flavonoides, magnesio y hierro. Los flavonoides mejoran la circulación cerebral y el rendimiento cognitivo. En cantidades moderadas, el cacao es genuinamente beneficioso.",
+    "tip_para_mama": "El secreto está en el tiempo: 12 minutos exactos. Si los dejás más, el centro se cocina y pierde el efecto líquido. Podés prepararlos la noche anterior y dejarlos en la heladera, así solo los horneás antes de servir.",
+    "imagen_url": "https://images.pexels.com/photos/33813614/pexels-photo-33813614.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 142,
+    "nombre": "Copas de frutas con crema diplomática",
+    "descripcion": "Postre elegant y sin horno con capas de crema diplomática y frutas frescas. La crema diplomática es la versión suave de la chantilly, con leche condensada que la hace irresistible.",
+    "categoria": "postre",
+    "tiempo_preparacion": 20,
+    "porciones": 6,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 80,
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 5,
+    "ingredientes": [
+      {
+        "nombre": "crema de leche",
+        "cantidad": "300",
+        "unidad": "ml"
+      },
+      {
+        "nombre": "leche condensada",
+        "cantidad": "1/2",
+        "unidad": "lata (200 g)"
+      },
+      {
+        "nombre": "extracto de vainilla",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "gelatina sin sabor",
+        "cantidad": "1",
+        "unidad": "sobre (7 g)"
+      },
+      {
+        "nombre": "frutillas frescas",
+        "cantidad": "200",
+        "unidad": "g"
+      },
+      {
+        "nombre": "duraznos en almíbar natural",
+        "cantidad": "1",
+        "unidad": "lata (420 g)"
+      },
+      {
+        "nombre": "kiwi",
+        "cantidad": "2",
+        "unidad": "unidades"
+      }
+    ],
+    "pasos": [
+      "Hidratás la gelatina en 3 cucharadas de agua fría 5 minutos. La disolvés a baño maría o en microondas.",
+      "Batís la crema de leche a punto chantilly firme. Incorporás la leche condensada, la vainilla y la gelatina disuelta con movimientos envolventes.",
+      "Preparás las frutas: cortás las frutillas en mitades, los duraznos escurridos en cubos y el kiwi pelado en rodajas.",
+      "En copas individuales o vasos altos armás las capas: crema diplomática, frutas variadas, crema nuevamente y decorás con una frutilla entera.",
+      "Refrigerás al menos 1 hora antes de servir para que la crema tome cuerpo.",
+      "Servís bien frío."
+    ],
+    "tip_nutricional": "La crema diplomática con leche condensada aporta calcio de alta biodisponibilidad y proteínas lácteas completas. Las frutas frescas suman vitamina C, potasio y antioxidantes que no se destruyen porque no hay cocción.",
+    "tip_para_mama": "Podés preparar las copas hasta el día anterior. Se conservan perfectamente en la heladera tapadas con film. La gelatina le da estabilidad a la crema para que no pierda volumen ni llore. Ideal para cumpleaños o reuniones familiares.",
+    "imagen_url": "https://images.pexels.com/photos/34636906/pexels-photo-34636906.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 143,
+    "nombre": "Torta de chocolate y remolacha",
+    "descripcion": "La torta más húmeda y esponjosa que vas a hacer. La remolacha es el ingrediente secreto que le da jugosidad sin que se note el sabor. Color intenso, textura perfecta y sin lácteos.",
+    "categoria": "postre",
+    "tiempo_preparacion": 55,
+    "porciones": 10,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 55,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": true,
+    "sin_huevo": false,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 5,
+    "ingredientes": [
+      {
+        "nombre": "remolacha cocida y procesada en puré",
+        "cantidad": "200",
+        "unidad": "g"
+      },
+      {
+        "nombre": "harina 0000",
+        "cantidad": "1.5",
+        "unidad": "tazas"
+      },
+      {
+        "nombre": "cacao amargo en polvo",
+        "cantidad": "1/2",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "azúcar",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "huevos",
+        "cantidad": "3",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "aceite de girasol",
+        "cantidad": "1/2",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "jugo de naranja",
+        "cantidad": "1/2",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "polvo de hornear",
+        "cantidad": "1.5",
+        "unidad": "cucharaditas"
+      },
+      {
+        "nombre": "bicarbonato de sodio",
+        "cantidad": "1/2",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "extracto de vainilla",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      }
+    ],
+    "pasos": [
+      "Precalentás el horno a 175°C y preparás un molde redondo de 22 cm enmantecado y enharinado.",
+      "Hervís la remolacha entera hasta que esté muy tierna (40 minutos) o la usás en conserva al vacío. La procesás hasta obtener un puré liso.",
+      "En un bowl batís los huevos con el azúcar hasta que espumen. Agregás el aceite, el puré de remolacha, el jugo de naranja y la vainilla.",
+      "En otro bowl mezclás los ingredientes secos: harina, cacao, polvo de hornear y bicarbonato.",
+      "Incorporás los secos a los húmedos mezclando con espátula hasta integrar.",
+      "Volcás en el molde y cocinás 40-45 minutos hasta que el palillo salga limpio.",
+      "Dejás enfriar completamente antes de desmoldar. Podés espolvorear azúcar impalpable o cubrir con ganache de chocolate."
+    ],
+    "tip_nutricional": "La remolacha aporta folato, hierro y betalaínas (pigmentos con propiedades antioxidantes únicas). Al estar oculta en el cacao, los chicos la consumen sin saberlo. El aceite de girasol reemplaza la manteca haciendo la torta sin lácteos.",
+    "tip_para_mama": "Esta torta es más húmeda el segundo día porque la humedad de la remolacha se redistribuye. Guardala tapada a temperatura ambiente hasta 3 días o en heladera hasta 5. En lonchera en porciones individuales también viaja perfecto.",
+    "imagen_url": "https://images.pexels.com/photos/28887736/pexels-photo-28887736.png?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 144,
+    "nombre": "Trufas de chocolate negro y naranja sin horno",
+    "descripcion": "Trufas elegantes que se hacen sin horno en 15 minutos activos más tiempo de heladera. El chocolate oscuro con ralladura de naranja es una combinación clásica que enamora a chicos que ya prueban sabores más adultos.",
+    "categoria": "postre",
+    "tiempo_preparacion": 15,
+    "porciones": 20,
+    "nivel_dificultad": "facil",
+    "edad_minima": 4,
+    "lista_en_minutos": 75,
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "chocolate negro (70% cacao)",
+        "cantidad": "200",
+        "unidad": "g"
+      },
+      {
+        "nombre": "crema de leche",
+        "cantidad": "100",
+        "unidad": "ml"
+      },
+      {
+        "nombre": "ralladura de naranja",
+        "cantidad": "1",
+        "unidad": "naranja entera"
+      },
+      {
+        "nombre": "manteca",
+        "cantidad": "20",
+        "unidad": "g"
+      },
+      {
+        "nombre": "cacao amargo en polvo (para rebozar)",
+        "cantidad": "1/2",
+        "unidad": "taza"
+      }
+    ],
+    "pasos": [
+      "Picás el chocolate finamente y lo ponés en un bowl resistente al calor.",
+      "Calentás la crema hasta que apenas hierva (sin dejar que rompa el hervor). La volcás sobre el chocolate picado.",
+      "Esperás 1 minuto y luego mezclás desde el centro hacia afuera hasta obtener una ganache lisa y brillante.",
+      "Agregás la manteca en trozos, la ralladura de naranja y mezclás hasta integrar.",
+      "Refrigerás la ganache 1 hora hasta que esté firme y manejable.",
+      "Con una cuchara, formás porciones y las rodás entre las palmas para hacer bolitas.",
+      "Rebozás rápidamente en el cacao amargo en polvo y refrigerás hasta servir."
+    ],
+    "tip_nutricional": "El chocolate con 70% de cacao tiene 3 veces más antioxidantes que el chocolate con leche. La ralladura de naranja suma vitamina C y limoneno, un compuesto que mejora el estado de ánimo. Son trufas que los niños mayores pueden disfrutar con moderación.",
+    "tip_para_mama": "Las trufas se guardan en la heladera hasta 2 semanas o en el freezer hasta 2 meses. Para regalar, ponelas en cápsulas de papel y una cajita de cartón. Son el regalo más elaborado que podés hacer con solo 5 ingredientes.",
+    "imagen_url": "https://images.pexels.com/photos/10313341/pexels-photo-10313341.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 145,
+    "nombre": "Chocotorta sin horno",
+    "descripcion": "La torta argentina más famosa sin hornear. Capas de galletitas de chocolate remojadas en café con leche intercaladas con crema de queso y dulce de leche. El postre más fácil y más pedido de todas las mesas argentinas.",
+    "categoria": "postre",
+    "tiempo_preparacion": 20,
+    "porciones": 10,
+    "nivel_dificultad": "facil",
+    "edad_minima": 3,
+    "lista_en_minutos": 260,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": false,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 5,
+    "ingredientes": [
+      {
+        "nombre": "galletitas de chocolate tipo Chocolinas",
+        "cantidad": "200",
+        "unidad": "g"
+      },
+      {
+        "nombre": "queso crema",
+        "cantidad": "300",
+        "unidad": "g"
+      },
+      {
+        "nombre": "dulce de leche repostero",
+        "cantidad": "400",
+        "unidad": "g"
+      },
+      {
+        "nombre": "café frío o leche con cacao",
+        "cantidad": "1",
+        "unidad": "taza (para remojar)"
+      }
+    ],
+    "pasos": [
+      "Mezclás el queso crema con el dulce de leche hasta obtener una crema homogénea y sin grumos. (Podés hacerlo con batidora o a mano con espátula.)",
+      "Preparás el café con leche o la leche con cacao en un plato hondo.",
+      "En una fuente cuadrada o rectangular, extendés una fina capa de la crema de queso y dulce.",
+      "Remojás las galletitas brevemente de ambos lados en el líquido (solo 2-3 segundos, que no se deshagan) y las acomodás en una capa.",
+      "Cubrís con otra capa generosa de crema. Repetís el proceso de galletitas y crema hasta terminar los ingredientes, terminando con crema encima.",
+      "Decorás la superficie con galletitas trituradas o viruta de chocolate.",
+      "Refrigerás mínimo 4 horas o de un día para el otro."
+    ],
+    "tip_nutricional": "El queso crema aporta calcio y proteínas lácteas. El dulce de leche suma calcio adicional de la leche. Aunque es un postre para ocasiones, la versión casera tiene mucho menos conservantes y colorantes que los productos industriales equivalentes.",
+    "tip_para_mama": "Para la versión infantil, podés remojar las galletitas en leche con cacao en lugar de café. La chocotorta se puede cortar en porciones individuales y llevar en tupper a cumpleaños. Se conserva hasta 5 días en la heladera perfectamente.",
+    "imagen_url": "https://images.pexels.com/photos/35920333/pexels-photo-35920333.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 146,
+    "nombre": "Batido de coco, ananá y jengibre",
+    "descripcion": "Batido tropical cremoso que transporta a la playa. La leche de coco con ananá y un toque de jengibre fresco es una bebida digestiva y energizante diferente a todo lo habitual.",
+    "categoria": "jugo",
+    "tiempo_preparacion": 5,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 5,
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "leche de coco en lata",
+        "cantidad": "1/2",
+        "unidad": "lata (200 ml)"
+      },
+      {
+        "nombre": "ananá fresco o en lata al natural",
+        "cantidad": "1.5",
+        "unidad": "tazas de cubos"
+      },
+      {
+        "nombre": "jengibre fresco rallado",
+        "cantidad": "1/2",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "miel o jarabe de arce",
+        "cantidad": "1",
+        "unidad": "cucharadita (opcional)"
+      },
+      {
+        "nombre": "agua fría",
+        "cantidad": "1/2",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "hielo",
+        "cantidad": "1",
+        "unidad": "taza"
+      }
+    ],
+    "pasos": [
+      "Ponés todos los ingredientes en la licuadora: la leche de coco, el ananá, el jengibre, la miel y el agua fría.",
+      "Licuás a máxima velocidad 1 minuto hasta obtener una mezcla completamente lisa y cremosa.",
+      "Agregás el hielo y licuás 30 segundos más hasta que quede tipo granizado suave.",
+      "Servís de inmediato en vasos altos.",
+      "Para la vianda: guardás en botella cerrada en la heladera (sin hielo) hasta el mediodía."
+    ],
+    "tip_nutricional": "La bromelina del ananá y los compuestos del jengibre trabajan en sinergia mejorando la digestión de proteínas y reduciendo la inflamación. La leche de coco aporta grasas de cadena media que proveen energía inmediata sin picos de glucosa.",
+    "tip_para_mama": "Si el jengibre le resulta muy intenso a tu hijo, reducí a una pizca y vas aumentando gradualmente. La leche de coco hace este batido mucho más cremoso y saciante que un jugo común, lo que lo convierte en una buena opción pre-actividad deportiva.",
+    "imagen_url": "https://images.pexels.com/photos/10986589/pexels-photo-10986589.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 147,
+    "nombre": "Leche dorada con cúrcuma y miel",
+    "descripcion": "La bebida antiinflamatoria de moda que los argentinos adoptaron como nueva infusión invernal. Reconfortante, especiada y naturalmente dulce. Perfecta antes de dormir o para chicos con resfríos.",
+    "categoria": "jugo",
+    "tiempo_preparacion": 10,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 10,
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "leche (o bebida de avena para versión vegana)",
+        "cantidad": "2",
+        "unidad": "tazas"
+      },
+      {
+        "nombre": "cúrcuma en polvo",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "canela en polvo",
+        "cantidad": "1/2",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "jengibre en polvo",
+        "cantidad": "1/4",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "pimienta negra molida",
+        "cantidad": "1",
+        "unidad": "pizca"
+      },
+      {
+        "nombre": "miel",
+        "cantidad": "1",
+        "unidad": "cucharada"
+      },
+      {
+        "nombre": "extracto de vainilla",
+        "cantidad": "1/2",
+        "unidad": "cucharadita"
+      }
+    ],
+    "pasos": [
+      "En una cacerolita calentás la leche a fuego medio-bajo hasta que esté bien caliente pero sin hervir.",
+      "Agregás la cúrcuma, la canela, el jengibre y la pimienta. Revolvés bien con un batidor de mano.",
+      "Cocinás 3-4 minutos revolviendo ocasionalmente para que las especias infusionen bien.",
+      "Apagás el fuego, agregás la miel y la vainilla. Mezclás.",
+      "Colás a través de un colador fino para eliminar posibles grumos de especias.",
+      "Servís caliente en tazas. Podés espolvorear un poquito de canela encima."
+    ],
+    "tip_nutricional": "La curcumina de la cúrcuma es uno de los antiinflamatorios naturales más estudiados. La pimienta negra aumenta su absorción hasta un 2000% gracias a la piperina. Es una bebida con evidencia científica real detrás, no solo moda.",
+    "tip_para_mama": "Esta bebida es ideal para chicos con resfríos o infecciones: la cúrcuma, el jengibre y la canela tienen propiedades antimicrobianas documentadas. Para una versión vegana, usá bebida de avena o de coco en lugar de leche de vaca.",
+    "imagen_url": "https://images.pexels.com/photos/17159195/pexels-photo-17159195.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 148,
+    "nombre": "Licuado de uva y manzana verde",
+    "descripcion": "Licuado morado intenso y refrescante con el dulzor natural de la uva y el frescor de la manzana verde. Sin azúcar agregada, lleno de antioxidantes y con un color que enamora a los chicos.",
+    "categoria": "jugo",
+    "tiempo_preparacion": 5,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "edad_minima": 1,
+    "lista_en_minutos": 5,
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "uvas negras o verdes sin semilla",
+        "cantidad": "2",
+        "unidad": "tazas (250 g)"
+      },
+      {
+        "nombre": "manzana verde",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "1",
+        "unidad": "cucharada"
+      },
+      {
+        "nombre": "agua fría",
+        "cantidad": "1/2",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "menta fresca (opcional)",
+        "cantidad": "4",
+        "unidad": "hojas"
+      },
+      {
+        "nombre": "hielo",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Lavás bien las uvas y les retirás los palitos.",
+      "Lavás la manzana, la descorazonás y la cortás en trozos (con cáscara para más fibra).",
+      "Ponés las uvas, la manzana, el jugo de limón, el agua fría y la menta en la licuadora.",
+      "Licuás a máxima velocidad 1 minuto hasta que quede completamente liso.",
+      "Si lo querés más fino, colás a través de un colador.",
+      "Servís sobre hielo en vasos. Para la vianda, guardás en botellita cerrada en la heladera."
+    ],
+    "tip_nutricional": "Las uvas negras son una de las frutas con mayor concentración de resveratrol, antioxidante que protege el sistema cardiovascular. Combinadas con la pectina de la manzana forman un licuado excepcionalmente rico en antioxidantes y fibra soluble.",
+    "tip_para_mama": "En temporada de uvas (febrero-abril en Argentina) hacé grandes tandas y congelalas en bolsas para usar todo el año. Las uvas congeladas también hacen el licuado más fresco sin necesidad de hielo, y son deliciosas como snack solo.",
+    "imagen_url": "https://images.pexels.com/photos/8169572/pexels-photo-8169572.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 149,
+    "nombre": "Té frío de tilo con limón y menta",
+    "descripcion": "El tilo es la infusión más relajante de la medicina popular argentina. Servido frío con limón y menta se convierte en una bebida veraniega que calma y refresca al mismo tiempo.",
+    "categoria": "jugo",
+    "tiempo_preparacion": 15,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 75,
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "indice_popularidad": 3,
+    "ingredientes": [
+      {
+        "nombre": "flores de tilo secas o saquitos de tilo",
+        "cantidad": "4",
+        "unidad": "cucharadas (o 4 saquitos)"
+      },
+      {
+        "nombre": "agua caliente (no hirviendo)",
+        "cantidad": "1",
+        "unidad": "litro"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "3",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "hojas de menta fresca",
+        "cantidad": "8",
+        "unidad": "hojas"
+      },
+      {
+        "nombre": "miel",
+        "cantidad": "2",
+        "unidad": "cucharadas"
+      },
+      {
+        "nombre": "rodajas de limón y hielo",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Calentás el agua hasta que esté caliente pero no hirviendo (unos 80°C). El agua hirviendo destruye los aceites esenciales del tilo.",
+      "Infusionás el tilo en el agua 8 minutos. Colás y descartás las flores.",
+      "Mientras está caliente, disolvés la miel en la infusión.",
+      "Dejás enfriar a temperatura ambiente y luego refrigerás 1 hora.",
+      "Cuando está bien frío, agregás el jugo de limón y las hojas de menta estrujadas.",
+      "Servís sobre hielo con rodajas de limón en el vaso.",
+      "Para la vianda: guardás en una botella cerrada en la heladera, se mantiene hasta 2 días."
+    ],
+    "tip_nutricional": "El tilo contiene flavonoides y aceites esenciales con propiedades ansiolíticas y sedantes suaves. Es la infusión más recomendada para chicos con nerviosismo, insomnio leve o ansiedad antes de exámenes, sin efectos secundarios.",
+    "tip_para_mama": "Podés preparar una gran jarra los domingos y tenerla en la heladera toda la semana. Si tu hijo está nervioso antes de exámenes o tiene días difíciles en el colegio, el té de tilo frío después de la escuela es una herramienta real y natural.",
+    "imagen_url": "https://images.pexels.com/photos/5648011/pexels-photo-5648011.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
+  },
+  {
+    "id": 150,
+    "nombre": "Batido de avena y dátiles con vainilla",
+    "descripcion": "Batido naturalmente dulce sin azúcar ni miel. Los dátiles aportan todo el dulzor de manera natural y con fibra real. Cremoso, nutritivo y sorprendentemente delicioso para quienes nunca lo probaron.",
+    "categoria": "jugo",
+    "tiempo_preparacion": 10,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "edad_minima": 2,
+    "lista_en_minutos": 10,
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": true,
+    "sin_huevo": true,
+    "sin_frutos_secos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "indice_popularidad": 4,
+    "ingredientes": [
+      {
+        "nombre": "dátiles medjool sin carozo",
+        "cantidad": "6",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "avena arrollada",
+        "cantidad": "1/3",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "leche de avena o de almendras",
+        "cantidad": "1.5",
+        "unidad": "tazas"
+      },
+      {
+        "nombre": "extracto de vainilla",
+        "cantidad": "1",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "canela en polvo",
+        "cantidad": "1/2",
+        "unidad": "cucharadita"
+      },
+      {
+        "nombre": "hielo",
+        "cantidad": "1",
+        "unidad": "taza"
+      }
+    ],
+    "pasos": [
+      "Remojás los dátiles en agua tibia 5 minutos para que se ablanden. Si son muy tiernos, podés omitir este paso.",
+      "Escurrís los dátiles y les retirás el carozo si no vienen sin él.",
+      "Ponés en la licuadora los dátiles, la avena cruda, la leche vegetal, la vainilla y la canela.",
+      "Licuás a máxima velocidad 1 minuto hasta que quede completamente liso (la avena se licua bien).",
+      "Agregás el hielo y licuás 30 segundos más.",
+      "Servís de inmediato en vasos. Para la vianda, guardás en botellita en la heladera sin hielo."
+    ],
+    "tip_nutricional": "Los dátiles son uno de los alimentos más ricos en azúcares naturales acompañados de fibra, potasio, magnesio y hierro. A diferencia del azúcar refinado, la fibra del dátil ralentiza la absorción de glucosa, evitando picos de energía.",
+    "tip_para_mama": "Los dátiles se consiguen en el súper en la sección de frutas secas o en dietéticas. Si no encontrás medjool, los dátiles comunes también funcionan aunque son más secos: remojalos 10 minutos. Este batido también sale muy bien con leche de coco.",
+    "imagen_url": "https://images.pexels.com/photos/2310553/pexels-photo-2310553.jpeg?auto=compress&cs=tinysrgb&h=350?auto=compress&cs=tinysrgb&w=640"
   }
 ]
