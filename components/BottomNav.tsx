@@ -5,10 +5,10 @@ import { usePathname } from 'next/navigation'
 
 const tabs = [
   { href: '/dashboard', label: 'Inicio', icon: '🏠' },
-  { href: '/recetas', label: 'Recetas', icon: '📖' },
+  { href: '/recetas', label: 'Recetas', icon: '🍽️' },
   { href: '/plan-semanal', label: 'Plan', icon: '📅' },
   { href: '/viandas', label: 'Viandas', icon: '🎒' },
-  { href: '/lista-compras', label: 'Lista', icon: '🛒' },
+  { href: '/guias', label: 'Guías', icon: '📚' },
   { href: '/perfil', label: 'Perfil', icon: '👤' },
 ]
 

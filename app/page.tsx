@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
+import Image from 'next/image'
 import Link from 'next/link'
 
 function useCountdown(minutes: number) {
@@ -58,7 +59,8 @@ function WABubble({ text, sent, time, name }: { text: string; sent?: boolean; ti
   )
 }
 
-const SHOPIFY_URL = 'https://agoraeducacion.store'
+const SHOPIFY_URL = 'https://agoraeducacion.store/cart/53225908535575:1'
+const WA_URL = 'https://wa.me/5493518509904?text=Hola!%20Acabo%20de%20comprar%20Nutriki%20y%20quiero%20activar%20mi%20acceso.%20Mi%20email%20es:'
 
 export default function LandingPage() {
   const countdown = useCountdown(15)
@@ -132,25 +134,44 @@ export default function LandingPage() {
         </div>
 
         {/* Antes / Después */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8 text-left">
-          <div className="bg-gray-800 border-2 border-gray-600 rounded-2xl p-5 sm:order-last">
-            <div className="text-4xl text-center mb-3">❌</div>
-            <div className="bg-gray-700 rounded-xl h-28 flex items-center justify-center mb-3">
-              <p className="text-gray-400 text-sm text-center px-4">Nuggets, fideos, milanesa... otra vez</p>
+        <div className="grid grid-cols-2 gap-3 mb-8">
+          {/* ❌ Sin Nutriki */}
+          <div className="bg-gray-800 border-2 border-red-900/60 rounded-2xl overflow-hidden sm:order-last">
+            <div className="relative aspect-[4/3]">
+              <Image
+                src="https://images.pexels.com/photos/5704250/pexels-photo-5704250.jpeg?auto=compress&cs=tinysrgb&w=640"
+                alt="Niño aburrido con comida repetitiva"
+                fill
+                className="object-cover grayscale"
+                sizes="(max-width: 640px) 50vw, 300px"
+              />
+              <div className="absolute inset-0 bg-red-950/30 pointer-events-none" />
+              <span className="absolute top-2 left-2 text-xl">❌</span>
             </div>
-            <p className="text-gray-400 text-sm text-center font-semibold">La misma historia de siempre</p>
+            <p className="text-gray-400 text-xs text-center font-semibold py-2 px-2">La misma historia de siempre</p>
           </div>
-          <div className="bg-verde/20 border-2 border-verde rounded-2xl p-5">
-            <div className="text-4xl text-center mb-3">✅</div>
-            <div className="bg-verde/30 rounded-xl h-28 flex items-center justify-center mb-3">
-              <p className="text-green-200 text-3xl text-center">🥦🍳🥗</p>
+          {/* ✅ Con Nutriki */}
+          <div className="bg-verde/10 border-2 border-verde rounded-2xl overflow-hidden">
+            <div className="relative aspect-[4/3]">
+              <Image
+                src="https://images.pexels.com/photos/6969708/pexels-photo-6969708.jpeg?auto=compress&cs=tinysrgb&w=640"
+                alt="Niño feliz comiendo comida saludable"
+                fill
+                className="object-cover"
+                sizes="(max-width: 640px) 50vw, 300px"
+              />
+              <div className="absolute inset-0 bg-verde/10 pointer-events-none" />
+              <span className="absolute top-2 left-2 text-xl">✅</span>
             </div>
-            <p className="text-green-300 text-sm text-center font-semibold">Con Nutriki, en 15 minutos</p>
+            <p className="text-green-300 text-xs text-center font-semibold py-2 px-2">Con Nutriki, en 15 minutos</p>
           </div>
         </div>
 
         <a
           href={SHOPIFY_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          onClick={() => { if (typeof window !== 'undefined' && (window as any).fbq) { (window as any).fbq('track', 'InitiateCheckout') } }}
           className="inline-block bg-naranja text-white font-extrabold text-lg px-8 py-4 rounded-2xl shadow-lg transition-transform active:scale-95"
         >
           🥦 Quiero acceder a Nutriki →
@@ -220,12 +241,15 @@ export default function LandingPage() {
             Una plataforma completa con recetas organizadas por edad, categoría y restricción alimentaria.
             Plan semanal, lista de compras, guía nutricional y mucho más — todo en tu celular.
           </p>
-          <div className="bg-verde/20 rounded-3xl h-48 flex items-center justify-center border border-verde/30">
-            <div className="text-center">
-              <p className="text-4xl mb-2">📱</p>
-              <p className="text-green-300 font-semibold">Nutriki — tu cocina inteligente</p>
-            </div>
-          </div>
+          <Image
+            src="/mockup-nutriki.png"
+            alt="Plataforma Nutriki"
+            width={500}
+            height={500}
+            className="mx-auto drop-shadow-xl rounded-2xl"
+            style={{ width: '100%', maxWidth: '500px', height: 'auto' }}
+            priority
+          />
         </section>
       </div>
 
@@ -234,22 +258,27 @@ export default function LandingPage() {
         <h2 className="text-2xl sm:text-3xl font-extrabold text-center mb-8">
           Todo lo que recibís con tu acceso
         </h2>
-        <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
+        <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
           {[
-            { emoji: '📖', bg: 'from-green-800 to-green-600', nombre: '200+ Recetas Infantiles', desc: 'Desayunos, almuerzos, cenas, meriendas, postres y jugos' },
-            { emoji: '📋', bg: 'from-blue-800 to-blue-600', nombre: 'Guía por Edad', desc: 'Qué comer a los 2, 5, 8 y 12 años' },
-            { emoji: '📅', bg: 'from-purple-800 to-purple-600', nombre: 'Plan Semanal Listo', desc: 'Menú de 7 días con lista de compras incluida' },
-            { emoji: '🎒', bg: 'from-orange-800 to-orange-600', nombre: 'Viandas Escolares', desc: '40 opciones portátiles y nutritivas para la mochila' },
-            { emoji: '🍮', bg: 'from-pink-800 to-pink-600', nombre: 'Postres Sin Culpa', desc: '25 recetas dulces sin azúcar refinada' },
-            { emoji: '🥤', bg: 'from-cyan-800 to-cyan-600', nombre: 'Jugos y Licuados', desc: '15 recetas coloridas que los chicos piden repetir' },
-            { emoji: '🧩', bg: 'from-yellow-800 to-yellow-600', nombre: 'Guía Anti-Selectividad', desc: 'Cómo presentar comidas nuevas sin batallar' },
+            { img: '/bono1-nutriki.jpg', nombre: '200+ Recetas Infantiles' },
+            { img: '/bono2-nutriki.jpg', nombre: 'Guía de Alimentación por Edad' },
+            { img: '/bono3-nutriki.jpg', nombre: 'Plan Semanal Completo' },
+            { img: '/bono4-nutriki.jpg', nombre: 'Viandas Escolares' },
+            { img: '/bono5-nutriki.jpg', nombre: 'Postres Sin Culpa' },
+            { img: '/bono6-nutriki.jpg', nombre: 'Jugos y Licuados Saludables' },
+            { img: '/bono7-nutriki.jpg', nombre: 'Guía Anti-Selectividad' },
           ].map((b, i) => (
-            <div key={i} className={`bg-gradient-to-br ${b.bg} rounded-2xl overflow-hidden`}>
-              <div className="p-4">
-                <div className="text-3xl mb-2">{b.emoji}</div>
-                <p className="font-bold text-white text-sm leading-tight mb-1">{b.nombre}</p>
-                <p className="text-gray-300 text-xs">{b.desc}</p>
+            <div key={i} className="flex flex-col items-center">
+              <div className="relative w-full aspect-[3/4] rounded-xl overflow-hidden">
+                <Image
+                  src={b.img}
+                  alt={b.nombre}
+                  fill
+                  className="object-contain"
+                  sizes="(max-width: 640px) 50vw, 25vw"
+                />
               </div>
+              <p className="text-white font-semibold text-xs text-center mt-2 leading-snug">{b.nombre}</p>
             </div>
           ))}
         </div>
@@ -377,6 +406,9 @@ export default function LandingPage() {
 
             <a
               href={SHOPIFY_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={() => { if (typeof window !== 'undefined' && (window as any).fbq) { (window as any).fbq('track', 'InitiateCheckout') } }}
               className="block w-full bg-verde text-white font-extrabold text-lg py-4 rounded-2xl text-center transition-transform active:scale-95"
             >
               Sí, quiero acceder a Nutriki →
@@ -478,6 +510,9 @@ export default function LandingPage() {
         <p className="text-gray-300 mb-8">Más de 800 mamás ya no tienen ese problema.</p>
         <a
           href={SHOPIFY_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          onClick={() => { if (typeof window !== 'undefined' && (window as any).fbq) { (window as any).fbq('track', 'InitiateCheckout') } }}
           className="inline-block bg-verde text-white font-extrabold text-xl px-10 py-5 rounded-2xl shadow-lg transition-transform active:scale-95"
         >
           🥦 Quiero acceder a Nutriki →
@@ -493,10 +528,12 @@ export default function LandingPage() {
           <a href="#" className="hover:text-white">Recetas</a>
           <a href="#" className="hover:text-white">Garantía</a>
           <Link href="/login" className="hover:text-white">Ingresar</Link>
-          <a href="https://wa.me/5493518509904" className="hover:text-white">Contacto</a>
+          <a href={WA_URL} target="_blank" rel="noopener noreferrer" className="hover:text-white">Contacto</a>
         </div>
         <a
-          href="https://wa.me/5493518509904"
+          href={WA_URL}
+          target="_blank"
+          rel="noopener noreferrer"
           className="inline-flex items-center gap-2 text-white font-semibold px-5 py-2.5 rounded-full text-sm mb-6"
           style={{ background: '#25D366' }}
         >

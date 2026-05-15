@@ -39,6 +39,15 @@ function RecetasContent() {
   const [favoritos, setFavoritos] = useState<number[]>([])
 
   useEffect(() => {
+    // Inicializar filtros desde URL params (ej: /recetas?cat=postre&especial=apta_vianda)
+    const params = new URLSearchParams(window.location.search)
+    const cat = params.get('cat')
+    const esp = params.get('especial')
+    if (cat) setCatActiva(cat)
+    if (esp) setEspecial(esp)
+  }, [])
+
+  useEffect(() => {
     cargarRecetas()
     if (perfil) cargarFavoritos()
   }, [perfil])
@@ -48,8 +57,10 @@ function RecetasContent() {
   }, [recetas, catActiva, especial, busqueda])
 
   async function cargarRecetas() {
-    const { data } = await supabase.from('recetas_nutriki').select('*').order('indice_popularidad', { ascending: false })
+    const { data, error } = await supabase.from('recetas_nutriki').select('*').order('indice_popularidad', { ascending: false })
+    if (error) console.error('[recetas] Supabase error:', error.code, error.message, error.details, error.hint)
     if (data) setRecetas(data as Receta[])
+    else console.warn('[recetas] data es null — posible bloqueo RLS o tabla vacía')
     setLoading(false)
   }
 

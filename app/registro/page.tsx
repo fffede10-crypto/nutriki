@@ -32,13 +32,14 @@ export default function RegistroPage() {
     })
 
     if (authError) {
-      setError('No se pudo crear la cuenta. Intentá de nuevo.')
+      console.error('[Supabase Auth] signUp error:', authError)
+      setError(`Error Supabase: ${authError.message} (status ${authError.status ?? 'n/a'})`)
       setLoading(false)
       return
     }
 
     if (data.user) {
-      await supabase.from('usuarios_nutriki').upsert({
+      const { error: dbError } = await supabase.from('usuarios_nutriki').upsert({
         id: data.user.id,
         email,
         nombre,
@@ -47,6 +48,10 @@ export default function RegistroPage() {
         restricciones_alimentarias: [],
         preferencias: [],
       })
+      if (dbError) console.error('[Supabase DB] upsert usuarios_nutriki:', dbError)
+    } else {
+      // signUp sin error pero sin user — confirmación de email pendiente
+      console.warn('[Supabase Auth] signUp OK pero data.user es null — email confirmation requerida')
     }
 
     setSuccess(true)
