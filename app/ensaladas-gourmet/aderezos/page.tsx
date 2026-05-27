@@ -55,23 +55,15 @@ function AderezosContent() {
   )
 }
 
-const PALETA = ['#E8F5E9', '#FFF3E0', '#FCE4EC', '#E3F2FD', '#F3E5F5', '#E0F7FA', '#FFF9C4', '#F1F8E9', '#EDE7F6', '#FBE9E7']
+const ADEREZO_STYLE = { bg: 'bg-amber-100', emoji: '🫙' }
 
 function AderezoBigCard({ aderezo }: { aderezo: AderezoEnsalada }) {
-  const bg = PALETA[(aderezo.id - 1) % PALETA.length]
-
   return (
     <Link href={`/ensaladas-gourmet/aderezos/${aderezo.id}`}>
       <div className="bg-white rounded-2xl overflow-hidden border border-gray-100 shadow-sm active:scale-[0.98] transition-transform">
         <div className="flex items-center gap-4 p-4">
-          <div
-            className="w-16 h-16 rounded-xl overflow-hidden flex-none"
-            style={{ backgroundColor: bg }}
-          >
-            {aderezo.imagen_url
-              ? <img src={aderezo.imagen_url} alt={aderezo.nombre} className="w-full h-full object-cover" />
-              : <div className="w-full h-full flex items-center justify-center text-3xl">🫙</div>
-            }
+          <div className={`w-16 h-16 rounded-xl ${ADEREZO_STYLE.bg} flex items-center justify-center flex-none`}>
+            <span className="text-3xl">{ADEREZO_STYLE.emoji}</span>
           </div>
           <div className="flex-1 min-w-0">
             <p className="font-bold" style={{ color: '#1C1917' }}>{aderezo.nombre}</p>

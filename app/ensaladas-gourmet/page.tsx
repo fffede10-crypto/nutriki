@@ -144,10 +144,9 @@ function DashboardContent() {
                     href={`/ensaladas-gourmet/aderezos/${a.id}`}
                     className="bg-white rounded-2xl p-4 flex items-center gap-3 border border-gray-100 shadow-sm active:scale-[0.98] transition-transform"
                   >
-                    {a.imagen_url
-                      ? <img src={a.imagen_url} alt={a.nombre} className="w-12 h-12 rounded-xl object-cover flex-none" />
-                      : <span className="text-3xl flex-none">🫙</span>
-                    }
+                    <div className={`w-12 h-12 rounded-xl ${ADEREZO_STYLE.bg} flex items-center justify-center flex-none`}>
+                      <span className="text-2xl">{ADEREZO_STYLE.emoji}</span>
+                    </div>
                     <div className="flex-1 min-w-0">
                       <p className="font-bold text-sm" style={{ color: '#1C1917' }}>{a.nombre}</p>
                       <p className="text-xs text-gray-500 line-clamp-1">{a.descripcion}</p>
@@ -205,15 +204,21 @@ function DashboardContent() {
   )
 }
 
+const CATEGORIA_STYLE: Record<string, { bg: string; emoji: string }> = {
+  express:        { bg: 'bg-green-100',  emoji: '⚡' },
+  plato_completo: { bg: 'bg-orange-100', emoji: '🍽️' },
+  juntada:        { bg: 'bg-pink-100',   emoji: '🎉' },
+  sin_lechuga:    { bg: 'bg-lime-100',   emoji: '🥬' },
+  frutal:         { bg: 'bg-yellow-100', emoji: '🍓' },
+}
+const ADEREZO_STYLE = { bg: 'bg-amber-100', emoji: '🫙' }
+
 function RecetaCardMini({ receta }: { receta: RecetaEnsalada }) {
   return (
     <Link href={`/ensaladas-gourmet/recetas/${receta.id}`} className="w-40 flex-none">
       <div className="bg-white rounded-2xl overflow-hidden border border-gray-100 shadow-sm active:scale-[0.98] transition-transform">
-        <div className="h-24 overflow-hidden" style={{ backgroundColor: '#E8F5E9' }}>
-          {receta.imagen_url
-            ? <img src={receta.imagen_url} alt={receta.nombre} className="w-full h-full object-cover" />
-            : <div className="w-full h-full flex items-center justify-center text-4xl">🥗</div>
-          }
+        <div className={`h-24 ${(CATEGORIA_STYLE[receta.categoria] || CATEGORIA_STYLE.express).bg} flex items-center justify-center rounded-t-2xl`}>
+          <span className="text-4xl">{(CATEGORIA_STYLE[receta.categoria] || CATEGORIA_STYLE.express).emoji}</span>
         </div>
         <div className="p-2">
           <p className="text-xs font-bold leading-snug line-clamp-2" style={{ color: '#1C1917' }}>{receta.nombre}</p>
@@ -230,11 +235,8 @@ function RecetaCardGrid({ receta }: { receta: RecetaEnsalada }) {
   return (
     <Link href={`/ensaladas-gourmet/recetas/${receta.id}`}>
       <div className="bg-white rounded-2xl overflow-hidden border border-gray-100 shadow-sm active:scale-[0.98] transition-transform">
-        <div className="h-28 overflow-hidden" style={{ backgroundColor: '#FCE4EC' }}>
-          {receta.imagen_url
-            ? <img src={receta.imagen_url} alt={receta.nombre} className="w-full h-full object-cover" />
-            : <div className="w-full h-full flex items-center justify-center text-5xl">🥗</div>
-          }
+        <div className={`h-28 ${(CATEGORIA_STYLE[receta.categoria] || CATEGORIA_STYLE.express).bg} flex items-center justify-center rounded-t-2xl`}>
+          <span className="text-5xl">{(CATEGORIA_STYLE[receta.categoria] || CATEGORIA_STYLE.express).emoji}</span>
         </div>
         <div className="p-3">
           <p className="text-xs font-bold leading-snug line-clamp-2" style={{ color: '#1C1917' }}>{receta.nombre}</p>

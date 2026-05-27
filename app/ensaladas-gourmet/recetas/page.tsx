@@ -172,26 +172,23 @@ function BibliotecaContent() {
   )
 }
 
+const CATEGORIA_STYLE: Record<string, { bg: string; emoji: string }> = {
+  express:        { bg: 'bg-green-100',  emoji: '⚡' },
+  plato_completo: { bg: 'bg-orange-100', emoji: '🍽️' },
+  juntada:        { bg: 'bg-pink-100',   emoji: '🎉' },
+  sin_lechuga:    { bg: 'bg-lime-100',   emoji: '🥬' },
+  frutal:         { bg: 'bg-yellow-100', emoji: '🍓' },
+}
+
 function RecetaCard({ receta }: { receta: RecetaEnsalada }) {
-  const catColors: Record<string, string> = {
-    express: '#E8F5E9',
-    plato_completo: '#FFF3E0',
-    juntada: '#FCE4EC',
-    sin_lechuga: '#E3F2FD',
-    frutal: '#F3E5F5',
-  }
+  const style = CATEGORIA_STYLE[receta.categoria] || CATEGORIA_STYLE.express
 
   return (
     <Link href={`/ensaladas-gourmet/recetas/${receta.id}`}>
       <div className="bg-white rounded-2xl overflow-hidden border border-gray-100 shadow-sm active:scale-[0.98] transition-transform h-full">
-        <div
-          className="h-28 overflow-hidden"
-          style={{ backgroundColor: catColors[receta.categoria] || '#E8F5E9' }}
-        >
-          {receta.imagen_url
-            ? <img src={receta.imagen_url} alt={receta.nombre} className="w-full h-full object-cover" />
-            : <div className="w-full h-full flex items-center justify-center text-5xl">🥗</div>
-          }
+        <div className={`h-28 ${style.bg} flex items-center justify-center rounded-t-2xl`}>
+          <span className="text-5xl">{style.emoji}</span>
+        </div>
         </div>
         <div className="p-3">
           <p className="text-xs font-bold leading-snug line-clamp-2 mb-2" style={{ color: '#1C1917' }}>

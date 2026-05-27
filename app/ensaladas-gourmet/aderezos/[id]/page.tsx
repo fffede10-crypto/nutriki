@@ -8,23 +8,21 @@ import EnsaladasGuard from '@/components/EnsaladasGuard'
 import EnsaladasNav from '@/components/EnsaladasNav'
 import { AderezoEnsalada, RecetaEnsalada } from '@/types/ensaladas'
 
-const catBg: Record<string, string> = {
-  express: '#E8F5E9',
-  plato_completo: '#FFF3E0',
-  juntada: '#FCE4EC',
-  sin_lechuga: '#E3F2FD',
-  frutal: '#F3E5F5',
+const CATEGORIA_STYLE: Record<string, { bg: string; emoji: string }> = {
+  express:        { bg: 'bg-green-100',  emoji: '⚡' },
+  plato_completo: { bg: 'bg-orange-100', emoji: '🍽️' },
+  juntada:        { bg: 'bg-pink-100',   emoji: '🎉' },
+  sin_lechuga:    { bg: 'bg-lime-100',   emoji: '🥬' },
+  frutal:         { bg: 'bg-yellow-100', emoji: '🍓' },
 }
+const ADEREZO_STYLE = { bg: 'bg-amber-100', emoji: '🫙' }
 
 function AderezoCon({ receta }: { receta: RecetaEnsalada }) {
   return (
     <Link href={`/ensaladas-gourmet/recetas/${receta.id}`} className="flex-none w-32">
       <div className="bg-white rounded-xl overflow-hidden border border-gray-100 shadow-sm active:scale-[0.98] transition-transform">
-        <div className="h-20 overflow-hidden" style={{ backgroundColor: catBg[receta.categoria] || '#E8F5E9' }}>
-          {receta.imagen_url
-            ? <img src={receta.imagen_url} alt={receta.nombre} className="w-full h-full object-cover" />
-            : <div className="w-full h-full flex items-center justify-center text-3xl">🥗</div>
-          }
+        <div className={`h-20 ${CATEGORIA_STYLE[receta.categoria]?.bg || 'bg-green-100'} flex items-center justify-center rounded-t-xl`}>
+          <span className="text-3xl">{CATEGORIA_STYLE[receta.categoria]?.emoji || '🥗'}</span>
         </div>
         <div className="p-2">
           <p className="text-[10px] font-bold line-clamp-2" style={{ color: '#1C1917' }}>{receta.nombre}</p>
@@ -77,11 +75,8 @@ function AderezDetalleContent() {
       <div className="max-w-lg mx-auto">
 
         {/* Hero */}
-        <div className="relative h-48 overflow-hidden" style={{ backgroundColor: '#E8F5E9' }}>
-          {aderezo.imagen_url
-            ? <img src={aderezo.imagen_url} alt={aderezo.nombre} className="w-full h-full object-cover" />
-            : <div className="w-full h-full flex items-center justify-center text-8xl">🫙</div>
-          }
+        <div className={`relative h-48 ${ADEREZO_STYLE.bg} flex items-center justify-center`}>
+          <span className="text-8xl">{ADEREZO_STYLE.emoji}</span>
           <button
             onClick={() => router.back()}
             className="absolute top-4 left-4 w-9 h-9 bg-white rounded-full flex items-center justify-center shadow-md text-gray-600"
