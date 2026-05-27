@@ -189,7 +189,6 @@ function RecetaCard({ receta }: { receta: RecetaEnsalada }) {
         <div className={`h-28 ${style.bg} flex items-center justify-center rounded-t-2xl`}>
           <span className="text-5xl">{style.emoji}</span>
         </div>
-        </div>
         <div className="p-3">
           <p className="text-xs font-bold leading-snug line-clamp-2 mb-2" style={{ color: '#1C1917' }}>
             {receta.nombre}
