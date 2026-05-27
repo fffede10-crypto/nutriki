@@ -11,6 +11,11 @@ const RUTAS_PRODUCTO: Record<string, string> = {
   nutriki_completo: '/dashboard',
 }
 
+function redirigir(ruta: string) {
+  // Intenta con router primero; si no navega, fuerza con location
+  window.location.href = ruta
+}
+
 export default function LoginPage() {
   const router = useRouter()
   const [email, setEmail] = useState('')
@@ -23,29 +28,46 @@ export default function LoginPage() {
     setLoading(true)
     setError('')
 
-    const { data: authData, error: authError } = await supabase.auth.signInWithPassword({ email, password })
+    try {
+      // PASO 1: autenticación
+      console.log('[login] Intentando signInWithPassword...')
+      const { data: authData, error: authError } = await supabase.auth.signInWithPassword({ email, password })
+      console.log('[login] Resultado auth:', { user: authData?.user?.id, error: authError?.message })
 
-    if (authError || !authData.user) {
-      setError('Email o contraseña incorrectos. Verificá y volvé a intentar.')
+      if (authError || !authData?.user) {
+        setError('Email o contraseña incorrectos. Verificá y volvé a intentar.')
+        setLoading(false)
+        return
+      }
+
+      // PASO 2: buscar productos activos
+      console.log('[login] Login OK, buscando productos para usuario:', authData.user.id)
+      const { data: productos, error: prodError } = await supabase
+        .from('usuario_productos')
+        .select('producto')
+        .eq('usuario_id', authData.user.id)
+        .eq('activo', true)
+
+      console.log('[login] Productos:', productos, '| Error:', prodError?.message)
+
+      // PASO 3: decidir a dónde ir
+      let destino = '/dashboard'
+
+      if (productos && productos.length === 1) {
+        destino = RUTAS_PRODUCTO[productos[0].producto] ?? '/dashboard'
+      } else if (prodError) {
+        // tabla no existe o error de permisos → ir al dashboard de todas formas
+        console.warn('[login] Error consultando usuario_productos, redirigiendo a /dashboard')
+      }
+
+      console.log('[login] Redirigiendo a:', destino)
+      redirigir(destino)
+
+    } catch (err) {
+      console.error('[login] Error inesperado:', err)
+      setError('Ocurrió un error inesperado. Intentá de nuevo.')
       setLoading(false)
-      return
     }
-
-    // Determinar a qué módulo redirigir según productos activos
-    const { data: productos } = await supabase
-      .from('usuario_productos')
-      .select('producto')
-      .eq('usuario_id', authData.user.id)
-      .eq('activo', true)
-
-    if (productos && productos.length === 1) {
-      const ruta = RUTAS_PRODUCTO[productos[0].producto] ?? '/dashboard'
-      router.push(ruta)
-      return
-    }
-
-    // Sin productos específicos o con múltiples → dashboard principal
-    router.push('/dashboard')
   }
 
   return (
