@@ -5,6 +5,12 @@ import { useRouter } from 'next/navigation'
 import Link from 'next/link'
 import { supabase } from '@/lib/supabase'
 
+const RUTAS_PRODUCTO: Record<string, string> = {
+  ensaladas_gourmet: '/ensaladas-gourmet',
+  tiroides_activa: '/dashboard',
+  nutriki_completo: '/dashboard',
+}
+
 export default function LoginPage() {
   const router = useRouter()
   const [email, setEmail] = useState('')
@@ -17,14 +23,28 @@ export default function LoginPage() {
     setLoading(true)
     setError('')
 
-    const { error } = await supabase.auth.signInWithPassword({ email, password })
+    const { data: authData, error: authError } = await supabase.auth.signInWithPassword({ email, password })
 
-    if (error) {
+    if (authError || !authData.user) {
       setError('Email o contraseña incorrectos. Verificá y volvé a intentar.')
       setLoading(false)
       return
     }
 
+    // Determinar a qué módulo redirigir según productos activos
+    const { data: productos } = await supabase
+      .from('usuario_productos')
+      .select('producto')
+      .eq('usuario_id', authData.user.id)
+      .eq('activo', true)
+
+    if (productos && productos.length === 1) {
+      const ruta = RUTAS_PRODUCTO[productos[0].producto] ?? '/dashboard'
+      router.push(ruta)
+      return
+    }
+
+    // Sin productos específicos o con múltiples → dashboard principal
     router.push('/dashboard')
   }
 
