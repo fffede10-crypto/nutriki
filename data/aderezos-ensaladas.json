@@ -6,14 +6,46 @@
     "tiempo_preparacion": 5,
     "rinde": "para 4 ensaladas",
     "ingredientes": [
-      {"nombre": "mayonesa", "cantidad": "3", "unidad": "cdas"},
-      {"nombre": "queso parmesano rallado", "cantidad": "2", "unidad": "cdas"},
-      {"nombre": "ajo", "cantidad": "1", "unidad": "diente"},
-      {"nombre": "jugo de limón", "cantidad": "1", "unidad": "cda"},
-      {"nombre": "mostaza dijon", "cantidad": "1", "unidad": "cdita"},
-      {"nombre": "salsa Worcestershire", "cantidad": "1", "unidad": "cdita"},
-      {"nombre": "aceite de oliva", "cantidad": "2", "unidad": "cdas"},
-      {"nombre": "sal y pimienta", "cantidad": "a gusto", "unidad": ""}
+      {
+        "nombre": "mayonesa",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "queso parmesano rallado",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "1",
+        "unidad": "diente"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "mostaza dijon",
+        "cantidad": "1",
+        "unidad": "cdita"
+      },
+      {
+        "nombre": "salsa Worcestershire",
+        "cantidad": "1",
+        "unidad": "cdita"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
     ],
     "pasos": [
       "Triturás el diente de ajo o lo rallás fino con un microplane.",
@@ -22,8 +54,12 @@
       "Probás y ajustás sal y pimienta. Si queda muy espeso, tirás un chorrito de agua fría."
     ],
     "tip_chef": "El truco es el microplane para el ajo: se integra sin dejar pedazos y libera más sabor. Si tenés, sumá una anchoa picada finísima — transforma el aderezo.",
-    "ensaladas_que_combina": [12, 26, 29],
-    "imagen_url": ""
+    "ensaladas_que_combina": [
+      12,
+      26,
+      29
+    ],
+    "imagen_url": "/aderezos/aderezo-1.jpg"
   },
   {
     "id": 2,
@@ -32,13 +68,41 @@
     "tiempo_preparacion": 5,
     "rinde": "para 4 ensaladas",
     "ingredientes": [
-      {"nombre": "tahini", "cantidad": "3", "unidad": "cdas"},
-      {"nombre": "jugo de limón", "cantidad": "2", "unidad": "cdas"},
-      {"nombre": "ajo", "cantidad": "1", "unidad": "diente pequeño"},
-      {"nombre": "agua fría", "cantidad": "3", "unidad": "cdas"},
-      {"nombre": "aceite de oliva", "cantidad": "1", "unidad": "cda"},
-      {"nombre": "sal", "cantidad": "a gusto", "unidad": ""},
-      {"nombre": "comino", "cantidad": "1", "unidad": "pizca"}
+      {
+        "nombre": "tahini",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "1",
+        "unidad": "diente pequeño"
+      },
+      {
+        "nombre": "agua fría",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "sal",
+        "cantidad": "a gusto",
+        "unidad": ""
+      },
+      {
+        "nombre": "comino",
+        "cantidad": "1",
+        "unidad": "pizca"
+      }
     ],
     "pasos": [
       "Rallás o triturás el ajo y lo mezclás con el tahini y el jugo de limón.",
@@ -47,8 +111,15 @@
       "Probás y ajustás limón y sal. Si queda muy espeso tirás un poco más de agua."
     ],
     "tip_chef": "El secreto es el agua fría: la incorporás de a cucharadas y el tahini emulsiona solo. Cuanto más frío el agua, más sedoso queda.",
-    "ensaladas_que_combina": [11, 6, 24, 19, 33, 36],
-    "imagen_url": ""
+    "ensaladas_que_combina": [
+      11,
+      6,
+      24,
+      19,
+      33,
+      36
+    ],
+    "imagen_url": "/aderezos/aderezo-2.jpg"
   },
   {
     "id": 3,
@@ -57,11 +128,31 @@
     "tiempo_preparacion": 3,
     "rinde": "para 4 ensaladas",
     "ingredientes": [
-      {"nombre": "miel", "cantidad": "2", "unidad": "cdas"},
-      {"nombre": "mostaza dijon", "cantidad": "2", "unidad": "cdas"},
-      {"nombre": "vinagre de manzana", "cantidad": "1", "unidad": "cda"},
-      {"nombre": "aceite de oliva", "cantidad": "3", "unidad": "cdas"},
-      {"nombre": "sal y pimienta", "cantidad": "a gusto", "unidad": ""}
+      {
+        "nombre": "miel",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "mostaza dijon",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "vinagre de manzana",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
     ],
     "pasos": [
       "Mezclás la miel con la mostaza y el vinagre en un frasco o bol pequeño.",
@@ -69,8 +160,16 @@
       "Probás y ajustás: más miel si querés más dulce, más vinagre si querés más acidez."
     ],
     "tip_chef": "Usá mostaza dijon en lugar de mostaza común — la diferencia de sabor es enorme. Si tenés miel de buena calidad, notás el upgrade al toque.",
-    "ensaladas_que_combina": [10, 4, 7, 31, 43, 46, 48],
-    "imagen_url": ""
+    "ensaladas_que_combina": [
+      10,
+      4,
+      7,
+      31,
+      43,
+      46,
+      48
+    ],
+    "imagen_url": "/aderezos/aderezo-3.jpg"
   },
   {
     "id": 4,
@@ -79,12 +178,36 @@
     "tiempo_preparacion": 5,
     "rinde": "para 4 ensaladas",
     "ingredientes": [
-      {"nombre": "yogur natural entero", "cantidad": "4", "unidad": "cdas"},
-      {"nombre": "eneldo fresco o seco", "cantidad": "1", "unidad": "cda"},
-      {"nombre": "jugo de limón", "cantidad": "1", "unidad": "cda"},
-      {"nombre": "ajo", "cantidad": "1/2", "unidad": "diente"},
-      {"nombre": "aceite de oliva", "cantidad": "1", "unidad": "cda"},
-      {"nombre": "sal y pimienta", "cantidad": "a gusto", "unidad": ""}
+      {
+        "nombre": "yogur natural entero",
+        "cantidad": "4",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "eneldo fresco o seco",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "1/2",
+        "unidad": "diente"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
     ],
     "pasos": [
       "Rallás el medio diente de ajo finísimo y lo mezclás con el yogur.",
@@ -93,8 +216,14 @@
       "Lo dejás reposar 10 minutos en la heladera para que los sabores se integren."
     ],
     "tip_chef": "Si usás eneldo fresco, trituralo un poco entre las manos antes de agregar — libera más aceites esenciales y el sabor se potencia.",
-    "ensaladas_que_combina": [5, 17, 21, 38, 39],
-    "imagen_url": ""
+    "ensaladas_que_combina": [
+      5,
+      17,
+      21,
+      38,
+      39
+    ],
+    "imagen_url": "/aderezos/aderezo-4.jpg"
   },
   {
     "id": 5,
@@ -103,11 +232,31 @@
     "tiempo_preparacion": 3,
     "rinde": "para 4 ensaladas",
     "ingredientes": [
-      {"nombre": "vinagre balsámico", "cantidad": "2", "unidad": "cdas"},
-      {"nombre": "aceite de oliva extra virgen", "cantidad": "4", "unidad": "cdas"},
-      {"nombre": "mostaza dijon", "cantidad": "1/2", "unidad": "cdita"},
-      {"nombre": "miel", "cantidad": "1", "unidad": "cdita"},
-      {"nombre": "sal y pimienta negra", "cantidad": "a gusto", "unidad": ""}
+      {
+        "nombre": "vinagre balsámico",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "aceite de oliva extra virgen",
+        "cantidad": "4",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "mostaza dijon",
+        "cantidad": "1/2",
+        "unidad": "cdita"
+      },
+      {
+        "nombre": "miel",
+        "cantidad": "1",
+        "unidad": "cdita"
+      },
+      {
+        "nombre": "sal y pimienta negra",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
     ],
     "pasos": [
       "En un frasco con tapa mezclás el vinagre balsámico con la mostaza y la miel.",
@@ -115,8 +264,21 @@
       "Probás y ajustás sal, pimienta o acidez según preferencia."
     ],
     "tip_chef": "La proporción clásica es 1 parte de vinagre por 2 de aceite, pero con balsámico podés ir 1:2 o incluso 1:1.5 porque es más suave. El truco del frasco para emulsionar es de chef de restaurante.",
-    "ensaladas_que_combina": [1, 2, 8, 14, 18, 22, 25, 32, 34, 35, 37, 44],
-    "imagen_url": ""
+    "ensaladas_que_combina": [
+      1,
+      2,
+      8,
+      14,
+      18,
+      22,
+      25,
+      32,
+      34,
+      35,
+      37,
+      44
+    ],
+    "imagen_url": "/aderezos/aderezo-5.jpg"
   },
   {
     "id": 6,
@@ -125,14 +287,46 @@
     "tiempo_preparacion": 5,
     "rinde": "para 4 ensaladas",
     "ingredientes": [
-      {"nombre": "aceite de sésamo tostado", "cantidad": "2", "unidad": "cdas"},
-      {"nombre": "salsa de soja", "cantidad": "2", "unidad": "cdas"},
-      {"nombre": "jengibre fresco rallado", "cantidad": "1", "unidad": "cdita"},
-      {"nombre": "ajo", "cantidad": "1", "unidad": "diente"},
-      {"nombre": "miel o azúcar mascabo", "cantidad": "1", "unidad": "cdita"},
-      {"nombre": "vinagre de arroz", "cantidad": "1", "unidad": "cda"},
-      {"nombre": "aceite neutro (girasol)", "cantidad": "2", "unidad": "cdas"},
-      {"nombre": "semillas de sésamo", "cantidad": "1", "unidad": "cda"}
+      {
+        "nombre": "aceite de sésamo tostado",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "salsa de soja",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "jengibre fresco rallado",
+        "cantidad": "1",
+        "unidad": "cdita"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "1",
+        "unidad": "diente"
+      },
+      {
+        "nombre": "miel o azúcar mascabo",
+        "cantidad": "1",
+        "unidad": "cdita"
+      },
+      {
+        "nombre": "vinagre de arroz",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "aceite neutro (girasol)",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "semillas de sésamo",
+        "cantidad": "1",
+        "unidad": "cda"
+      }
     ],
     "pasos": [
       "Rallás el jengibre y el ajo finísimos.",
@@ -141,8 +335,16 @@
       "Tostás las semillas de sésamo en seco 1 minuto y las agregás al final."
     ],
     "tip_chef": "El aceite de sésamo tostado es el alma del aderezo — usá poco pero de buena calidad. El de supermercado chino es el mejor y más barato.",
-    "ensaladas_que_combina": [3, 13, 15, 28, 40, 42, 47],
-    "imagen_url": ""
+    "ensaladas_que_combina": [
+      3,
+      13,
+      15,
+      28,
+      40,
+      42,
+      47
+    ],
+    "imagen_url": "/aderezos/aderezo-6.jpg"
   },
   {
     "id": 7,
@@ -151,12 +353,36 @@
     "tiempo_preparacion": 5,
     "rinde": "para 4 ensaladas",
     "ingredientes": [
-      {"nombre": "queso azul (gorgonzola o roquefort)", "cantidad": "60", "unidad": "g"},
-      {"nombre": "crema de leche", "cantidad": "3", "unidad": "cdas"},
-      {"nombre": "jugo de limón", "cantidad": "1", "unidad": "cda"},
-      {"nombre": "ajo en polvo", "cantidad": "1", "unidad": "pizca"},
-      {"nombre": "pimienta negra", "cantidad": "a gusto", "unidad": ""},
-      {"nombre": "cebollín o cebolla de verdeo", "cantidad": "1", "unidad": "cda picada"}
+      {
+        "nombre": "queso azul (gorgonzola o roquefort)",
+        "cantidad": "60",
+        "unidad": "g"
+      },
+      {
+        "nombre": "crema de leche",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "ajo en polvo",
+        "cantidad": "1",
+        "unidad": "pizca"
+      },
+      {
+        "nombre": "pimienta negra",
+        "cantidad": "a gusto",
+        "unidad": ""
+      },
+      {
+        "nombre": "cebollín o cebolla de verdeo",
+        "cantidad": "1",
+        "unidad": "cda picada"
+      }
     ],
     "pasos": [
       "Pisás el queso azul con un tenedor hasta desmenuzarlo bien.",
@@ -165,8 +391,11 @@
       "Incorporás el cebollín picado fino y mezclás."
     ],
     "tip_chef": "Usá roquefort argentino si conseguís — tiene más carácter que el gorgonzola importado y es más económico. El aderezo mejora notablemente si lo hacés el día anterior.",
-    "ensaladas_que_combina": [27, 45],
-    "imagen_url": ""
+    "ensaladas_que_combina": [
+      27,
+      45
+    ],
+    "imagen_url": "/aderezos/aderezo-7.jpg"
   },
   {
     "id": 8,
@@ -175,12 +404,36 @@
     "tiempo_preparacion": 5,
     "rinde": "para 4 ensaladas",
     "ingredientes": [
-      {"nombre": "hummus (comprado o casero)", "cantidad": "4", "unidad": "cdas"},
-      {"nombre": "jugo de limón", "cantidad": "2", "unidad": "cdas"},
-      {"nombre": "agua fría", "cantidad": "3-4", "unidad": "cdas"},
-      {"nombre": "aceite de oliva", "cantidad": "1", "unidad": "cda"},
-      {"nombre": "páprika ahumada", "cantidad": "1", "unidad": "pizca"},
-      {"nombre": "sal", "cantidad": "a gusto", "unidad": ""}
+      {
+        "nombre": "hummus (comprado o casero)",
+        "cantidad": "4",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "agua fría",
+        "cantidad": "3-4",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "páprika ahumada",
+        "cantidad": "1",
+        "unidad": "pizca"
+      },
+      {
+        "nombre": "sal",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
     ],
     "pasos": [
       "Mezclás el hummus con el jugo de limón hasta integrar.",
@@ -189,8 +442,13 @@
       "Probás y ajustás acidez con más limón si hace falta."
     ],
     "tip_chef": "El truco está en la consistencia: tiene que fluir como un aderezo cremoso, no como pasta. El agua fría es clave para lograrlo sin perder el cuerpo.",
-    "ensaladas_que_combina": [11, 33, 36, 19],
-    "imagen_url": ""
+    "ensaladas_que_combina": [
+      11,
+      33,
+      36,
+      19
+    ],
+    "imagen_url": "/aderezos/aderezo-8.jpg"
   },
   {
     "id": 9,
@@ -199,12 +457,36 @@
     "tiempo_preparacion": 5,
     "rinde": "para 4 ensaladas",
     "ingredientes": [
-      {"nombre": "frambuesas frescas o congeladas", "cantidad": "1/3", "unidad": "taza"},
-      {"nombre": "vinagre de vino tinto", "cantidad": "2", "unidad": "cdas"},
-      {"nombre": "miel", "cantidad": "1", "unidad": "cda"},
-      {"nombre": "mostaza dijon", "cantidad": "1/2", "unidad": "cdita"},
-      {"nombre": "aceite de oliva", "cantidad": "4", "unidad": "cdas"},
-      {"nombre": "sal y pimienta", "cantidad": "a gusto", "unidad": ""}
+      {
+        "nombre": "frambuesas frescas o congeladas",
+        "cantidad": "1/3",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "vinagre de vino tinto",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "miel",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "mostaza dijon",
+        "cantidad": "1/2",
+        "unidad": "cdita"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "4",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
     ],
     "pasos": [
       "Pisás las frambuesas con un tenedor o las pasás por un colador fino para obtener el jugo y descartar las semillas.",
@@ -213,8 +495,14 @@
       "Probás y ajustás dulzor o acidez según preferencia."
     ],
     "tip_chef": "Con frambuesas congeladas queda igual de rico — las descongelás, las pisás y listo. Si querés color vibrante sin semillas, usá el colador fino.",
-    "ensaladas_que_combina": [23, 30, 41, 49, 50],
-    "imagen_url": ""
+    "ensaladas_que_combina": [
+      23,
+      30,
+      41,
+      49,
+      50
+    ],
+    "imagen_url": "/aderezos/aderezo-9.jpg"
   },
   {
     "id": 10,
@@ -223,14 +511,46 @@
     "tiempo_preparacion": 10,
     "rinde": "para 4 ensaladas",
     "ingredientes": [
-      {"nombre": "pimiento rojo asado (de frasco o asado)", "cantidad": "2", "unidad": "unidades"},
-      {"nombre": "almendras tostadas", "cantidad": "30", "unidad": "g"},
-      {"nombre": "tomate perita maduro", "cantidad": "1", "unidad": "unidad"},
-      {"nombre": "ajo", "cantidad": "1", "unidad": "diente"},
-      {"nombre": "vinagre de vino tinto", "cantidad": "1", "unidad": "cda"},
-      {"nombre": "páprika ahumada", "cantidad": "1", "unidad": "cdita"},
-      {"nombre": "aceite de oliva", "cantidad": "3", "unidad": "cdas"},
-      {"nombre": "sal y pimienta", "cantidad": "a gusto", "unidad": ""}
+      {
+        "nombre": "pimiento rojo asado (de frasco o asado)",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "almendras tostadas",
+        "cantidad": "30",
+        "unidad": "g"
+      },
+      {
+        "nombre": "tomate perita maduro",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "1",
+        "unidad": "diente"
+      },
+      {
+        "nombre": "vinagre de vino tinto",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "páprika ahumada",
+        "cantidad": "1",
+        "unidad": "cdita"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
     ],
     "pasos": [
       "Si asás el pimiento en casa, lo ponés directo en la llama o en el horno a 220°C hasta que se ennegrece la piel, lo envolvés en papel film y lo dejás enfriar — la piel sale sola.",
@@ -239,7 +559,12 @@
       "Probás y ajustás sal — si queda muy espeso, tirás un chorrito de agua."
     ],
     "tip_chef": "Con pimientos de frasco queda igual de rico y tardás la mitad. El secreto del romesco es la textura: no lo procesés demasiado, tiene que tener algo de rusticidad.",
-    "ensaladas_que_combina": [16, 19, 32, 40],
-    "imagen_url": ""
+    "ensaladas_que_combina": [
+      16,
+      19,
+      32,
+      40
+    ],
+    "imagen_url": "/aderezos/aderezo-10.jpg"
   }
 ]

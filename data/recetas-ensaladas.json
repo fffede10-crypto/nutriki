@@ -56,7 +56,7 @@
     ],
     "tip_chef": "Las nueces tostadas en seco son el secreto — en crudo tienen un amargor que opaca todo. Con 2 minutos en sartén se transforman.",
     "conservacion": "No conviene armar con anticipación. La rúcula aguanta lavada y seca hasta 2 días en la heladera en un recipiente con papel absorbente.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-1.jpg"
   },
   {
     "id": 2,
@@ -120,7 +120,7 @@
     ],
     "tip_chef": "La sal en escamas (no sal común) hace la diferencia — dale textura y potencia los sabores sin que quede salado. El aceite de oliva tiene que ser de buena calidad, acá se nota.",
     "conservacion": "Armala al momento. La mozzarella y la palta no aguantan bien en heladera una vez cortadas.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-2.jpg"
   },
   {
     "id": 3,
@@ -187,7 +187,7 @@
     ],
     "tip_chef": "El pollo caliente sobre las hojas frescas crea un contraste de temperatura que es parte de la magia. No lo enfriés antes de servir.",
     "conservacion": "Guardás los componentes por separado: pollo hasta 3 días en heladera, mango y verduras por separado. Armás al momento.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-3.jpg"
   },
   {
     "id": 4,
@@ -250,7 +250,7 @@
     ],
     "tip_chef": "La grasa que queda en la sartén después de la panceta la usás como parte del aderezo — le suma un sabor ahumado que integra todo el plato.",
     "conservacion": "La panceta crocante se ablanda en heladera. Guardá los componentes separados y armá al momento de comer.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-4.jpg"
   },
   {
     "id": 5,
@@ -322,7 +322,7 @@
     ],
     "tip_chef": "Si el atún viene en aceite de oliva de calidad, usá ese aceite como parte del aderezo — ya tiene el sabor integrado y no tirás nada.",
     "conservacion": "Aguanta perfectamente 2 días en heladera en recipiente hermético. Ideal para preparar la noche anterior.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-5.jpg"
   },
   {
     "id": 6,
@@ -400,7 +400,7 @@
     ],
     "tip_chef": "El secreto de la griega está en el corte grande y rústico — no en brunoise ni juliana. Los trozos grandes liberan jugo que se mezcla con el aceite y forma la vinagreta natural del plato.",
     "conservacion": "Armada aguanta 1 día en heladera. Sin el feta, los vegetales aguantan 2 días.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-6.jpg"
   },
   {
     "id": 7,
@@ -473,7 +473,7 @@
     ],
     "tip_chef": "El rallado grueso es clave — fino queda pastoso. Si tenés mandolina, usala en juliana larga para una presentación que impresiona.",
     "conservacion": "Aguanta 2 días en heladera, con las semillas aparte para que no se ablanden.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-7.jpg"
   },
   {
     "id": 8,
@@ -532,7 +532,7 @@
     ],
     "tip_chef": "El aceite del frasco de tomates secos es oro puro — lo usás directamente como parte de la vinagreta para potenciar el sabor.",
     "conservacion": "Armala al momento. Los componentes por separado aguantan 3 días en heladera.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-8.jpg"
   },
   {
     "id": 9,
@@ -604,7 +604,7 @@
     ],
     "tip_chef": "La cebolla necesita tiempo y fuego bajo — no la apurés. Si la cocinás a fuego alto se dora pero no carameliza: son procesos distintos.",
     "conservacion": "Aguanta 3 días en heladera. Calentá con un chorrito de agua para que no quede seco.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-9.jpg"
   },
   {
     "id": 10,
@@ -667,7 +667,7 @@
     ],
     "tip_chef": "El masaje de sal al repollo es el truco — lo hace más tierno sin perder el crunch. No más de 1 minuto o queda blando.",
     "conservacion": "Mejora con el tiempo: guardá aderezada en heladera hasta 2 días. Los sabores se integran y queda mejor el segundo día.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-10.jpg"
   },
   {
     "id": 11,
@@ -745,7 +745,7 @@
     ],
     "tip_chef": "Los garbanzos tostados en sartén son el upgrade definitivo — se secan y quedan crocantes. El contraste con la cremosidad del tahini y el feta es lo que hace el plato.",
     "conservacion": "Guardá los garbanzos tostados aparte para que no se ablanden. El resto aguanta 2 días en heladera.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-11.jpg"
   },
   {
     "id": 12,
@@ -813,7 +813,7 @@
     ],
     "tip_chef": "El secreto de una buena César es masajear el aderezo en la lechuga con las manos — cada hoja tiene que quedar perfectamente cubierta. Los crutones van al último segundo.",
     "conservacion": "No aguanta armada. Los crutones y el pollo por separado se guardan hasta 3 días.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-12.jpg"
   },
   {
     "id": 13,
@@ -880,7 +880,7 @@
     ],
     "tip_chef": "La quinoa tibia (no fría) sobre las hojas frescas crea un contraste que hace el bowl más interesante. Dejala enfriar 5 minutos, no más.",
     "conservacion": "Guardá la palta separada con jugo de limón para que no oxide. El resto aguanta 2 días en heladera.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-13.jpg"
   },
   {
     "id": 14,
@@ -952,7 +952,7 @@
     ],
     "tip_chef": "Usá el aceite de la lata de atún como parte del aderezo — ya tiene sabor integrado y no tirás nada. La pasta tiene que estar bien escurrida y fría para que no se pegue.",
     "conservacion": "Ideal para preparar el día anterior. Aguanta 3 días en heladera. Agregá albahaca fresca al servir.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-14.jpg"
   },
   {
     "id": 15,
@@ -1025,7 +1025,7 @@
     ],
     "tip_chef": "El arroz integral frío o tibio queda mejor que caliente en bowls fríos — absorbe mejor el aderezo y no derrite la palta.",
     "conservacion": "Armá al momento. Los componentes por separado aguantan 2 días. El salmón fresco cocido, 1 día.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-15.jpg"
   },
   {
     "id": 16,
@@ -1102,7 +1102,7 @@
     ],
     "tip_chef": "La grasa del chorizo es el sabor secreto — usala para el sofrito y vas a notar la diferencia. No la tirés.",
     "conservacion": "Aguanta 3 días en heladera. Calentá suavemente o serví a temperatura ambiente.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-16.jpg"
   },
   {
     "id": 17,
@@ -1175,7 +1175,7 @@
     ],
     "tip_chef": "Aderezás la papa cuando todavía está tibia — absorbe mejor el aderezo y queda más sabrosa. En frío queda menos integrada.",
     "conservacion": "Aguanta perfectamente 3 días en heladera. Es mejor el día siguiente cuando los sabores se integran.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-17.jpg"
   },
   {
     "id": 18,
@@ -1248,7 +1248,7 @@
     ],
     "tip_chef": "La clave de la nicoise es la presentación: cada ingrediente va en su lugar, no mezclado. El comensal lo mezcla solo y descubre combinaciones distintas en cada bocado.",
     "conservacion": "Servila fresca. Los componentes cocidos aguantan 2 días por separado en heladera.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-18.jpg"
   },
   {
     "id": 19,
@@ -1322,7 +1322,7 @@
     ],
     "tip_chef": "El horno bien caliente (220°C) es la clave — los vegetales tienen que asarse, no hervir en su propio jugo. La bandeja no debe estar superpoblada.",
     "conservacion": "Aguanta 2 días en heladera. Recalentá los vegetales levemente antes de servir.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-19.jpg"
   },
   {
     "id": 20,
@@ -1394,7 +1394,7 @@
     ],
     "tip_chef": "El ajo y el romero infusionados en el aceite primero transfieren todo su aroma a los porotos. No salteés el ajo hasta que se dore — solo querés que perfume.",
     "conservacion": "Aguanta 3 días en heladera. Sirve tibio o a temperatura ambiente, nunca frío del todo.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-20.jpg"
   },
   {
     "id": 21,
@@ -1467,7 +1467,7 @@
     ],
     "tip_chef": "El pollo hervido con laurel y sal queda más jugoso que el a la plancha para esta ensalada — la humedad que retiene se integra mejor con el aderezo cremoso.",
     "conservacion": "Sin las hojas y las nueces aguanta 2 días en heladera. Armá el plato final al momento.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-21.jpg"
   },
   {
     "id": 22,
@@ -1535,7 +1535,7 @@
     ],
     "tip_chef": "La burrata a temperatura ambiente es mil veces mejor que fría de heladera — sacala 20 minutos antes. El contraste entre la crema interior y los tomates es el plato.",
     "conservacion": "Servila al momento. La burrata una vez cortada no se guarda.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-22.jpg"
   },
   {
     "id": 23,
@@ -1604,7 +1604,7 @@
     ],
     "tip_chef": "Los higos tienen que estar a temperatura ambiente para que estén en su punto dulce. Los higos fríos de heladera pierden sabor y textura.",
     "conservacion": "Servila al momento. Los higos maduros no esperan.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-23.jpg"
   },
   {
     "id": 24,
@@ -1673,7 +1673,7 @@
     ],
     "tip_chef": "La sandía bien fría y el feta a temperatura ambiente crean el contraste perfecto. Si querés una versión más sofisticada, grillás la sandía 1 minuto por lado.",
     "conservacion": "Servila al momento. La sandía pierde textura y suelta agua si se deja armada.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-24.jpg"
   },
   {
     "id": 25,
@@ -1742,7 +1742,7 @@
     ],
     "tip_chef": "Envolver las remolachas en papel aluminio para asar concentra los azúcares y las hace mucho más dulces que hervidas. Vale la espera.",
     "conservacion": "La remolacha asada aguanta 4 días en heladera. Armá el plato al momento.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-25.jpg"
   },
   {
     "id": 26,
@@ -1820,7 +1820,7 @@
     ],
     "tip_chef": "Las hojas de endivia son el cubierto comestible perfecto — cada hoja se convierte en un bite de una sola pieza que podés comer con la mano en una juntada.",
     "conservacion": "Armalo al momento. El salmón ahumado no aguarda una vez dispuesto.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-26.jpg"
   },
   {
     "id": 27,
@@ -1893,7 +1893,7 @@
     ],
     "tip_chef": "Las nueces caramelizadas se hacen en 3 minutos pero transforman el plato — no hay equivalente en crocante y dulzor. Hacelas siempre en cantidad y guardalas en un frasco.",
     "conservacion": "Las peras asadas se pueden preparar con anticipación. Las nueces caramelizadas aguantan 1 semana en frasco hermético.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-27.jpg"
   },
   {
     "id": 28,
@@ -1971,7 +1971,7 @@
     ],
     "tip_chef": "Los langostinos tienen que estar bien secos antes de saltear — si tienen humedad vapor en lugar de sellar. Secalos con papel absorbente.",
     "conservacion": "Servilo al momento. Los langostinos cocinados no aguantan más de 1 día.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-28.jpg"
   },
   {
     "id": 29,
@@ -2040,7 +2040,7 @@
     ],
     "tip_chef": "El truco del remolino para el huevo pochado es real — concentra la clara alrededor de la yema. El vinagre en el agua también ayuda a coagular más rápido la clara.",
     "conservacion": "Servilo al momento. El huevo pochado no se puede guardar.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-29.jpg"
   },
   {
     "id": 30,
@@ -2108,7 +2108,7 @@
     ],
     "tip_chef": "La quinoa negra es más firme y tiene un sabor más terroso que la blanca — perfecta para ensaladas frías porque no se pone pastosa. El color contrasta espectacularmente con las frambuesas.",
     "conservacion": "Sin las frambuesas y las almendras aguanta 3 días en heladera. Agregalas justo antes de servir.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-30.jpg"
   },
   {
     "id": 31,
@@ -2182,7 +2182,7 @@
     ],
     "tip_chef": "El masaje y el reposo son los dos secretos del coleslaw: el primero ablada el repollo sin perder el crunch, el segundo integra los sabores. Sin esos pasos queda crudo en textura y sabor.",
     "conservacion": "Mejora de un día para el otro. Aguanta 3 días en heladera perfectamente.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-31.jpg"
   },
   {
     "id": 32,
@@ -2255,7 +2255,7 @@
     ],
     "tip_chef": "El pan tiene que ser del día anterior — si es fresco no absorbe bien y si es muy viejo queda duro. La panzanella es la receta perfecta para el pan que ya no sirve para sándwich.",
     "conservacion": "Servila recién hecha para que el pan tenga textura. Si la dejás más de 1 hora el pan se ablanda completamente — también rico, pero diferente.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-32.jpg"
   },
   {
     "id": 33,
@@ -2323,7 +2323,7 @@
     ],
     "tip_chef": "El macerado en limón es la clave — el brócoli crudo puro puede ser difícil, pero 10 minutos con ácido lo suaviza perfectamente sin perder el crunch.",
     "conservacion": "Mejora con el tiempo — el macerado continúa en heladera. Aguanta 2 días perfectamente.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-33.jpg"
   },
   {
     "id": 34,
@@ -2392,7 +2392,7 @@
     ],
     "tip_chef": "El pelapapas es la herramienta secreta para el zucchini en cintas — mucho más fácil que la mandolina y el resultado es igual de elegante.",
     "conservacion": "Mejor servir al momento. El zucchini suelta agua con el tiempo y el pesto se oxida.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-34.jpg"
   },
   {
     "id": 35,
@@ -2460,7 +2460,7 @@
     ],
     "tip_chef": "Usá guantes — la remolacha cruda tiñe más que la cocida y la mancha no sale fácil. En la cocina de restaurante usan guantes siempre.",
     "conservacion": "Aguanta 2 días en heladera, con las semillas guardadas aparte.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-35.jpg"
   },
   {
     "id": 36,
@@ -2534,7 +2534,7 @@
     ],
     "tip_chef": "Las zanahorias necesitan espacio en la bandeja — si están superpuestas se vaporean en lugar de asarse. Usá dos bandejas si hace falta.",
     "conservacion": "Las zanahorias asadas aguantan 4 días en heladera. El tahini lo agregás al momento de servir.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-36.jpg"
   },
   {
     "id": 37,
@@ -2603,7 +2603,7 @@
     ],
     "tip_chef": "Las hojas verdes del hinojo se usan como hierba aromática — tienen el mismo sabor anisado pero más delicado. No las tirés.",
     "conservacion": "El hinojo macerado aguanta 1 día en heladera. Los gajos de naranja y el parmesano van al momento.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-37.jpg"
   },
   {
     "id": 38,
@@ -2671,7 +2671,7 @@
     ],
     "tip_chef": "El limón en la manzana es doble función: evita la oxidación y agrega acidez que equilibra el aderezo de yogur. No lo saltees.",
     "conservacion": "Mejor fresco, pero aguanta 1 día en heladera con las nueces aparte.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-38.jpg"
   },
   {
     "id": 39,
@@ -2744,7 +2744,7 @@
     ],
     "tip_chef": "El paso de salar y escurrir el pepino es fundamental — si no, el agua del pepino diluye el yogur y queda aguado. 5 minutos hacen la diferencia.",
     "conservacion": "Aguanta 1 día en heladera. El pepino sigue soltando agua pero sigue rico.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-39.jpg"
   },
   {
     "id": 40,
@@ -2818,7 +2818,7 @@
     ],
     "tip_chef": "La sartén muy caliente y sin aceite es la clave para el choclo asado — el agua se evapora rápido y el azúcar del maíz carameliza. Con aceite queda frito, no asado.",
     "conservacion": "Aguanta 2 días en heladera. Los sabores se integran mejor el día siguiente.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-40.jpg"
   },
   {
     "id": 41,
@@ -2881,7 +2881,7 @@
     ],
     "tip_chef": "Las frutillas tienen que estar a temperatura ambiente para que tengan su máximo sabor. Las frutillas frías de heladera son insípidas comparadas con las que reposan 20 minutos afuera.",
     "conservacion": "Armala al momento. Las frutillas cortadas sueltan líquido rápido.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-41.jpg"
   },
   {
     "id": 42,
@@ -2949,7 +2949,7 @@
     ],
     "tip_chef": "Si el mango está muy maduro y dulce, le agregás un poco más de jugo de lima al aderezo para compensar. El equilibrio dulce-ácido-picante es lo que hace este bowl irresistible.",
     "conservacion": "El mango sin aderezo aguanta 1 día en heladera. Aderezá al momento.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-42.jpg"
   },
   {
     "id": 43,
@@ -3013,7 +3013,7 @@
     ],
     "tip_chef": "El durazno tiene que estar firme para grillar — uno muy maduro se deshace en la plancha. El punto justo es cuando está fragante pero todavía tiene resistencia al apretarlo.",
     "conservacion": "Servila al momento. El durazno grillado no espera.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-43.jpg"
   },
   {
     "id": 44,
@@ -3086,7 +3086,7 @@
     ],
     "tip_chef": "Esta ensalada mejora 10 minutos de reposo — los sabores del comino y la páprika infusionan el jugo de naranja y crean una vinagreta natural extraordinaria.",
     "conservacion": "Aguanta 1 día en heladera. La cebolla se vuelve más suave con el tiempo.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-44.jpg"
   },
   {
     "id": 45,
@@ -3154,7 +3154,7 @@
     ],
     "tip_chef": "La miel al final es el toque que integra todo — el dulce de la miel une el salado del queso azul y la acidez de las uvas. No la omitas.",
     "conservacion": "Armala al momento. Las peras cortadas se oxidan rápido.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-45.jpg"
   },
   {
     "id": 46,
@@ -3221,7 +3221,7 @@
     ],
     "tip_chef": "El melón bien frío y el jamón a temperatura ambiente — ese contraste de temperaturas es parte de la magia del plato. El melón del día es incomparable.",
     "conservacion": "Servilo al momento. El melón cortado y el jamón no aguardan.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-46.jpg"
   },
   {
     "id": 47,
@@ -3284,7 +3284,7 @@
     ],
     "tip_chef": "El kiwi tiene que estar maduro pero firme — si está blando se aplasta al mezclar. Un kiwi maduro cede ligeramente al presionar pero no se hunde.",
     "conservacion": "Armalo al momento. La palta y el kiwi no esperan.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-47.jpg"
   },
   {
     "id": 48,
@@ -3352,7 +3352,7 @@
     ],
     "tip_chef": "Las hojas internas del apio (las más pequeñas y tiernas) son la mejor parte para ensaladas — tienen sabor intenso y textura delicada. No las tirés.",
     "conservacion": "Aguanta 1 día en heladera con las nueces guardadas aparte.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-48.jpg"
   },
   {
     "id": 49,
@@ -3420,7 +3420,7 @@
     ],
     "tip_chef": "Los piñones se queman en segundos — no los dejés solos en la sartén. Movelos constantemente y sacalos del fuego cuando están dorados, siguen cocinando por el calor residual.",
     "conservacion": "Armala al momento. Las endivias se oxidan cortadas y los piñones se ablandan.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-49.jpg"
   },
   {
     "id": 50,
@@ -3488,6 +3488,6 @@
     ],
     "tip_chef": "El brie a temperatura ambiente es otro queso — pierde esa frialdad que lo hace grasoso al paladar y gana una cremosidad perfecta. Este paso transforma el plato.",
     "conservacion": "Armalo al momento. Las frambuesas son frágiles y el brie se reblandece si espera aderezado.",
-    "imagen_url": ""
+    "imagen_url": "/ensaladas/ensalada-50.jpg"
   }
 ]
