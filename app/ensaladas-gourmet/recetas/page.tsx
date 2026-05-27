@@ -185,10 +185,13 @@ function RecetaCard({ receta }: { receta: RecetaEnsalada }) {
     <Link href={`/ensaladas-gourmet/recetas/${receta.id}`}>
       <div className="bg-white rounded-2xl overflow-hidden border border-gray-100 shadow-sm active:scale-[0.98] transition-transform h-full">
         <div
-          className="h-28 flex items-center justify-center text-5xl"
+          className="h-28 overflow-hidden"
           style={{ backgroundColor: catColors[receta.categoria] || '#E8F5E9' }}
         >
-          🥗
+          {receta.imagen_url
+            ? <img src={receta.imagen_url} alt={receta.nombre} className="w-full h-full object-cover" />
+            : <div className="w-full h-full flex items-center justify-center text-5xl">🥗</div>
+          }
         </div>
         <div className="p-3">
           <p className="text-xs font-bold leading-snug line-clamp-2 mb-2" style={{ color: '#1C1917' }}>

@@ -88,10 +88,13 @@ function DetalleContent() {
 
         {/* Hero */}
         <div
-          className="relative h-56 flex items-center justify-center text-8xl"
+          className="relative h-56 overflow-hidden"
           style={{ backgroundColor: catBg[receta.categoria] || '#E8F5E9' }}
         >
-          🥗
+          {receta.imagen_url
+            ? <img src={receta.imagen_url} alt={receta.nombre} className="w-full h-full object-cover" />
+            : <div className="w-full h-full flex items-center justify-center text-8xl">🥗</div>
+          }
           <button
             onClick={() => router.back()}
             className="absolute top-4 left-4 w-9 h-9 bg-white rounded-full flex items-center justify-center shadow-md text-gray-600"
@@ -208,7 +211,10 @@ function DetalleContent() {
               <h2 className="font-bold text-base mb-3" style={{ color: '#1C1917' }}>🫙 Aderezo recomendado</h2>
               <Link href={`/ensaladas-gourmet/aderezos/${aderezo.id}`}>
                 <div className="bg-white rounded-2xl p-4 border-2 flex items-center gap-3 active:scale-[0.98] transition-transform" style={{ borderColor: '#52B788' }}>
-                  <span className="text-3xl flex-none">🫙</span>
+                  {aderezo.imagen_url
+                    ? <img src={aderezo.imagen_url} alt={aderezo.nombre} className="w-12 h-12 rounded-xl object-cover flex-none" />
+                    : <span className="text-3xl flex-none">🫙</span>
+                  }
                   <div className="flex-1 min-w-0">
                     <p className="font-bold text-sm" style={{ color: '#1C1917' }}>{aderezo.nombre}</p>
                     <p className="text-xs text-gray-500 line-clamp-2">{aderezo.descripcion}</p>
@@ -228,7 +234,12 @@ function DetalleContent() {
                 {relacionadas.map((r) => (
                   <Link key={r.id} href={`/ensaladas-gourmet/recetas/${r.id}`} className="w-36 flex-none">
                     <div className="bg-white rounded-2xl overflow-hidden border border-gray-100 shadow-sm">
-                      <div className="h-20 flex items-center justify-center text-4xl" style={{ backgroundColor: catBg[r.categoria] }}>🥗</div>
+                      <div className="h-20 overflow-hidden" style={{ backgroundColor: catBg[r.categoria] }}>
+                        {r.imagen_url
+                          ? <img src={r.imagen_url} alt={r.nombre} className="w-full h-full object-cover" />
+                          : <div className="w-full h-full flex items-center justify-center text-4xl">🥗</div>
+                        }
+                      </div>
                       <div className="p-2">
                         <p className="text-[11px] font-bold line-clamp-2" style={{ color: '#1C1917' }}>{r.nombre}</p>
                       </div>

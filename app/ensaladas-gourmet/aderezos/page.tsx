@@ -65,10 +65,13 @@ function AderezoBigCard({ aderezo }: { aderezo: AderezoEnsalada }) {
       <div className="bg-white rounded-2xl overflow-hidden border border-gray-100 shadow-sm active:scale-[0.98] transition-transform">
         <div className="flex items-center gap-4 p-4">
           <div
-            className="w-16 h-16 rounded-xl flex items-center justify-center text-3xl flex-none"
+            className="w-16 h-16 rounded-xl overflow-hidden flex-none"
             style={{ backgroundColor: bg }}
           >
-            🫙
+            {aderezo.imagen_url
+              ? <img src={aderezo.imagen_url} alt={aderezo.nombre} className="w-full h-full object-cover" />
+              : <div className="w-full h-full flex items-center justify-center text-3xl">🫙</div>
+            }
           </div>
           <div className="flex-1 min-w-0">
             <p className="font-bold" style={{ color: '#1C1917' }}>{aderezo.nombre}</p>

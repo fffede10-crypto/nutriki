@@ -20,7 +20,12 @@ function AderezoCon({ receta }: { receta: RecetaEnsalada }) {
   return (
     <Link href={`/ensaladas-gourmet/recetas/${receta.id}`} className="flex-none w-32">
       <div className="bg-white rounded-xl overflow-hidden border border-gray-100 shadow-sm active:scale-[0.98] transition-transform">
-        <div className="h-20 flex items-center justify-center text-3xl" style={{ backgroundColor: catBg[receta.categoria] || '#E8F5E9' }}>🥗</div>
+        <div className="h-20 overflow-hidden" style={{ backgroundColor: catBg[receta.categoria] || '#E8F5E9' }}>
+          {receta.imagen_url
+            ? <img src={receta.imagen_url} alt={receta.nombre} className="w-full h-full object-cover" />
+            : <div className="w-full h-full flex items-center justify-center text-3xl">🥗</div>
+          }
+        </div>
         <div className="p-2">
           <p className="text-[10px] font-bold line-clamp-2" style={{ color: '#1C1917' }}>{receta.nombre}</p>
         </div>
@@ -72,8 +77,11 @@ function AderezDetalleContent() {
       <div className="max-w-lg mx-auto">
 
         {/* Hero */}
-        <div className="relative h-48 flex items-center justify-center text-8xl" style={{ backgroundColor: '#E8F5E9' }}>
-          🫙
+        <div className="relative h-48 overflow-hidden" style={{ backgroundColor: '#E8F5E9' }}>
+          {aderezo.imagen_url
+            ? <img src={aderezo.imagen_url} alt={aderezo.nombre} className="w-full h-full object-cover" />
+            : <div className="w-full h-full flex items-center justify-center text-8xl">🫙</div>
+          }
           <button
             onClick={() => router.back()}
             className="absolute top-4 left-4 w-9 h-9 bg-white rounded-full flex items-center justify-center shadow-md text-gray-600"
