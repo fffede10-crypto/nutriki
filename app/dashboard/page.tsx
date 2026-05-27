@@ -9,6 +9,24 @@ import AuthGuard from '@/components/AuthGuard'
 import BottomNav from '@/components/BottomNav'
 import RecetaCard from '@/components/RecetaCard'
 import { Receta } from '@/types'
+import { UsuarioProducto } from '@/types/ensaladas'
+
+const PRODUCTOS_CONFIG: Record<string, { slug: string; nombre: string; emoji: string; descripcion: string; color: string }> = {
+  tiroides_activa: {
+    slug: 'dashboard',
+    nombre: 'Tiroides Activa',
+    emoji: '🌿',
+    descripcion: '65 recetas para tu tiroides',
+    color: '#1B4332',
+  },
+  ensaladas_gourmet: {
+    slug: 'ensaladas-gourmet',
+    nombre: 'Ensaladas Gourmet',
+    emoji: '🥗',
+    descripcion: '50 ensaladas + 10 aderezos',
+    color: '#2D6A4F',
+  },
+}
 
 type HorarioKey = 'desayuno' | 'almuerzo' | 'merienda' | 'cena'
 
@@ -57,11 +75,12 @@ const guiasCards = [
 ]
 
 function DashboardContent() {
-  const { perfil } = useAuth()
+  const { perfil, user } = useAuth()
   const router = useRouter()
   const [destacada, setDestacada] = useState<Receta | null>(null)
   const [recetasRapidas, setRecetasRapidas] = useState<Receta[]>([])
   const [recetasPopulares, setRecetasPopulares] = useState<Receta[]>([])
+  const [productos, setProductos] = useState<UsuarioProducto[]>([])
   const [loading, setLoading] = useState(true)
   const horario = getHorario()
 
@@ -71,8 +90,18 @@ function DashboardContent() {
       router.push('/onboarding')
       return
     }
+    if (user) cargarProductos(user.id)
     cargarRecetas()
-  }, [perfil])
+  }, [perfil, user])
+
+  async function cargarProductos(userId: string) {
+    const { data } = await supabase
+      .from('usuario_productos')
+      .select('*')
+      .eq('usuario_id', userId)
+      .eq('activo', true)
+    if (data) setProductos(data as UsuarioProducto[])
+  }
 
   async function cargarRecetas() {
     const [destRes, rapidasRes, popularesRes] = await Promise.all([
@@ -142,6 +171,34 @@ function DashboardContent() {
         </div>
 
         <div className="px-4">
+
+          {/* Cards de módulos adicionales */}
+          {productos.length > 0 && (
+            <div className="mb-5">
+              <p className="text-xs font-bold text-gray-500 uppercase tracking-wide mb-2">Tus módulos</p>
+              <div className="flex flex-col gap-2">
+                {productos.map((p) => {
+                  const cfg = PRODUCTOS_CONFIG[p.producto]
+                  if (!cfg) return null
+                  return (
+                    <Link
+                      key={p.producto}
+                      href={`/${cfg.slug}`}
+                      className="flex items-center gap-3 bg-white rounded-2xl px-4 py-3 border border-gray-100 shadow-sm active:scale-[0.98] transition-transform"
+                    >
+                      <span className="text-2xl flex-none">{cfg.emoji}</span>
+                      <div className="flex-1">
+                        <p className="font-bold text-sm" style={{ color: cfg.color }}>{cfg.nombre}</p>
+                        <p className="text-xs text-gray-500">{cfg.descripcion}</p>
+                      </div>
+                      <span className="text-sm font-semibold" style={{ color: cfg.color }}>Entrar →</span>
+                    </Link>
+                  )
+                })}
+              </div>
+            </div>
+          )}
+
           {/* Receta destacada del momento */}
           {!loading && destacada && (
             <Link href={`/recetas/${destacada.id}`} className="block mb-5">

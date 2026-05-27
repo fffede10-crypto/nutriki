@@ -1,0 +1,3493 @@
+[
+  {
+    "id": 1,
+    "nombre": "Bowl de rúcula con pera, nueces y parmesano",
+    "descripcion": "La combinación que todos piden en los restaurantes y que en casa hacés en 10 minutos. Dulce, amargo, crocante y salado en cada bocado.",
+    "categoria": "express",
+    "ocasion": [
+      "almuerzo",
+      "cena",
+      "juntada"
+    ],
+    "tiempo_preparacion": 10,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "vegetariana": true,
+    "vegana": false,
+    "ingrediente_principal": "rúcula",
+    "aderezo_recomendado_id": 5,
+    "ingredientes": [
+      {
+        "nombre": "rúcula",
+        "cantidad": "100",
+        "unidad": "g"
+      },
+      {
+        "nombre": "pera",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "nueces",
+        "cantidad": "30",
+        "unidad": "g"
+      },
+      {
+        "nombre": "queso parmesano en láminas",
+        "cantidad": "30",
+        "unidad": "g"
+      },
+      {
+        "nombre": "vinagreta balsámica",
+        "cantidad": "3",
+        "unidad": "cdas"
+      }
+    ],
+    "pasos": [
+      "Lavás y secás bien la rúcula — la humedad arruina la textura.",
+      "Cortás la pera en láminas finas, con cáscara si está linda.",
+      "Tostás las nueces en una sartén seca 2-3 minutos a fuego medio hasta que largan aroma.",
+      "Armás el bowl con la rúcula de base, distribuís las láminas de pera y las nueces.",
+      "Con un pelapapas hacés láminas de parmesano por encima.",
+      "Aderezás justo antes de servir para que la rúcula no se ablande."
+    ],
+    "tip_chef": "Las nueces tostadas en seco son el secreto — en crudo tienen un amargor que opaca todo. Con 2 minutos en sartén se transforman.",
+    "conservacion": "No conviene armar con anticipación. La rúcula aguanta lavada y seca hasta 2 días en la heladera en un recipiente con papel absorbente.",
+    "imagen_url": ""
+  },
+  {
+    "id": 2,
+    "nombre": "Ensalada caprese con palta",
+    "descripcion": "La caprese clásica italiana con el agregado rioplatense que la hace irresistible: palta cremosa que redondea cada bocado. Tres ingredientes, resultado de restaurante.",
+    "categoria": "express",
+    "ocasion": [
+      "almuerzo",
+      "cena",
+      "juntada"
+    ],
+    "tiempo_preparacion": 10,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "vegetariana": true,
+    "vegana": false,
+    "ingrediente_principal": "mozzarella",
+    "aderezo_recomendado_id": 5,
+    "ingredientes": [
+      {
+        "nombre": "tomates perita o cherry",
+        "cantidad": "300",
+        "unidad": "g"
+      },
+      {
+        "nombre": "mozzarella fresca",
+        "cantidad": "200",
+        "unidad": "g"
+      },
+      {
+        "nombre": "palta madura",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "albahaca fresca",
+        "cantidad": "10",
+        "unidad": "hojas"
+      },
+      {
+        "nombre": "aceite de oliva extra virgen",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal en escamas y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cortás los tomates en rodajas de 1 cm. Si son cherry los cortás al medio.",
+      "Cortás la mozzarella del mismo grosor que los tomates.",
+      "Pelás y cortás la palta en láminas o cubos medianos.",
+      "Intercalás tomate, mozzarella y palta en el plato de manera alternada.",
+      "Distribuís las hojas de albahaca y rociás con aceite de oliva generoso.",
+      "Terminás con sal en escamas y pimienta recién molida."
+    ],
+    "tip_chef": "La sal en escamas (no sal común) hace la diferencia — dale textura y potencia los sabores sin que quede salado. El aceite de oliva tiene que ser de buena calidad, acá se nota.",
+    "conservacion": "Armala al momento. La mozzarella y la palta no aguantan bien en heladera una vez cortadas.",
+    "imagen_url": ""
+  },
+  {
+    "id": 3,
+    "nombre": "Bowl de pollo a la plancha con mango y morrón",
+    "descripcion": "Dulce, jugoso y con ese contraste de sabores que hace que la gente te pida la receta. El mango le da un toque tropical que eleva al pollo a otro nivel.",
+    "categoria": "express",
+    "ocasion": [
+      "almuerzo",
+      "cena"
+    ],
+    "tiempo_preparacion": 15,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "ingrediente_principal": "pollo",
+    "aderezo_recomendado_id": 6,
+    "ingredientes": [
+      {
+        "nombre": "pechuga de pollo",
+        "cantidad": "300",
+        "unidad": "g"
+      },
+      {
+        "nombre": "mango maduro",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "morrón rojo",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "cebolla morada",
+        "cantidad": "1/2",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "lechuga o espinaca baby",
+        "cantidad": "80",
+        "unidad": "g"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal, pimienta y ají molido",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cortás la pechuga en tiras, la salpimentás y le agregás ají molido.",
+      "La cocinás en plancha o sartén bien caliente con un chorrito de aceite, 3-4 minutos por lado.",
+      "Mientras, cortás el mango en cubos, el morrón en tiras finas y la cebolla morada en juliana.",
+      "Armás la base con las hojas verdes, distribuís el morrón, el mango y la cebolla.",
+      "Agregás el pollo caliente por encima y aderezás con el aderezo de ajonjolí y jengibre."
+    ],
+    "tip_chef": "El pollo caliente sobre las hojas frescas crea un contraste de temperatura que es parte de la magia. No lo enfriés antes de servir.",
+    "conservacion": "Guardás los componentes por separado: pollo hasta 3 días en heladera, mango y verduras por separado. Armás al momento.",
+    "imagen_url": ""
+  },
+  {
+    "id": 4,
+    "nombre": "Ensalada de espinaca con huevo duro y panceta crocante",
+    "descripcion": "El clásico americano que conquista a todos. La panceta crocante y el huevo duro sobre espinaca fresca es una combinación imposible de resistir.",
+    "categoria": "express",
+    "ocasion": [
+      "almuerzo",
+      "cena"
+    ],
+    "tiempo_preparacion": 15,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "ingrediente_principal": "espinaca",
+    "aderezo_recomendado_id": 3,
+    "ingredientes": [
+      {
+        "nombre": "espinaca baby",
+        "cantidad": "120",
+        "unidad": "g"
+      },
+      {
+        "nombre": "huevos",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "panceta ahumada en fetas",
+        "cantidad": "80",
+        "unidad": "g"
+      },
+      {
+        "nombre": "tomates cherry",
+        "cantidad": "150",
+        "unidad": "g"
+      },
+      {
+        "nombre": "cebolla morada",
+        "cantidad": "1/4",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "aderezo de miel y mostaza",
+        "cantidad": "3",
+        "unidad": "cdas"
+      }
+    ],
+    "pasos": [
+      "Hervís los huevos 10 minutos desde el hervor para que queden bien duros. Los enfriás en agua fría y pelás.",
+      "Cocinás las fetas de panceta en sartén sin aceite a fuego medio-alto hasta que queden bien doradas y crocantes. Las retirás sobre papel absorbente.",
+      "Cortás los huevos en cuartos, los cherry al medio y la cebolla en aros finos.",
+      "Armás la ensalada con la espinaca de base, distribuís los tomates, la cebolla y los cuartos de huevo.",
+      "Rompés la panceta en pedazos y la esparcís por encima.",
+      "Aderezás con miel y mostaza justo antes de servir."
+    ],
+    "tip_chef": "La grasa que queda en la sartén después de la panceta la usás como parte del aderezo — le suma un sabor ahumado que integra todo el plato.",
+    "conservacion": "La panceta crocante se ablanda en heladera. Guardá los componentes separados y armá al momento de comer.",
+    "imagen_url": ""
+  },
+  {
+    "id": 5,
+    "nombre": "Bowl de atún con pepino, maíz y aceitunas",
+    "descripcion": "Rápido, sabroso y contundente. La combinación mediterránea que tenés lista en menos de 10 minutos con ingredientes que siempre tenés en la alacena.",
+    "categoria": "express",
+    "ocasion": [
+      "almuerzo",
+      "cena"
+    ],
+    "tiempo_preparacion": 10,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "ingrediente_principal": "atún",
+    "aderezo_recomendado_id": 4,
+    "ingredientes": [
+      {
+        "nombre": "atún en agua o aceite",
+        "cantidad": "2",
+        "unidad": "latas (160g c/u)"
+      },
+      {
+        "nombre": "pepino",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "maíz en lata",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "aceitunas negras descarozadas",
+        "cantidad": "1/2",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "cebolla morada",
+        "cantidad": "1/4",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "perejil fresco",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "2",
+        "unidad": "cdas"
+      }
+    ],
+    "pasos": [
+      "Escurrís bien el atún y lo desgranás con un tenedor.",
+      "Cortás el pepino en medias lunas finas, la cebolla en brunoise y picás el perejil.",
+      "Enjuagás el maíz de lata bajo el agua y lo escurrís.",
+      "Mezclás todos los ingredientes en un bol grande.",
+      "Aderezás con el yogur con eneldo o directamente con limón y aceite de oliva."
+    ],
+    "tip_chef": "Si el atún viene en aceite de oliva de calidad, usá ese aceite como parte del aderezo — ya tiene el sabor integrado y no tirás nada.",
+    "conservacion": "Aguanta perfectamente 2 días en heladera en recipiente hermético. Ideal para preparar la noche anterior.",
+    "imagen_url": ""
+  },
+  {
+    "id": 6,
+    "nombre": "Ensalada griega clásica con feta",
+    "descripcion": "La verdadera ensalada griega no lleva lechuga. Solo vegetales frescos, aceitunas kalamata y mucho queso feta. Simple, honesta y absolutamente deliciosa.",
+    "categoria": "express",
+    "ocasion": [
+      "almuerzo",
+      "cena",
+      "juntada"
+    ],
+    "tiempo_preparacion": 12,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "vegetariana": true,
+    "vegana": false,
+    "ingrediente_principal": "feta",
+    "aderezo_recomendado_id": 2,
+    "ingredientes": [
+      {
+        "nombre": "tomates",
+        "cantidad": "3",
+        "unidad": "unidades medianas"
+      },
+      {
+        "nombre": "pepino",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "cebolla morada",
+        "cantidad": "1/2",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "morrón verde",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "aceitunas kalamata",
+        "cantidad": "1/2",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "queso feta",
+        "cantidad": "100",
+        "unidad": "g"
+      },
+      {
+        "nombre": "orégano seco",
+        "cantidad": "1",
+        "unidad": "cdita"
+      },
+      {
+        "nombre": "aceite de oliva extra virgen",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cortás los tomates en trozos irregulares grandes — la ensalada griega no es minimalista en el corte.",
+      "Cortás el pepino en medias lunas gruesas, el morrón en tiras y la cebolla en aros.",
+      "Mezclás todo en un bol con las aceitunas.",
+      "Desmenuzás el feta por encima en pedazos generosos.",
+      "Rociás con aceite de oliva, espolvoreás orégano y ajustás sal."
+    ],
+    "tip_chef": "El secreto de la griega está en el corte grande y rústico — no en brunoise ni juliana. Los trozos grandes liberan jugo que se mezcla con el aceite y forma la vinagreta natural del plato.",
+    "conservacion": "Armada aguanta 1 día en heladera. Sin el feta, los vegetales aguantan 2 días.",
+    "imagen_url": ""
+  },
+  {
+    "id": 7,
+    "nombre": "Bowl de zanahoria rallada con naranja y semillas",
+    "descripcion": "Colorida, crujiente y con una frescura que sorprende. La naranja corta el dulce de la zanahoria y las semillas le dan una textura que no para de comer.",
+    "categoria": "express",
+    "ocasion": [
+      "almuerzo",
+      "cena"
+    ],
+    "tiempo_preparacion": 10,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "ingrediente_principal": "zanahoria",
+    "aderezo_recomendado_id": 3,
+    "ingredientes": [
+      {
+        "nombre": "zanahorias",
+        "cantidad": "3",
+        "unidad": "unidades grandes"
+      },
+      {
+        "nombre": "naranja",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "mix de semillas (girasol, sésamo, zapallo)",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "perejil o cilantro fresco",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "miel",
+        "cantidad": "1",
+        "unidad": "cdita"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Rallás las zanahorias grueso — con el lado grande del rallador para que queden en hebras, no en polvo.",
+      "Pelás la naranja a vivo (sin membrana) y cortás los gajos en trozos.",
+      "Tostás las semillas 2 minutos en sartén seca hasta que salten un poco.",
+      "Mezclás la zanahoria con los gajos de naranja y el perejil o cilantro picado.",
+      "Hacés el aderezo mezclando el jugo de limón, miel y aceite, aderezás y mezclás.",
+      "Espolvoreás las semillas tostadas al final para que no pierdan el crunch."
+    ],
+    "tip_chef": "El rallado grueso es clave — fino queda pastoso. Si tenés mandolina, usala en juliana larga para una presentación que impresiona.",
+    "conservacion": "Aguanta 2 días en heladera, con las semillas aparte para que no se ablanden.",
+    "imagen_url": ""
+  },
+  {
+    "id": 8,
+    "nombre": "Ensalada de rúcula con tomate seco y queso crema",
+    "descripcion": "Elegante y lista en minutos. El tomate seco tiene una intensidad que hace que cada bocado valga. Esa que pedís en la panadería de barrio y resulta que es facilísima.",
+    "categoria": "express",
+    "ocasion": [
+      "almuerzo",
+      "cena",
+      "juntada"
+    ],
+    "tiempo_preparacion": 8,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "vegetariana": true,
+    "vegana": false,
+    "ingrediente_principal": "rúcula",
+    "aderezo_recomendado_id": 5,
+    "ingredientes": [
+      {
+        "nombre": "rúcula",
+        "cantidad": "100",
+        "unidad": "g"
+      },
+      {
+        "nombre": "tomates secos en aceite",
+        "cantidad": "8",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "queso crema",
+        "cantidad": "60",
+        "unidad": "g"
+      },
+      {
+        "nombre": "nueces o piñones",
+        "cantidad": "25",
+        "unidad": "g"
+      },
+      {
+        "nombre": "vinagreta balsámica",
+        "cantidad": "3",
+        "unidad": "cdas"
+      }
+    ],
+    "pasos": [
+      "Lavás y secás bien la rúcula.",
+      "Cortás los tomates secos en tiras si son enteros.",
+      "Distribuís la rúcula en el plato o bowl.",
+      "Esparcís los tomates secos y hacés pequeños montoncitos de queso crema con una cuchara.",
+      "Agregás las nueces o piñones tostados.",
+      "Aderezás con la vinagreta balsámica justo al momento de servir."
+    ],
+    "tip_chef": "El aceite del frasco de tomates secos es oro puro — lo usás directamente como parte de la vinagreta para potenciar el sabor.",
+    "conservacion": "Armala al momento. Los componentes por separado aguantan 3 días en heladera.",
+    "imagen_url": ""
+  },
+  {
+    "id": 9,
+    "nombre": "Bowl express de lentejas con cebolla caramelizada",
+    "descripcion": "Caliente, profundo y reconfortante. La cebolla caramelizada transforma las lentejas de lata en algo que parece que cocinaste horas. Ideal para cuando el frío aprieta.",
+    "categoria": "express",
+    "ocasion": [
+      "almuerzo",
+      "cena"
+    ],
+    "tiempo_preparacion": 15,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "ingrediente_principal": "lentejas",
+    "aderezo_recomendado_id": 5,
+    "ingredientes": [
+      {
+        "nombre": "lentejas en lata o hervidas",
+        "cantidad": "400",
+        "unidad": "g"
+      },
+      {
+        "nombre": "cebolla grande",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "2",
+        "unidad": "dientes"
+      },
+      {
+        "nombre": "comino",
+        "cantidad": "1",
+        "unidad": "cdita"
+      },
+      {
+        "nombre": "páprika",
+        "cantidad": "1/2",
+        "unidad": "cdita"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "vinagre de vino tinto",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "perejil fresco",
+        "cantidad": "2",
+        "unidad": "cdas"
+      }
+    ],
+    "pasos": [
+      "Cortás la cebolla en medias lunas finas y la cocinás en aceite a fuego bajo 12 minutos, revolviendo seguido, hasta que quede dorada y dulce.",
+      "Agregás el ajo picado, el comino y la páprika, cocinás 1 minuto más.",
+      "Enjuagás las lentejas y las agregás a la sartén, mezclás bien.",
+      "Retirás del fuego, tirás el vinagre, probás y ajustás sal.",
+      "Servís tibio con perejil picado por encima."
+    ],
+    "tip_chef": "La cebolla necesita tiempo y fuego bajo — no la apurés. Si la cocinás a fuego alto se dora pero no carameliza: son procesos distintos.",
+    "conservacion": "Aguanta 3 días en heladera. Calentá con un chorrito de agua para que no quede seco.",
+    "imagen_url": ""
+  },
+  {
+    "id": 10,
+    "nombre": "Ensalada de repollo morado con manzana y miel-mostaza",
+    "descripcion": "Crocante, colorida y con ese equilibrio dulce-ácido que hace que te sirvas segunda vuelta. El repollo morado es el ingrediente subestimado de las ensaladas.",
+    "categoria": "express",
+    "ocasion": [
+      "almuerzo",
+      "cena",
+      "juntada"
+    ],
+    "tiempo_preparacion": 12,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "ingrediente_principal": "repollo morado",
+    "aderezo_recomendado_id": 3,
+    "ingredientes": [
+      {
+        "nombre": "repollo morado",
+        "cantidad": "1/4",
+        "unidad": "unidad pequeña"
+      },
+      {
+        "nombre": "manzana verde",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "zanahoria",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "ciboulette o cebollín",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "aderezo de miel y mostaza",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cortás el repollo morado en juliana bien fina — con mandolina o a cuchillo con paciencia.",
+      "Rallás la zanahoria grueso y cortás la manzana en bastones finos, con cáscara.",
+      "Mezclás el repollo con sal y lo masajeás 1 minuto con las manos — se ablanda ligeramente y absorbe mejor el aderezo.",
+      "Incorporás la zanahoria, la manzana y el ciboulette.",
+      "Aderezás con miel y mostaza y mezclás bien."
+    ],
+    "tip_chef": "El masaje de sal al repollo es el truco — lo hace más tierno sin perder el crunch. No más de 1 minuto o queda blando.",
+    "conservacion": "Mejora con el tiempo: guardá aderezada en heladera hasta 2 días. Los sabores se integran y queda mejor el segundo día.",
+    "imagen_url": ""
+  },
+  {
+    "id": 11,
+    "nombre": "Bowl mediterráneo con garbanzos y feta",
+    "descripcion": "Un plato completo que parece de restaurante griego. Garbanzos proteicos, queso feta cremoso y vegetales frescos con aderezo de tahini. Que todos te piden la receta.",
+    "categoria": "plato_completo",
+    "ocasion": [
+      "almuerzo",
+      "cena"
+    ],
+    "tiempo_preparacion": 20,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "vegetariana": true,
+    "vegana": false,
+    "ingrediente_principal": "garbanzos",
+    "aderezo_recomendado_id": 2,
+    "ingredientes": [
+      {
+        "nombre": "garbanzos cocidos",
+        "cantidad": "400",
+        "unidad": "g"
+      },
+      {
+        "nombre": "queso feta",
+        "cantidad": "100",
+        "unidad": "g"
+      },
+      {
+        "nombre": "tomates cherry",
+        "cantidad": "200",
+        "unidad": "g"
+      },
+      {
+        "nombre": "pepino",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "cebolla morada",
+        "cantidad": "1/4",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "aceitunas kalamata",
+        "cantidad": "1/3",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "perejil fresco",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "aderezo de tahini con limón",
+        "cantidad": "4",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "páprika ahumada",
+        "cantidad": "1",
+        "unidad": "pizca"
+      }
+    ],
+    "pasos": [
+      "Enjuagás los garbanzos de lata y los secás bien con papel. Los tostás en sartén con aceite de oliva a fuego alto 5 minutos hasta que queden dorados y crujientes.",
+      "Cortás los tomates al medio, el pepino en medias lunas y la cebolla en juliana.",
+      "En un bol grande mezclás los vegetales con las aceitunas y el perejil picado.",
+      "Agregás los garbanzos calientes y mezclás.",
+      "Distribuís el feta desmenuzado por encima y aderezás con el tahini.",
+      "Terminás con una pizca de páprika ahumada."
+    ],
+    "tip_chef": "Los garbanzos tostados en sartén son el upgrade definitivo — se secan y quedan crocantes. El contraste con la cremosidad del tahini y el feta es lo que hace el plato.",
+    "conservacion": "Guardá los garbanzos tostados aparte para que no se ablanden. El resto aguanta 2 días en heladera.",
+    "imagen_url": ""
+  },
+  {
+    "id": 12,
+    "nombre": "Ensalada César con pollo grillado",
+    "descripcion": "La reina de las ensaladas en su versión más honesta. Lechuga romana, pollo jugoso, parmesano en láminas y el aderezo que lo une todo. Tipo restaurante, en casa.",
+    "categoria": "plato_completo",
+    "ocasion": [
+      "almuerzo",
+      "cena"
+    ],
+    "tiempo_preparacion": 25,
+    "porciones": 2,
+    "nivel_dificultad": "medio",
+    "apta_vianda": false,
+    "sin_gluten": false,
+    "sin_lacteos": false,
+    "vegetariana": false,
+    "vegana": false,
+    "ingrediente_principal": "pollo",
+    "aderezo_recomendado_id": 1,
+    "ingredientes": [
+      {
+        "nombre": "lechuga romana",
+        "cantidad": "1",
+        "unidad": "planta"
+      },
+      {
+        "nombre": "pechuga de pollo",
+        "cantidad": "300",
+        "unidad": "g"
+      },
+      {
+        "nombre": "queso parmesano",
+        "cantidad": "40",
+        "unidad": "g"
+      },
+      {
+        "nombre": "pan lactal o baguette",
+        "cantidad": "2",
+        "unidad": "rebanadas"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "ajo en polvo",
+        "cantidad": "1",
+        "unidad": "pizca"
+      },
+      {
+        "nombre": "aderezo césar sin huevo",
+        "cantidad": "4",
+        "unidad": "cdas"
+      }
+    ],
+    "pasos": [
+      "Cortás el pan en cubos, los mezclas con aceite de oliva y ajo en polvo, y los tostás en horno a 180°C 10 minutos hasta que queden dorados.",
+      "Condimentás el pollo con sal, pimienta y ajo en polvo. Lo grillás 4-5 minutos por lado y lo dejás reposar 3 minutos antes de cortar en tiras.",
+      "Lavás y secás bien la romana, la cortás o la partís con las manos en trozos grandes.",
+      "Mezclás la lechuga con el aderezo César en un bol, asegurándote de que cada hoja quede cubierta.",
+      "Distribuís el pollo en láminas, los crutones y las láminas de parmesano.",
+      "Servís de inmediato para que los crutones no se ablanden."
+    ],
+    "tip_chef": "El secreto de una buena César es masajear el aderezo en la lechuga con las manos — cada hoja tiene que quedar perfectamente cubierta. Los crutones van al último segundo.",
+    "conservacion": "No aguanta armada. Los crutones y el pollo por separado se guardan hasta 3 días.",
+    "imagen_url": ""
+  },
+  {
+    "id": 13,
+    "nombre": "Bowl de quinoa con pollo, palta y mango",
+    "descripcion": "El bowl completo que te deja satisfecho sin pesadez. Quinoa esponjosa, pollo sabroso y la combinación palta-mango que es pura magia tropical.",
+    "categoria": "plato_completo",
+    "ocasion": [
+      "almuerzo",
+      "cena"
+    ],
+    "tiempo_preparacion": 25,
+    "porciones": 2,
+    "nivel_dificultad": "medio",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "ingrediente_principal": "quinoa",
+    "aderezo_recomendado_id": 6,
+    "ingredientes": [
+      {
+        "nombre": "quinoa",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "pechuga de pollo",
+        "cantidad": "250",
+        "unidad": "g"
+      },
+      {
+        "nombre": "palta madura",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "mango maduro",
+        "cantidad": "1/2",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "espinaca baby",
+        "cantidad": "60",
+        "unidad": "g"
+      },
+      {
+        "nombre": "semillas de sésamo",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "aderezo de ajonjolí y jengibre",
+        "cantidad": "4",
+        "unidad": "cdas"
+      }
+    ],
+    "pasos": [
+      "Enjuagás la quinoa y la cocinás en 2 tazas de agua con sal: llevás a hervor, tapás y cocinás a fuego bajo 15 minutos.",
+      "Condimentás el pollo y lo grillás o cocinás en sartén. Lo cortás en cubos o tiras.",
+      "Cortás la palta y el mango en cubos del mismo tamaño.",
+      "En el bowl armás una cama de espinaca, distribuís la quinoa tibia, el pollo, la palta y el mango.",
+      "Aderezás con el aderezo de ajonjolí y jengibre y espolvoreás sésamo."
+    ],
+    "tip_chef": "La quinoa tibia (no fría) sobre las hojas frescas crea un contraste que hace el bowl más interesante. Dejala enfriar 5 minutos, no más.",
+    "conservacion": "Guardá la palta separada con jugo de limón para que no oxide. El resto aguanta 2 días en heladera.",
+    "imagen_url": ""
+  },
+  {
+    "id": 14,
+    "nombre": "Ensalada de pasta con atún, aceitunas y albahaca",
+    "descripcion": "La pasta fría que no es triste ni aburrida. Atún, aceitunas y albahaca fresca convertidos en un plato completo que tiene sabor de costa mediterránea.",
+    "categoria": "plato_completo",
+    "ocasion": [
+      "almuerzo",
+      "juntada"
+    ],
+    "tiempo_preparacion": 25,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "ingrediente_principal": "pasta",
+    "aderezo_recomendado_id": 5,
+    "ingredientes": [
+      {
+        "nombre": "pasta corta (fusilli o farfalle)",
+        "cantidad": "300",
+        "unidad": "g"
+      },
+      {
+        "nombre": "atún en aceite de oliva",
+        "cantidad": "2",
+        "unidad": "latas (160g c/u)"
+      },
+      {
+        "nombre": "aceitunas negras descarozadas",
+        "cantidad": "1/2",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "tomates cherry",
+        "cantidad": "200",
+        "unidad": "g"
+      },
+      {
+        "nombre": "albahaca fresca",
+        "cantidad": "1",
+        "unidad": "puñado grande"
+      },
+      {
+        "nombre": "alcaparras",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "vinagreta balsámica",
+        "cantidad": "4",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cocinás la pasta al dente en agua bien salada. La escurrís y la enfriás bajo agua corriente.",
+      "Cortás los cherry al medio, picás la albahaca grueso.",
+      "Mezclás la pasta fría con el atún desmenuzado (con su aceite), los cherry, las aceitunas y las alcaparras.",
+      "Agregás la albahaca picada y aderezás con la vinagreta balsámica.",
+      "Probás y ajustás sal y pimienta."
+    ],
+    "tip_chef": "Usá el aceite de la lata de atún como parte del aderezo — ya tiene sabor integrado y no tirás nada. La pasta tiene que estar bien escurrida y fría para que no se pegue.",
+    "conservacion": "Ideal para preparar el día anterior. Aguanta 3 días en heladera. Agregá albahaca fresca al servir.",
+    "imagen_url": ""
+  },
+  {
+    "id": 15,
+    "nombre": "Bowl de arroz integral con salmón y edamame",
+    "descripcion": "Inspirado en los bowls japoneses de poke pero con ingredientes que conseguís en cualquier súper. Nutritivo, colorido y con una profundidad de sabor que sorprende.",
+    "categoria": "plato_completo",
+    "ocasion": [
+      "almuerzo",
+      "cena"
+    ],
+    "tiempo_preparacion": 30,
+    "porciones": 2,
+    "nivel_dificultad": "medio",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "ingrediente_principal": "salmón",
+    "aderezo_recomendado_id": 6,
+    "ingredientes": [
+      {
+        "nombre": "arroz integral",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "salmón fresco o ahumado",
+        "cantidad": "250",
+        "unidad": "g"
+      },
+      {
+        "nombre": "edamame pelado",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "pepino",
+        "cantidad": "1/2",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "palta",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "cebollín",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "semillas de sésamo negro",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "aderezo de ajonjolí y jengibre",
+        "cantidad": "4",
+        "unidad": "cdas"
+      }
+    ],
+    "pasos": [
+      "Cocinás el arroz integral según las instrucciones (unos 30 min). Lo dejás enfriar un poco.",
+      "Si el salmón es fresco, lo condimentás con sal y soja y lo cocinás en sartén caliente 2-3 min por lado. Lo desmenuzás.",
+      "Cocinás el edamame en agua hirviendo 3 minutos y lo escurrís.",
+      "Cortás el pepino en rodajas finas y la palta en láminas.",
+      "Armás el bowl con el arroz de base, distribuís el salmón, edamame, pepino y palta.",
+      "Aderezás con el aderezo de ajonjolí y jengibre, espolvoreás sésamo negro y cebollín."
+    ],
+    "tip_chef": "El arroz integral frío o tibio queda mejor que caliente en bowls fríos — absorbe mejor el aderezo y no derrite la palta.",
+    "conservacion": "Armá al momento. Los componentes por separado aguantan 2 días. El salmón fresco cocido, 1 día.",
+    "imagen_url": ""
+  },
+  {
+    "id": 16,
+    "nombre": "Ensalada de lentejas con chorizo colorado y pimientos",
+    "descripcion": "Contundente y llena de carácter. El chorizo colorado le da un sabor ahumado a las lentejas que transforma esta ensalada en un plato principal que nadie se imagina.",
+    "categoria": "plato_completo",
+    "ocasion": [
+      "almuerzo",
+      "cena"
+    ],
+    "tiempo_preparacion": 25,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "ingrediente_principal": "lentejas",
+    "aderezo_recomendado_id": 5,
+    "ingredientes": [
+      {
+        "nombre": "lentejas cocidas",
+        "cantidad": "400",
+        "unidad": "g"
+      },
+      {
+        "nombre": "chorizo colorado",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "morrón rojo",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "morrón amarillo",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "cebolla",
+        "cantidad": "1/2",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "2",
+        "unidad": "dientes"
+      },
+      {
+        "nombre": "páprika ahumada",
+        "cantidad": "1",
+        "unidad": "cdita"
+      },
+      {
+        "nombre": "perejil",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "vinagre de vino tinto",
+        "cantidad": "1",
+        "unidad": "cda"
+      }
+    ],
+    "pasos": [
+      "Cortás el chorizo en rodajas y lo cocinás en sartén a fuego medio hasta que quede dorado. Lo retirás y reservás.",
+      "En la misma sartén con la grasa del chorizo sofreís la cebolla picada y el ajo 3 minutos.",
+      "Agregás los morrones en tiras y la páprika, cocinás 5 minutos más.",
+      "Incorporás las lentejas enjuagadas, mezclás y cocinás 2 minutos.",
+      "Retirás del fuego, agregás el vinagre, el chorizo y el perejil picado."
+    ],
+    "tip_chef": "La grasa del chorizo es el sabor secreto — usala para el sofrito y vas a notar la diferencia. No la tirés.",
+    "conservacion": "Aguanta 3 días en heladera. Calentá suavemente o serví a temperatura ambiente.",
+    "imagen_url": ""
+  },
+  {
+    "id": 17,
+    "nombre": "Bowl de papa con huevo, pepinillos y aderezo rémoulade",
+    "descripcion": "La ensalada de papa que supera a todas las demás. Cremosa pero con personalidad, con los pepinillos que aportan acidez y el huevo que la hace completa.",
+    "categoria": "plato_completo",
+    "ocasion": [
+      "almuerzo",
+      "juntada"
+    ],
+    "tiempo_preparacion": 30,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "ingrediente_principal": "papa",
+    "aderezo_recomendado_id": 4,
+    "ingredientes": [
+      {
+        "nombre": "papas",
+        "cantidad": "600",
+        "unidad": "g"
+      },
+      {
+        "nombre": "huevos",
+        "cantidad": "3",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "pepinillos en vinagre",
+        "cantidad": "4",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "cebolla morada",
+        "cantidad": "1/4",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "mayonesa",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "mostaza dijon",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "eneldo seco",
+        "cantidad": "1",
+        "unidad": "cdita"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Hervís las papas con cáscara en agua salada hasta que estén tiernas pero firmes. Las escurrís y las dejás enfriar.",
+      "Hervís los huevos 10 minutos, los enfriás y pelás.",
+      "Pelás y cortás las papas en cubos. Cortás los huevos en cuartos.",
+      "Picás fino los pepinillos y la cebolla morada.",
+      "Mezclás la mayonesa con la mostaza dijon y el eneldo para el aderezo estilo rémoulade.",
+      "Mezclás todo con suavidad para no romper la papa, probás y ajustás sal."
+    ],
+    "tip_chef": "Aderezás la papa cuando todavía está tibia — absorbe mejor el aderezo y queda más sabrosa. En frío queda menos integrada.",
+    "conservacion": "Aguanta perfectamente 3 días en heladera. Es mejor el día siguiente cuando los sabores se integran.",
+    "imagen_url": ""
+  },
+  {
+    "id": 18,
+    "nombre": "Ensalada nicoise con atún fresco, papa y judías",
+    "descripcion": "El clásico francés en toda su gloria. Una ensalada que es un cuadro: colorida, generosa y con una elegancia que hace que todos la fotografíen antes de comer.",
+    "categoria": "plato_completo",
+    "ocasion": [
+      "almuerzo",
+      "juntada"
+    ],
+    "tiempo_preparacion": 30,
+    "porciones": 2,
+    "nivel_dificultad": "medio",
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "ingrediente_principal": "atún",
+    "aderezo_recomendado_id": 5,
+    "ingredientes": [
+      {
+        "nombre": "atún fresco o en lata de calidad",
+        "cantidad": "250",
+        "unidad": "g"
+      },
+      {
+        "nombre": "papas chicas",
+        "cantidad": "300",
+        "unidad": "g"
+      },
+      {
+        "nombre": "judías verdes (chauchas)",
+        "cantidad": "150",
+        "unidad": "g"
+      },
+      {
+        "nombre": "huevos",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "tomates cherry",
+        "cantidad": "150",
+        "unidad": "g"
+      },
+      {
+        "nombre": "aceitunas negras",
+        "cantidad": "1/3",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "lechuga mantecosa",
+        "cantidad": "4",
+        "unidad": "hojas grandes"
+      },
+      {
+        "nombre": "vinagreta balsámica o de mostaza",
+        "cantidad": "4",
+        "unidad": "cdas"
+      }
+    ],
+    "pasos": [
+      "Hervís las papas hasta que estén tiernas, las escurrís y cortás al medio.",
+      "Blanqueás las judías en agua hirviendo con sal 3 minutos, las pasás a agua helada para cortar la cocción.",
+      "Hervís los huevos 8 minutos para que queden semiblandos. Los pelás y cortás al medio.",
+      "Si usás atún fresco, lo sellás en sartén caliente 1 minuto por lado — tiene que quedar rosado adentro.",
+      "Armás el plato con las hojas de lechuga de base y disponés cada componente en grupos separados.",
+      "Aderezás con la vinagreta y servís de inmediato."
+    ],
+    "tip_chef": "La clave de la nicoise es la presentación: cada ingrediente va en su lugar, no mezclado. El comensal lo mezcla solo y descubre combinaciones distintas en cada bocado.",
+    "conservacion": "Servila fresca. Los componentes cocidos aguantan 2 días por separado en heladera.",
+    "imagen_url": ""
+  },
+  {
+    "id": 19,
+    "nombre": "Bowl de cuscús con vegetales asados y queso de cabra",
+    "descripcion": "Los vegetales asados sobre el cuscús esponjoso con queso de cabra derretido es una de esas combinaciones que parecen de restaurante pero se hacen solas.",
+    "categoria": "plato_completo",
+    "ocasion": [
+      "almuerzo",
+      "cena",
+      "juntada"
+    ],
+    "tiempo_preparacion": 30,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": false,
+    "sin_lacteos": false,
+    "vegetariana": true,
+    "vegana": false,
+    "ingrediente_principal": "cuscús",
+    "aderezo_recomendado_id": 2,
+    "ingredientes": [
+      {
+        "nombre": "cuscús",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "zucchini",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "morrón rojo",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "berenjena chica",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "queso de cabra",
+        "cantidad": "80",
+        "unidad": "g"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "tomillo o romero seco",
+        "cantidad": "1",
+        "unidad": "cdita"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cortás los vegetales en trozos similares, los mezclás con aceite, tomillo, sal y pimienta.",
+      "Los asás en horno a 220°C 20 minutos hasta que estén dorados y tiernos.",
+      "Mientras, preparás el cuscús: lo cubrís con agua hirviendo salada en proporción 1:1, tapás y dejás reposar 5 minutos. Soltás los granos con un tenedor.",
+      "Armás el bowl con el cuscús de base, distribuís los vegetales asados calientes.",
+      "Desmenuzás el queso de cabra por encima — el calor de los vegetales lo derrite ligeramente.",
+      "Aderezás con tahini con limón o vinagreta balsámica."
+    ],
+    "tip_chef": "El horno bien caliente (220°C) es la clave — los vegetales tienen que asarse, no hervir en su propio jugo. La bandeja no debe estar superpoblada.",
+    "conservacion": "Aguanta 2 días en heladera. Recalentá los vegetales levemente antes de servir.",
+    "imagen_url": ""
+  },
+  {
+    "id": 20,
+    "nombre": "Ensalada de porotos blancos con tomate seco y romero",
+    "descripcion": "Rústica, reconfortante y con un sabor que remite a la Toscana. Los porotos blancos con tomate seco y romero es una combinación sencilla y profunda que sorprende.",
+    "categoria": "plato_completo",
+    "ocasion": [
+      "almuerzo",
+      "cena"
+    ],
+    "tiempo_preparacion": 20,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "ingrediente_principal": "porotos blancos",
+    "aderezo_recomendado_id": 5,
+    "ingredientes": [
+      {
+        "nombre": "porotos blancos cocidos",
+        "cantidad": "400",
+        "unidad": "g"
+      },
+      {
+        "nombre": "tomates secos en aceite",
+        "cantidad": "8",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "2",
+        "unidad": "dientes"
+      },
+      {
+        "nombre": "romero fresco o seco",
+        "cantidad": "1",
+        "unidad": "ramita"
+      },
+      {
+        "nombre": "espinaca baby",
+        "cantidad": "60",
+        "unidad": "g"
+      },
+      {
+        "nombre": "aceite de oliva extra virgen",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "vinagre de vino blanco",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Enjuagás los porotos blancos y los secás bien.",
+      "Calentás el aceite en una sartén, agregás el ajo en láminas y el romero, sofreís 1 minuto a fuego bajo.",
+      "Incorporás los porotos y cocinás 3-4 minutos mezclando hasta que queden levemente dorados.",
+      "Retirás del fuego y agregás los tomates secos cortados en tiras.",
+      "Servís tibios sobre una cama de espinaca baby, aderezás con vinagre y ajustás sal."
+    ],
+    "tip_chef": "El ajo y el romero infusionados en el aceite primero transfieren todo su aroma a los porotos. No salteés el ajo hasta que se dore — solo querés que perfume.",
+    "conservacion": "Aguanta 3 días en heladera. Sirve tibio o a temperatura ambiente, nunca frío del todo.",
+    "imagen_url": ""
+  },
+  {
+    "id": 21,
+    "nombre": "Ensalada Waldorf renovada con pollo, apio y uvas",
+    "descripcion": "La Waldorf del hotel que se modernizó. Pollo tierno, apio crujiente, uvas que explotan en la boca y un aderezo de yogur que lo une todo con elegancia. Para juntadas que quieren impresionar.",
+    "categoria": "juntada",
+    "ocasion": [
+      "almuerzo",
+      "juntada"
+    ],
+    "tiempo_preparacion": 25,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "vegetariana": false,
+    "vegana": false,
+    "ingrediente_principal": "pollo",
+    "aderezo_recomendado_id": 4,
+    "ingredientes": [
+      {
+        "nombre": "pechuga de pollo hervida o asada",
+        "cantidad": "400",
+        "unidad": "g"
+      },
+      {
+        "nombre": "apio",
+        "cantidad": "3",
+        "unidad": "ramas"
+      },
+      {
+        "nombre": "uvas verdes sin semilla",
+        "cantidad": "200",
+        "unidad": "g"
+      },
+      {
+        "nombre": "nueces tostadas",
+        "cantidad": "60",
+        "unidad": "g"
+      },
+      {
+        "nombre": "manzana verde",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "hojas verdes (espinaca o lechuga)",
+        "cantidad": "80",
+        "unidad": "g"
+      },
+      {
+        "nombre": "aderezo de yogur con eneldo",
+        "cantidad": "5",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cortás el pollo cocido en cubos o lo desmenuzás con los dedos para que quede más rústico.",
+      "Cortás el apio en rodajas diagonales para mejor presentación. Cortás las uvas al medio.",
+      "Cortás la manzana en cubos sin pelar, la mezclás con un poco de jugo de limón para que no oxide.",
+      "Tostás las nueces en sartén seca 2-3 minutos.",
+      "Mezclás el pollo, el apio, las uvas y la manzana con el aderezo de yogur.",
+      "Servís sobre las hojas verdes y terminás con las nueces tostadas."
+    ],
+    "tip_chef": "El pollo hervido con laurel y sal queda más jugoso que el a la plancha para esta ensalada — la humedad que retiene se integra mejor con el aderezo cremoso.",
+    "conservacion": "Sin las hojas y las nueces aguanta 2 días en heladera. Armá el plato final al momento.",
+    "imagen_url": ""
+  },
+  {
+    "id": 22,
+    "nombre": "Bowl de burrata con tomates heirloom y pistachos",
+    "descripcion": "La ensalada más fotografiada de la temporada. Burrata cremosa que se rompe sobre tomates de colores con pistachos y albahaca. Impresiona sin ningún esfuerzo.",
+    "categoria": "juntada",
+    "ocasion": [
+      "juntada",
+      "cena"
+    ],
+    "tiempo_preparacion": 10,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "vegetariana": true,
+    "vegana": false,
+    "ingrediente_principal": "burrata",
+    "aderezo_recomendado_id": 5,
+    "ingredientes": [
+      {
+        "nombre": "burrata",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "tomates heirloom o variados de colores",
+        "cantidad": "500",
+        "unidad": "g"
+      },
+      {
+        "nombre": "pistachos pelados sin sal",
+        "cantidad": "40",
+        "unidad": "g"
+      },
+      {
+        "nombre": "albahaca fresca",
+        "cantidad": "1",
+        "unidad": "puñado"
+      },
+      {
+        "nombre": "aceite de oliva extra virgen",
+        "cantidad": "4",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "vinagre balsámico reducido",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal en escamas y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cortás los tomates de distintas formas: algunos en rodajas, otros en cuartos, los cherry al medio — la variedad de formas hace el plato.",
+      "Los disponés en el plato o tabla, dejando espacio para la burrata.",
+      "Colocás las buurratas en el centro, las cortás apenas con un cuchillo para que la crema interior empiece a asomar.",
+      "Esparcís los pistachos y las hojas de albahaca.",
+      "Aderezás generosamente con aceite de oliva y el balsámico reducido.",
+      "Terminás con sal en escamas y pimienta recién molida."
+    ],
+    "tip_chef": "La burrata a temperatura ambiente es mil veces mejor que fría de heladera — sacala 20 minutos antes. El contraste entre la crema interior y los tomates es el plato.",
+    "conservacion": "Servila al momento. La burrata una vez cortada no se guarda.",
+    "imagen_url": ""
+  },
+  {
+    "id": 23,
+    "nombre": "Ensalada de higos, jamón crudo y rúcula",
+    "descripcion": "El trío italiano que funciona siempre: el dulce del higo, el salado del jamón y el amargo de la rúcula. Una ensalada de carta en 10 minutos.",
+    "categoria": "juntada",
+    "ocasion": [
+      "juntada",
+      "cena",
+      "almuerzo"
+    ],
+    "tiempo_preparacion": 10,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "ingrediente_principal": "higos",
+    "aderezo_recomendado_id": 9,
+    "ingredientes": [
+      {
+        "nombre": "higos frescos maduros",
+        "cantidad": "8",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "jamón crudo en fetas",
+        "cantidad": "120",
+        "unidad": "g"
+      },
+      {
+        "nombre": "rúcula",
+        "cantidad": "100",
+        "unidad": "g"
+      },
+      {
+        "nombre": "nueces o pistachos",
+        "cantidad": "30",
+        "unidad": "g"
+      },
+      {
+        "nombre": "aceite de oliva extra virgen",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "vinagreta de frambuesa",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "pimienta negra",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cortás los higos en cuartos o al medio, según el tamaño — que queden generosos.",
+      "Disponés la rúcula en el plato o tabla.",
+      "Distribuís las fetas de jamón crudo de manera que queden con volumen, no aplastadas.",
+      "Colocás los higos entre el jamón.",
+      "Esparcís las nueces o pistachos.",
+      "Aderezás con la vinagreta de frambuesa y un hilo de aceite de oliva y pimienta."
+    ],
+    "tip_chef": "Los higos tienen que estar a temperatura ambiente para que estén en su punto dulce. Los higos fríos de heladera pierden sabor y textura.",
+    "conservacion": "Servila al momento. Los higos maduros no esperan.",
+    "imagen_url": ""
+  },
+  {
+    "id": 24,
+    "nombre": "Bowl de sandía con feta, menta y vinagreta de lima",
+    "descripcion": "La ensalada del verano que desafía a quien la ve y conquista al que la prueba. Sandía refrescante, feta salado y menta fresca — contraste puro.",
+    "categoria": "juntada",
+    "ocasion": [
+      "juntada",
+      "almuerzo",
+      "cena"
+    ],
+    "tiempo_preparacion": 10,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "vegetariana": true,
+    "vegana": false,
+    "ingrediente_principal": "sandía",
+    "aderezo_recomendado_id": 2,
+    "ingredientes": [
+      {
+        "nombre": "sandía sin semillas",
+        "cantidad": "1/4",
+        "unidad": "unidad mediana"
+      },
+      {
+        "nombre": "queso feta",
+        "cantidad": "150",
+        "unidad": "g"
+      },
+      {
+        "nombre": "menta fresca",
+        "cantidad": "1",
+        "unidad": "puñado"
+      },
+      {
+        "nombre": "cebolla morada",
+        "cantidad": "1/4",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "jugo de lima o limón",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal en escamas y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cortás la sandía en triángulos o cubos grandes — los pedazos grandes son más elegantes y retienen la textura.",
+      "Cortás la cebolla morada en aros muy finos y la remojás 5 minutos en agua fría para que pierda el picante.",
+      "Distribuís la sandía en el plato, esparcís la cebolla escurrida.",
+      "Desmenuzás el feta en trozos generosos por encima.",
+      "Distribuís las hojas de menta.",
+      "Mezclás el jugo de lima con el aceite y aderezás. Terminás con sal en escamas."
+    ],
+    "tip_chef": "La sandía bien fría y el feta a temperatura ambiente crean el contraste perfecto. Si querés una versión más sofisticada, grillás la sandía 1 minuto por lado.",
+    "conservacion": "Servila al momento. La sandía pierde textura y suelta agua si se deja armada.",
+    "imagen_url": ""
+  },
+  {
+    "id": 25,
+    "nombre": "Ensalada de remolacha asada con naranja y nueces",
+    "descripcion": "La remolacha asada tiene una dulzura concentrada que la cruda nunca tiene. Con naranja y nueces queda algo que parece de menú degustación pero que hacés con ingredientes simples.",
+    "categoria": "juntada",
+    "ocasion": [
+      "juntada",
+      "almuerzo",
+      "cena"
+    ],
+    "tiempo_preparacion": 40,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "ingrediente_principal": "remolacha",
+    "aderezo_recomendado_id": 5,
+    "ingredientes": [
+      {
+        "nombre": "remolachas medianas",
+        "cantidad": "4",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "naranjas",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "nueces tostadas",
+        "cantidad": "60",
+        "unidad": "g"
+      },
+      {
+        "nombre": "rúcula o espinaca baby",
+        "cantidad": "80",
+        "unidad": "g"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "vinagre balsámico",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Envolvés las remolachas en papel aluminio y las asás en horno a 200°C por 35-40 minutos hasta que estén tiernas al insertar un cuchillo.",
+      "Las dejás enfriar un poco, las pelás (la piel sale sola) y las cortás en gajos.",
+      "Pelás las naranjas a vivo y cortás los gajos sin membrana.",
+      "Tostás las nueces en sartén seca 2 minutos.",
+      "Armás el plato con las hojas verdes de base, distribuís la remolacha y los gajos de naranja.",
+      "Esparcís las nueces y aderezás con aceite de oliva, balsámico, sal y pimienta."
+    ],
+    "tip_chef": "Envolver las remolachas en papel aluminio para asar concentra los azúcares y las hace mucho más dulces que hervidas. Vale la espera.",
+    "conservacion": "La remolacha asada aguanta 4 días en heladera. Armá el plato al momento.",
+    "imagen_url": ""
+  },
+  {
+    "id": 26,
+    "nombre": "Bowl de salmón ahumado con endivia y aderezo de alcaparras",
+    "descripcion": "El plato que parece de brunch de hotel de lujo. La endivia ligeramente amarga equilibra el salmón ahumado intenso y el aderezo de alcaparras ata todo con maestría.",
+    "categoria": "juntada",
+    "ocasion": [
+      "juntada",
+      "almuerzo"
+    ],
+    "tiempo_preparacion": 15,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "vegetariana": false,
+    "vegana": false,
+    "ingrediente_principal": "salmón ahumado",
+    "aderezo_recomendado_id": 1,
+    "ingredientes": [
+      {
+        "nombre": "salmón ahumado en fetas",
+        "cantidad": "200",
+        "unidad": "g"
+      },
+      {
+        "nombre": "endivias",
+        "cantidad": "3",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "alcaparras",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "cebolla morada",
+        "cantidad": "1/4",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "pepino",
+        "cantidad": "1/2",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "queso crema",
+        "cantidad": "60",
+        "unidad": "g"
+      },
+      {
+        "nombre": "aderezo césar sin huevo",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "eneldo fresco",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "pimienta negra y limón",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Separás las hojas de endivia y las distribuís en el plato como base.",
+      "Cortás el pepino en rodajas finas y la cebolla en aros delgados.",
+      "Disponés las fetas de salmón ahumado sobre las endivias.",
+      "Colocás pequeñas porciones de queso crema con una cuchara.",
+      "Esparcís las alcaparras, el pepino y la cebolla.",
+      "Aderezás con el césar, eneldo y pimienta recién molida."
+    ],
+    "tip_chef": "Las hojas de endivia son el cubierto comestible perfecto — cada hoja se convierte en un bite de una sola pieza que podés comer con la mano en una juntada.",
+    "conservacion": "Armalo al momento. El salmón ahumado no aguarda una vez dispuesto.",
+    "imagen_url": ""
+  },
+  {
+    "id": 27,
+    "nombre": "Ensalada de peras asadas con gorgonzola y nueces caramelizadas",
+    "descripcion": "Dulce, intenso y con esa elegancia que hace que todos piensen que estudiaste cocina. Las peras asadas con gorgonzola son una combinación atemporal de alta cocina.",
+    "categoria": "juntada",
+    "ocasion": [
+      "juntada",
+      "cena"
+    ],
+    "tiempo_preparacion": 35,
+    "porciones": 4,
+    "nivel_dificultad": "medio",
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "vegetariana": true,
+    "vegana": false,
+    "ingrediente_principal": "pera",
+    "aderezo_recomendado_id": 7,
+    "ingredientes": [
+      {
+        "nombre": "peras Williams o Packham",
+        "cantidad": "4",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "queso gorgonzola o roquefort",
+        "cantidad": "100",
+        "unidad": "g"
+      },
+      {
+        "nombre": "nueces",
+        "cantidad": "80",
+        "unidad": "g"
+      },
+      {
+        "nombre": "azúcar",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "rúcula o mix de hojas",
+        "cantidad": "100",
+        "unidad": "g"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "miel",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "aderezo blue cheese criollo",
+        "cantidad": "3",
+        "unidad": "cdas"
+      }
+    ],
+    "pasos": [
+      "Cortás las peras al medio, las rocías con aceite de oliva y las asás en horno a 200°C 20 minutos hasta que estén doradas y tiernas.",
+      "Para las nueces caramelizadas: calentás el azúcar en sartén seca a fuego medio hasta que se derrita en caramelo, agregás las nueces, mezclás rápido y las volcás sobre papel manteca. Las dejás enfriar.",
+      "Armás el plato con las hojas verdes de base.",
+      "Colocás las peras asadas calientes sobre las hojas.",
+      "Desmenuzás el gorgonzola por encima — el calor de las peras lo ablanda.",
+      "Rompés las nueces caramelizadas en trozos y las distribuís. Rociás con miel y el aderezo de blue cheese."
+    ],
+    "tip_chef": "Las nueces caramelizadas se hacen en 3 minutos pero transforman el plato — no hay equivalente en crocante y dulzor. Hacelas siempre en cantidad y guardalas en un frasco.",
+    "conservacion": "Las peras asadas se pueden preparar con anticipación. Las nueces caramelizadas aguantan 1 semana en frasco hermético.",
+    "imagen_url": ""
+  },
+  {
+    "id": 28,
+    "nombre": "Bowl de langostinos con mango, aguacate y aderezo de coco",
+    "descripcion": "El bowl que hace pensar que estás en una playa del Caribe. Langostinos salteados, mango dulce y palta cremosa con un aderezo de coco que une todo. Para juntadas que quieren sorprender.",
+    "categoria": "juntada",
+    "ocasion": [
+      "juntada",
+      "cena"
+    ],
+    "tiempo_preparacion": 25,
+    "porciones": 4,
+    "nivel_dificultad": "medio",
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "ingrediente_principal": "langostinos",
+    "aderezo_recomendado_id": 6,
+    "ingredientes": [
+      {
+        "nombre": "langostinos pelados",
+        "cantidad": "400",
+        "unidad": "g"
+      },
+      {
+        "nombre": "mango maduro",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "palta",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "pepino",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "leche de coco",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "jugo de lima",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "cilantro fresco",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "ají o chile fresco",
+        "cantidad": "1",
+        "unidad": "unidad chica"
+      },
+      {
+        "nombre": "aceite de oliva y sal",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Salpimentás los langostinos y los saltéas en sartén bien caliente con aceite 2 minutos por lado hasta que estén rosados.",
+      "Cortás el mango y la palta en cubos del mismo tamaño. Cortás el pepino en medias lunas.",
+      "Hacés el aderezo de coco mezclando la leche de coco con el jugo de lima, el cilantro picado y el ají finamente picado.",
+      "Armás el bowl con el pepino y el mango de base.",
+      "Distribuís la palta y los langostinos calientes.",
+      "Aderezás con el aderezo de coco y terminás con cilantro fresco."
+    ],
+    "tip_chef": "Los langostinos tienen que estar bien secos antes de saltear — si tienen humedad vapor en lugar de sellar. Secalos con papel absorbente.",
+    "conservacion": "Servilo al momento. Los langostinos cocinados no aguantan más de 1 día.",
+    "imagen_url": ""
+  },
+  {
+    "id": 29,
+    "nombre": "Ensalada de espárragos con huevo pochado y parmesano",
+    "descripcion": "Elegante y contundente. El huevo pochado que se rompe sobre los espárragos y el parmesano es un momento de placer puro. Ese plato que todo el mundo pide.",
+    "categoria": "juntada",
+    "ocasion": [
+      "juntada",
+      "almuerzo",
+      "cena"
+    ],
+    "tiempo_preparacion": 20,
+    "porciones": 2,
+    "nivel_dificultad": "medio",
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "vegetariana": true,
+    "vegana": false,
+    "ingrediente_principal": "espárragos",
+    "aderezo_recomendado_id": 1,
+    "ingredientes": [
+      {
+        "nombre": "espárragos verdes",
+        "cantidad": "500",
+        "unidad": "g"
+      },
+      {
+        "nombre": "huevos",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "queso parmesano",
+        "cantidad": "40",
+        "unidad": "g"
+      },
+      {
+        "nombre": "vinagre blanco",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "aderezo césar sin huevo",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Doblás los espárragos para que se partan en el punto natural (descartás la parte leñosa).",
+      "Los grillás en sartén caliente con aceite o los blanqueás 3 minutos en agua hirviendo salada.",
+      "Para el huevo pochado: hervís agua, agregás el vinagre, formás un remolino con una cuchara y volcás el huevo. Cocinás 3 minutos exactos.",
+      "Retirás el huevo con espumadera sobre papel absorbente.",
+      "Disponés los espárragos en el plato, aderezás con el césar.",
+      "Colocás el huevo pochado encima, laminás el parmesano y terminás con pimienta."
+    ],
+    "tip_chef": "El truco del remolino para el huevo pochado es real — concentra la clara alrededor de la yema. El vinagre en el agua también ayuda a coagular más rápido la clara.",
+    "conservacion": "Servilo al momento. El huevo pochado no se puede guardar.",
+    "imagen_url": ""
+  },
+  {
+    "id": 30,
+    "nombre": "Bowl de quinoa negra con frambuesas y almendras tostadas",
+    "descripcion": "Una ensalada que parece sacada de una revista de cocina. La quinoa negra con frambuesas frescas y almendras tostadas es una combinación que deja a todos con la boca abierta.",
+    "categoria": "juntada",
+    "ocasion": [
+      "juntada",
+      "almuerzo"
+    ],
+    "tiempo_preparacion": 30,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "ingrediente_principal": "quinoa",
+    "aderezo_recomendado_id": 9,
+    "ingredientes": [
+      {
+        "nombre": "quinoa negra o tricolor",
+        "cantidad": "1",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "frambuesas frescas",
+        "cantidad": "200",
+        "unidad": "g"
+      },
+      {
+        "nombre": "almendras fileteadas",
+        "cantidad": "50",
+        "unidad": "g"
+      },
+      {
+        "nombre": "espinaca baby",
+        "cantidad": "80",
+        "unidad": "g"
+      },
+      {
+        "nombre": "menta fresca",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "vinagreta de frambuesa",
+        "cantidad": "4",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Enjuagás la quinoa negra y la cocinás en 2 tazas de agua con sal 15 minutos a fuego bajo con tapa.",
+      "La extendés en una placa para que enfríe más rápido y no siga cocinando.",
+      "Tostás las almendras fileteadas en sartén seca 2 minutos hasta dorar levemente.",
+      "Mezclás la quinoa fría con la espinaca baby y la menta picada.",
+      "Incorporás las frambuesas con delicadeza para que no se rompan.",
+      "Aderezás con la vinagreta de frambuesa y terminás con las almendras tostadas."
+    ],
+    "tip_chef": "La quinoa negra es más firme y tiene un sabor más terroso que la blanca — perfecta para ensaladas frías porque no se pone pastosa. El color contrasta espectacularmente con las frambuesas.",
+    "conservacion": "Sin las frambuesas y las almendras aguanta 3 días en heladera. Agregalas justo antes de servir.",
+    "imagen_url": ""
+  },
+  {
+    "id": 31,
+    "nombre": "Ensalada de repollo crocante con zanahoria y jengibre (coleslaw gourmet)",
+    "descripcion": "El coleslaw que te hace olvidar todos los coleslaws aburridos que comiste. El jengibre fresco le da un kick que lo convierte en protagonista, no en guarnición.",
+    "categoria": "sin_lechuga",
+    "ocasion": [
+      "almuerzo",
+      "cena",
+      "juntada"
+    ],
+    "tiempo_preparacion": 15,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "vegetariana": true,
+    "vegana": false,
+    "ingrediente_principal": "repollo",
+    "aderezo_recomendado_id": 3,
+    "ingredientes": [
+      {
+        "nombre": "repollo blanco",
+        "cantidad": "1/4",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "repollo morado",
+        "cantidad": "1/4",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "zanahorias",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "jengibre fresco",
+        "cantidad": "1",
+        "unidad": "trozo de 2cm"
+      },
+      {
+        "nombre": "mayonesa",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "aderezo de miel y mostaza",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "vinagre de manzana",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cortás ambos repollos en juliana muy fina — mandolina si tenés, cuchillo con paciencia si no.",
+      "Rallás las zanahorias grueso y el jengibre finísimo.",
+      "Mezclás el repollo con una cucharadita de sal y lo masajeás 2 minutos con las manos hasta que largue líquido.",
+      "Exprimís el exceso de líquido con las manos.",
+      "Hacés el aderezo mezclando la mayonesa, miel-mostaza, vinagre y jengibre rallado.",
+      "Mezclás los vegetales con el aderezo y dejás reposar 15 minutos antes de servir."
+    ],
+    "tip_chef": "El masaje y el reposo son los dos secretos del coleslaw: el primero ablada el repollo sin perder el crunch, el segundo integra los sabores. Sin esos pasos queda crudo en textura y sabor.",
+    "conservacion": "Mejora de un día para el otro. Aguanta 3 días en heladera perfectamente.",
+    "imagen_url": ""
+  },
+  {
+    "id": 32,
+    "nombre": "Bowl de tomate con pepino, cebolla y pan tostado (panzanella)",
+    "descripcion": "La panzanella toscana que destruye el mito de que el pan mojado no puede ser elegante. Los tomates maduros lo impregnan todo con un sabor que es verano puro.",
+    "categoria": "sin_lechuga",
+    "ocasion": [
+      "almuerzo",
+      "juntada"
+    ],
+    "tiempo_preparacion": 20,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "apta_vianda": false,
+    "sin_gluten": false,
+    "sin_lacteos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "ingrediente_principal": "tomate",
+    "aderezo_recomendado_id": 5,
+    "ingredientes": [
+      {
+        "nombre": "tomates maduros grandes",
+        "cantidad": "4",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "pan rústico del día anterior",
+        "cantidad": "200",
+        "unidad": "g"
+      },
+      {
+        "nombre": "pepino",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "cebolla morada",
+        "cantidad": "1/2",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "albahaca fresca",
+        "cantidad": "1",
+        "unidad": "puñado"
+      },
+      {
+        "nombre": "aceite de oliva extra virgen",
+        "cantidad": "5",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "vinagre de vino tinto",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cortás el pan en cubos rústicos y los tostás en horno a 180°C 10 minutos hasta que queden dorados pero no duros.",
+      "Cortás los tomates en trozos irregulares grandes. Los ponés en un bol con sal y dejas que suelten jugo 10 minutos.",
+      "Cortás el pepino en rodajas y la cebolla en aros finos.",
+      "Mezclás el pan tostado con los tomates y su jugo, el pepino y la cebolla.",
+      "Aderezás con aceite de oliva y vinagre, mezclás y dejás reposar 10 minutos.",
+      "Terminás con albahaca rasgada con las manos."
+    ],
+    "tip_chef": "El pan tiene que ser del día anterior — si es fresco no absorbe bien y si es muy viejo queda duro. La panzanella es la receta perfecta para el pan que ya no sirve para sándwich.",
+    "conservacion": "Servila recién hecha para que el pan tenga textura. Si la dejás más de 1 hora el pan se ablanda completamente — también rico, pero diferente.",
+    "imagen_url": ""
+  },
+  {
+    "id": 33,
+    "nombre": "Ensalada de brócoli crudo con limón, ajo y almendras",
+    "descripcion": "El brócoli crudo que convierte a quienes dicen que no les gusta el brócoli. Cortado finísimo, macerado en limón y ajo — una ensalada con una frescura y un crunch que no esperás.",
+    "categoria": "sin_lechuga",
+    "ocasion": [
+      "almuerzo",
+      "cena"
+    ],
+    "tiempo_preparacion": 15,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "ingrediente_principal": "brócoli",
+    "aderezo_recomendado_id": 2,
+    "ingredientes": [
+      {
+        "nombre": "brócoli grande",
+        "cantidad": "1",
+        "unidad": "planta"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "1",
+        "unidad": "diente"
+      },
+      {
+        "nombre": "almendras fileteadas o picadas",
+        "cantidad": "40",
+        "unidad": "g"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal en escamas",
+        "cantidad": "a gusto",
+        "unidad": ""
+      },
+      {
+        "nombre": "parmesano rallado (opcional)",
+        "cantidad": "2",
+        "unidad": "cdas"
+      }
+    ],
+    "pasos": [
+      "Cortás el brócoli en floretes muy pequeños y el tallo en cubos chicos — el tallo también se come y está buenísimo.",
+      "Rallás el ajo finísimo o lo triturás.",
+      "Mezclás el brócoli con el ajo, el limón y el aceite, y lo dejás macerar 10 minutos — el ácido ablanda ligeramente las fibras.",
+      "Tostás las almendras en sartén seca 2 minutos.",
+      "Mezclás todo, agregás sal, probás y ajustás acidez.",
+      "Terminás con parmesano si lo usás y las almendras tostadas."
+    ],
+    "tip_chef": "El macerado en limón es la clave — el brócoli crudo puro puede ser difícil, pero 10 minutos con ácido lo suaviza perfectamente sin perder el crunch.",
+    "conservacion": "Mejora con el tiempo — el macerado continúa en heladera. Aguanta 2 días perfectamente.",
+    "imagen_url": ""
+  },
+  {
+    "id": 34,
+    "nombre": "Bowl de zucchini en cintas con pesto y piñones",
+    "descripcion": "El zucchini crudo en cintas con pesto es uno de esos descubrimientos que cambian la manera en que ves las ensaladas. Fresco, herbáceo y con una presentación que enamora.",
+    "categoria": "sin_lechuga",
+    "ocasion": [
+      "almuerzo",
+      "cena",
+      "juntada"
+    ],
+    "tiempo_preparacion": 10,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "vegetariana": true,
+    "vegana": false,
+    "ingrediente_principal": "zucchini",
+    "aderezo_recomendado_id": 5,
+    "ingredientes": [
+      {
+        "nombre": "zucchini",
+        "cantidad": "3",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "pesto de albahaca",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "piñones",
+        "cantidad": "25",
+        "unidad": "g"
+      },
+      {
+        "nombre": "queso parmesano en láminas",
+        "cantidad": "30",
+        "unidad": "g"
+      },
+      {
+        "nombre": "tomates cherry",
+        "cantidad": "100",
+        "unidad": "g"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Con un pelapapas o mandolina cortás el zucchini en cintas largas y finas — de punta a punta.",
+      "Ponés las cintas en un bol y las mezclás con un poco de sal. Dejás reposar 5 minutos para que se ablanden levemente.",
+      "Tostás los piñones en sartén seca 2 minutos.",
+      "Mezclás el pesto con el jugo de limón para que quede más fluido.",
+      "Mezclás las cintas de zucchini con el pesto y los cherry cortados al medio.",
+      "Servís con las láminas de parmesano y los piñones por encima."
+    ],
+    "tip_chef": "El pelapapas es la herramienta secreta para el zucchini en cintas — mucho más fácil que la mandolina y el resultado es igual de elegante.",
+    "conservacion": "Mejor servir al momento. El zucchini suelta agua con el tiempo y el pesto se oxida.",
+    "imagen_url": ""
+  },
+  {
+    "id": 35,
+    "nombre": "Ensalada de remolacha cruda rallada con naranja y semillas",
+    "descripcion": "Vibrante, terrosa y con una frescura que sorprende. La remolacha cruda rallada tiene una dulzura completamente diferente a la cocida — más fresca, más viva.",
+    "categoria": "sin_lechuga",
+    "ocasion": [
+      "almuerzo",
+      "cena"
+    ],
+    "tiempo_preparacion": 12,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "ingrediente_principal": "remolacha",
+    "aderezo_recomendado_id": 5,
+    "ingredientes": [
+      {
+        "nombre": "remolachas crudas",
+        "cantidad": "3",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "naranja grande",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "mix de semillas",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "perejil o cilantro",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Pelás las remolachas crudas con guantes — tiñen mucho.",
+      "Las rallás grueso con el lado grande del rallador.",
+      "Pelás la naranja a vivo y cortás los gajos en trozos.",
+      "Mezclás la remolacha con los gajos de naranja y el perejil o cilantro picado.",
+      "Aderezás con limón, aceite, sal y pimienta.",
+      "Tostás las semillas y las esparcís al final."
+    ],
+    "tip_chef": "Usá guantes — la remolacha cruda tiñe más que la cocida y la mancha no sale fácil. En la cocina de restaurante usan guantes siempre.",
+    "conservacion": "Aguanta 2 días en heladera, con las semillas guardadas aparte.",
+    "imagen_url": ""
+  },
+  {
+    "id": 36,
+    "nombre": "Bowl de zanahoria asada con tahini y cilantro",
+    "descripcion": "La zanahoria asada tiene una personalidad completamente distinta a la cruda. Con tahini y cilantro se convierte en algo que parece del menú de un restaurante de Medio Oriente.",
+    "categoria": "sin_lechuga",
+    "ocasion": [
+      "almuerzo",
+      "cena",
+      "juntada"
+    ],
+    "tiempo_preparacion": 35,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "ingrediente_principal": "zanahoria",
+    "aderezo_recomendado_id": 2,
+    "ingredientes": [
+      {
+        "nombre": "zanahorias",
+        "cantidad": "500",
+        "unidad": "g"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "comino",
+        "cantidad": "1",
+        "unidad": "cdita"
+      },
+      {
+        "nombre": "páprika ahumada",
+        "cantidad": "1/2",
+        "unidad": "cdita"
+      },
+      {
+        "nombre": "aderezo de tahini con limón",
+        "cantidad": "4",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "cilantro fresco",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "semillas de sésamo",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Pelás las zanahorias y las cortás en bastones o en rodajas diagonales gruesas.",
+      "Las mezclás con aceite de oliva, comino, páprika, sal y pimienta.",
+      "Las asás en horno a 220°C 25 minutos hasta que estén tiernas y con bordes dorados.",
+      "Las dejás enfriar 5 minutos.",
+      "Las disponés en el plato y aderezás generosamente con el tahini con limón.",
+      "Terminás con cilantro fresco picado y sésamo."
+    ],
+    "tip_chef": "Las zanahorias necesitan espacio en la bandeja — si están superpuestas se vaporean en lugar de asarse. Usá dos bandejas si hace falta.",
+    "conservacion": "Las zanahorias asadas aguantan 4 días en heladera. El tahini lo agregás al momento de servir.",
+    "imagen_url": ""
+  },
+  {
+    "id": 37,
+    "nombre": "Ensalada de hinojo con naranja, aceitunas y parmesano",
+    "descripcion": "El hinojo raw es uno de los ingredientes más subestimados de la ensaladería. Cortado fino con naranja y aceitunas se convierte en algo que sorprende a todos.",
+    "categoria": "sin_lechuga",
+    "ocasion": [
+      "almuerzo",
+      "cena",
+      "juntada"
+    ],
+    "tiempo_preparacion": 15,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "vegetariana": true,
+    "vegana": false,
+    "ingrediente_principal": "hinojo",
+    "aderezo_recomendado_id": 5,
+    "ingredientes": [
+      {
+        "nombre": "bulbo de hinojo",
+        "cantidad": "1",
+        "unidad": "unidad grande"
+      },
+      {
+        "nombre": "naranjas",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "aceitunas verdes o negras",
+        "cantidad": "1/3",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "queso parmesano en láminas",
+        "cantidad": "30",
+        "unidad": "g"
+      },
+      {
+        "nombre": "aceite de oliva extra virgen",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cortás el hinojo por la mitad, quitás el corazón duro y lo laminás muy fino con mandolina o cuchillo. Reservás las hojas verdes del tallo.",
+      "Pelás las naranjas a vivo y cortás los gajos, recogiendo el jugo que suelta.",
+      "Mezclás el hinojo con el jugo de naranja que recogiste, el limón y el aceite de oliva.",
+      "Dejás macerar 5 minutos para que el hinojo se ablande levemente.",
+      "Incorporás los gajos de naranja y las aceitunas.",
+      "Terminás con láminas de parmesano y las hojas verdes del hinojo."
+    ],
+    "tip_chef": "Las hojas verdes del hinojo se usan como hierba aromática — tienen el mismo sabor anisado pero más delicado. No las tirés.",
+    "conservacion": "El hinojo macerado aguanta 1 día en heladera. Los gajos de naranja y el parmesano van al momento.",
+    "imagen_url": ""
+  },
+  {
+    "id": 38,
+    "nombre": "Bowl de manzana, apio y nueces con aderezo de yogur",
+    "descripcion": "Fresco, crocante y con una ligereza que lo hace perfecto para cuando querés algo que no te pese. La combinación manzana-apio-nuez es un clásico por razones obvias.",
+    "categoria": "sin_lechuga",
+    "ocasion": [
+      "almuerzo",
+      "cena"
+    ],
+    "tiempo_preparacion": 10,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "vegetariana": true,
+    "vegana": false,
+    "ingrediente_principal": "manzana",
+    "aderezo_recomendado_id": 4,
+    "ingredientes": [
+      {
+        "nombre": "manzanas verdes",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "apio",
+        "cantidad": "3",
+        "unidad": "ramas"
+      },
+      {
+        "nombre": "nueces",
+        "cantidad": "50",
+        "unidad": "g"
+      },
+      {
+        "nombre": "uvas verdes sin semilla",
+        "cantidad": "100",
+        "unidad": "g"
+      },
+      {
+        "nombre": "aderezo de yogur con eneldo",
+        "cantidad": "4",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cortás las manzanas en cubos o bastones con cáscara, las mezclas inmediatamente con el jugo de limón para que no oxiden.",
+      "Cortás el apio en rodajas diagonales y las uvas al medio.",
+      "Tostás las nueces en sartén seca 2 minutos.",
+      "Mezclás la manzana, el apio y las uvas.",
+      "Aderezás con el yogur con eneldo y mezclás con suavidad.",
+      "Terminás con las nueces tostadas y pimienta."
+    ],
+    "tip_chef": "El limón en la manzana es doble función: evita la oxidación y agrega acidez que equilibra el aderezo de yogur. No lo saltees.",
+    "conservacion": "Mejor fresco, pero aguanta 1 día en heladera con las nueces aparte.",
+    "imagen_url": ""
+  },
+  {
+    "id": 39,
+    "nombre": "Ensalada de pepino con yogur, menta y semillas de sésamo",
+    "descripcion": "Inspirada en el tzatziki pero como ensalada completa. Refrescante, cremosa y con ese sabor mediterráneo que hace que no puedas parar de comer.",
+    "categoria": "sin_lechuga",
+    "ocasion": [
+      "almuerzo",
+      "cena"
+    ],
+    "tiempo_preparacion": 12,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "vegetariana": true,
+    "vegana": false,
+    "ingrediente_principal": "pepino",
+    "aderezo_recomendado_id": 4,
+    "ingredientes": [
+      {
+        "nombre": "pepinos",
+        "cantidad": "3",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "yogur natural entero",
+        "cantidad": "4",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "menta fresca",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "semillas de sésamo tostadas",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "ajo",
+        "cantidad": "1/2",
+        "unidad": "diente"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "sal",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cortás los pepinos en rodajas o cubos — si son largos, en medias lunas.",
+      "Los ponés en un colador con sal y los dejás escurrir 5 minutos para que suelten agua.",
+      "Mezclás el yogur con el ajo rallado, el limón y el aceite.",
+      "Picás la menta finamente.",
+      "Mezclás el pepino escurrido con el aderezo de yogur y la menta.",
+      "Terminás con las semillas de sésamo tostadas."
+    ],
+    "tip_chef": "El paso de salar y escurrir el pepino es fundamental — si no, el agua del pepino diluye el yogur y queda aguado. 5 minutos hacen la diferencia.",
+    "conservacion": "Aguanta 1 día en heladera. El pepino sigue soltando agua pero sigue rico.",
+    "imagen_url": ""
+  },
+  {
+    "id": 40,
+    "nombre": "Bowl de choclo asado con pimientos, cebolla morada y lima",
+    "descripcion": "El choclo asado tiene una dulzura caramelizada que lo transforma completamente. Con pimientos y lima queda algo que recuerda a una calle de México pero se hace en casa fácil.",
+    "categoria": "sin_lechuga",
+    "ocasion": [
+      "almuerzo",
+      "cena",
+      "juntada"
+    ],
+    "tiempo_preparacion": 20,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "ingrediente_principal": "choclo",
+    "aderezo_recomendado_id": 6,
+    "ingredientes": [
+      {
+        "nombre": "choclo en lata o desgranado fresco",
+        "cantidad": "2",
+        "unidad": "tazas"
+      },
+      {
+        "nombre": "morrón rojo",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "cebolla morada",
+        "cantidad": "1/2",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "jalapeño o ají",
+        "cantidad": "1",
+        "unidad": "unidad pequeña"
+      },
+      {
+        "nombre": "cilantro fresco",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "jugo de lima o limón",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Escurrís y secás bien el choclo de lata. Lo saltéas en sartén muy caliente sin aceite 4-5 minutos hasta que quede con manchas doradas.",
+      "Cortás el morrón en cubos pequeños y la cebolla en brunoise. Picás el jalapeño finísimo.",
+      "Dejás enfriar el choclo 5 minutos.",
+      "Mezclás todo: choclo, morrón, cebolla, jalapeño y cilantro picado.",
+      "Aderezás con lima, aceite, sal y pimienta.",
+      "Probás y ajustás picante según tu gusto."
+    ],
+    "tip_chef": "La sartén muy caliente y sin aceite es la clave para el choclo asado — el agua se evapora rápido y el azúcar del maíz carameliza. Con aceite queda frito, no asado.",
+    "conservacion": "Aguanta 2 días en heladera. Los sabores se integran mejor el día siguiente.",
+    "imagen_url": ""
+  },
+  {
+    "id": 41,
+    "nombre": "Ensalada de frutillas con espinaca, almendras y vinagreta de balsámico",
+    "descripcion": "La combinación que parece rara hasta que la probás y no podés dejar de comerla. Las frutillas maduras con espinaca baby y el balsámico es un maridaje perfecto.",
+    "categoria": "frutal",
+    "ocasion": [
+      "almuerzo",
+      "juntada"
+    ],
+    "tiempo_preparacion": 10,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "ingrediente_principal": "frutillas",
+    "aderezo_recomendado_id": 9,
+    "ingredientes": [
+      {
+        "nombre": "frutillas maduras",
+        "cantidad": "300",
+        "unidad": "g"
+      },
+      {
+        "nombre": "espinaca baby",
+        "cantidad": "100",
+        "unidad": "g"
+      },
+      {
+        "nombre": "almendras fileteadas tostadas",
+        "cantidad": "40",
+        "unidad": "g"
+      },
+      {
+        "nombre": "cebolla morada",
+        "cantidad": "1/4",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "vinagreta de frambuesa o balsámica",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cortás las frutillas en láminas o cuartos según el tamaño.",
+      "Cortás la cebolla en aros muy finos y la remojás en agua fría 5 minutos.",
+      "Tostás las almendras en sartén seca 2 minutos.",
+      "Armás la ensalada con la espinaca de base, distribuís las frutillas y la cebolla escurrida.",
+      "Esparcís las almendras.",
+      "Aderezás con la vinagreta justo antes de servir."
+    ],
+    "tip_chef": "Las frutillas tienen que estar a temperatura ambiente para que tengan su máximo sabor. Las frutillas frías de heladera son insípidas comparadas con las que reposan 20 minutos afuera.",
+    "conservacion": "Armala al momento. Las frutillas cortadas sueltan líquido rápido.",
+    "imagen_url": ""
+  },
+  {
+    "id": 42,
+    "nombre": "Bowl de mango, pepino y maní con aderezo asiático",
+    "descripcion": "Un viaje a Southeast Asia en un bowl. El mango dulce, el pepino fresco y el maní crocante con ese aderezo de jengibre y soja que hace que todo funcione a la perfección.",
+    "categoria": "frutal",
+    "ocasion": [
+      "almuerzo",
+      "cena"
+    ],
+    "tiempo_preparacion": 15,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "ingrediente_principal": "mango",
+    "aderezo_recomendado_id": 6,
+    "ingredientes": [
+      {
+        "nombre": "mango maduro",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "pepino",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "maní tostado sin sal",
+        "cantidad": "50",
+        "unidad": "g"
+      },
+      {
+        "nombre": "cebolla morada",
+        "cantidad": "1/4",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "cilantro o albahaca tailandesa",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "ají rojo fresco",
+        "cantidad": "1",
+        "unidad": "unidad pequeña"
+      },
+      {
+        "nombre": "aderezo de ajonjolí y jengibre",
+        "cantidad": "4",
+        "unidad": "cdas"
+      }
+    ],
+    "pasos": [
+      "Pelás el mango y lo cortás en cubos o en tiras.",
+      "Cortás el pepino en medias lunas y la cebolla en aros finos.",
+      "Picás el ají en rodajas finas.",
+      "Mezclás el mango, el pepino y la cebolla en un bol.",
+      "Aderezás con el aderezo de ajonjolí y jengibre.",
+      "Terminás con el maní, el cilantro y el ají."
+    ],
+    "tip_chef": "Si el mango está muy maduro y dulce, le agregás un poco más de jugo de lima al aderezo para compensar. El equilibrio dulce-ácido-picante es lo que hace este bowl irresistible.",
+    "conservacion": "El mango sin aderezo aguanta 1 día en heladera. Aderezá al momento.",
+    "imagen_url": ""
+  },
+  {
+    "id": 43,
+    "nombre": "Ensalada de durazno a la plancha con rúcula y prosciutto",
+    "descripcion": "El durazno a la plancha es una revelación — caliente, caramelizado y jugoso sobre rúcula fresca con prosciutto crujiente. Un plato que vale la temporada de duraznos.",
+    "categoria": "frutal",
+    "ocasion": [
+      "almuerzo",
+      "cena",
+      "juntada"
+    ],
+    "tiempo_preparacion": 15,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "ingrediente_principal": "durazno",
+    "aderezo_recomendado_id": 3,
+    "ingredientes": [
+      {
+        "nombre": "duraznos maduros pero firmes",
+        "cantidad": "3",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "rúcula",
+        "cantidad": "80",
+        "unidad": "g"
+      },
+      {
+        "nombre": "prosciutto o jamón crudo",
+        "cantidad": "80",
+        "unidad": "g"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "aderezo de miel y mostaza",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "pimienta negra",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cortás los duraznos al medio, les sacás el carozo y los cortás en gajos.",
+      "Los grillás en plancha o sartén bien caliente con un poco de aceite 2 minutos por lado — tienen que quedar con marcas doradas.",
+      "Mientras los duraznos están calientes, armás la base de rúcula en el plato.",
+      "Distribuís las fetas de prosciutto de manera que queden con volumen.",
+      "Colocás los gajos de durazno calientes sobre la rúcula — el calor la marchita levemente de manera elegante.",
+      "Aderezás con miel y mostaza y terminás con pimienta."
+    ],
+    "tip_chef": "El durazno tiene que estar firme para grillar — uno muy maduro se deshace en la plancha. El punto justo es cuando está fragante pero todavía tiene resistencia al apretarlo.",
+    "conservacion": "Servila al momento. El durazno grillado no espera.",
+    "imagen_url": ""
+  },
+  {
+    "id": 44,
+    "nombre": "Bowl de naranja, aceitunas y cebolla roja (estilo marroquí)",
+    "descripcion": "El contraste agridulce marroquí que desafía lo que creés que es una ensalada. Simple, exótico y completamente diferente a todo lo que tenés en tu recetario.",
+    "categoria": "frutal",
+    "ocasion": [
+      "almuerzo",
+      "juntada"
+    ],
+    "tiempo_preparacion": 10,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "ingrediente_principal": "naranja",
+    "aderezo_recomendado_id": 5,
+    "ingredientes": [
+      {
+        "nombre": "naranjas grandes",
+        "cantidad": "3",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "aceitunas negras",
+        "cantidad": "1/2",
+        "unidad": "taza"
+      },
+      {
+        "nombre": "cebolla morada",
+        "cantidad": "1/2",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "perejil o cilantro fresco",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "comino molido",
+        "cantidad": "1/2",
+        "unidad": "cdita"
+      },
+      {
+        "nombre": "páprika",
+        "cantidad": "1/2",
+        "unidad": "cdita"
+      },
+      {
+        "nombre": "aceite de oliva extra virgen",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal y pimienta de cayena",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Pelás las naranjas a vivo y las cortás en rodajas de 1 cm.",
+      "Cortás la cebolla en aros muy finos y la remojás 5 minutos en agua fría con sal.",
+      "Disponés las rodajas de naranja en el plato.",
+      "Distribuís las aceitunas y la cebolla escurrida.",
+      "Espolvoreás el comino y la páprika.",
+      "Rociás con aceite de oliva, terminás con el perejil y una pizca de cayena."
+    ],
+    "tip_chef": "Esta ensalada mejora 10 minutos de reposo — los sabores del comino y la páprika infusionan el jugo de naranja y crean una vinagreta natural extraordinaria.",
+    "conservacion": "Aguanta 1 día en heladera. La cebolla se vuelve más suave con el tiempo.",
+    "imagen_url": ""
+  },
+  {
+    "id": 45,
+    "nombre": "Ensalada de uvas, pera y queso azul con nueces",
+    "descripcion": "Dulce, salado e intenso — la trilogía perfecta. Las uvas jugosas, la pera mantecosa y el queso azul es una combinación de sommelier que funciona igual de bien en el plato.",
+    "categoria": "frutal",
+    "ocasion": [
+      "juntada",
+      "cena"
+    ],
+    "tiempo_preparacion": 12,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "vegetariana": true,
+    "vegana": false,
+    "ingrediente_principal": "uvas",
+    "aderezo_recomendado_id": 7,
+    "ingredientes": [
+      {
+        "nombre": "uvas rojas y verdes sin semilla",
+        "cantidad": "300",
+        "unidad": "g"
+      },
+      {
+        "nombre": "pera",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "queso azul (gorgonzola o roquefort)",
+        "cantidad": "80",
+        "unidad": "g"
+      },
+      {
+        "nombre": "nueces tostadas",
+        "cantidad": "60",
+        "unidad": "g"
+      },
+      {
+        "nombre": "rúcula o endivias",
+        "cantidad": "80",
+        "unidad": "g"
+      },
+      {
+        "nombre": "aderezo blue cheese criollo",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "miel",
+        "cantidad": "1",
+        "unidad": "cda"
+      }
+    ],
+    "pasos": [
+      "Cortás las uvas al medio y las peras en láminas finas.",
+      "Tostás las nueces en sartén 2 minutos.",
+      "Armás la base con la rúcula o las endivias.",
+      "Distribuís las uvas y las láminas de pera.",
+      "Desmenuzás el queso azul por encima.",
+      "Esparcís las nueces, aderezás con el blue cheese y un hilo de miel."
+    ],
+    "tip_chef": "La miel al final es el toque que integra todo — el dulce de la miel une el salado del queso azul y la acidez de las uvas. No la omitas.",
+    "conservacion": "Armala al momento. Las peras cortadas se oxidan rápido.",
+    "imagen_url": ""
+  },
+  {
+    "id": 46,
+    "nombre": "Bowl de melón con jamón crudo y menta",
+    "descripcion": "El antipasto italiano más elegante convertido en ensalada. El melón frío y dulce con el jamón crudo salado y la menta fresca es una combinación imposible de mejorar.",
+    "categoria": "frutal",
+    "ocasion": [
+      "juntada",
+      "almuerzo"
+    ],
+    "tiempo_preparacion": 10,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": false,
+    "vegana": false,
+    "ingrediente_principal": "melón",
+    "aderezo_recomendado_id": 3,
+    "ingredientes": [
+      {
+        "nombre": "melón cantalupo maduro",
+        "cantidad": "1/2",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "jamón crudo en fetas finas",
+        "cantidad": "120",
+        "unidad": "g"
+      },
+      {
+        "nombre": "menta fresca",
+        "cantidad": "1",
+        "unidad": "puñado"
+      },
+      {
+        "nombre": "rúcula (opcional)",
+        "cantidad": "50",
+        "unidad": "g"
+      },
+      {
+        "nombre": "aceite de oliva extra virgen",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "pimienta negra",
+        "cantidad": "a gusto",
+        "unidad": ""
+      },
+      {
+        "nombre": "aderezo de miel y mostaza (opcional)",
+        "cantidad": "2",
+        "unidad": "cdas"
+      }
+    ],
+    "pasos": [
+      "Pelás el melón y lo cortás en gajos o cubos según preferencia — los gajos son más elegantes.",
+      "Disponés el melón bien frío en el plato.",
+      "Intercalás o ponés por encima las fetas de jamón crudo con volumen, no aplastadas.",
+      "Esparcís las hojas de menta.",
+      "Rociás con aceite de oliva y terminás con pimienta recién molida."
+    ],
+    "tip_chef": "El melón bien frío y el jamón a temperatura ambiente — ese contraste de temperaturas es parte de la magia del plato. El melón del día es incomparable.",
+    "conservacion": "Servilo al momento. El melón cortado y el jamón no aguardan.",
+    "imagen_url": ""
+  },
+  {
+    "id": 47,
+    "nombre": "Ensalada de kiwi con espinaca, semillas y aderezo de jengibre",
+    "descripcion": "El kiwi en una ensalada descoloca a todos y los convence en el primer bocado. Ácido, dulce y refrescante — funciona especialmente bien con espinaca baby y el kick del jengibre.",
+    "categoria": "frutal",
+    "ocasion": [
+      "almuerzo",
+      "cena"
+    ],
+    "tiempo_preparacion": 10,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "ingrediente_principal": "kiwi",
+    "aderezo_recomendado_id": 6,
+    "ingredientes": [
+      {
+        "nombre": "kiwis maduros",
+        "cantidad": "3",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "espinaca baby",
+        "cantidad": "100",
+        "unidad": "g"
+      },
+      {
+        "nombre": "mix de semillas",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "aguacate o palta",
+        "cantidad": "1",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "cebolla morada",
+        "cantidad": "1/4",
+        "unidad": "unidad"
+      },
+      {
+        "nombre": "aderezo de ajonjolí y jengibre",
+        "cantidad": "3",
+        "unidad": "cdas"
+      }
+    ],
+    "pasos": [
+      "Pelás los kiwis y los cortás en rodajas o cubos.",
+      "Cortás la palta en láminas y la cebolla en aros finos.",
+      "Tostás las semillas en sartén seca 1-2 minutos.",
+      "Armás el bowl con espinaca de base, distribuís el kiwi, la palta y la cebolla.",
+      "Aderezás con el aderezo de ajonjolí y jengibre.",
+      "Espolvoreás las semillas tostadas al final."
+    ],
+    "tip_chef": "El kiwi tiene que estar maduro pero firme — si está blando se aplasta al mezclar. Un kiwi maduro cede ligeramente al presionar pero no se hunde.",
+    "conservacion": "Armalo al momento. La palta y el kiwi no esperan.",
+    "imagen_url": ""
+  },
+  {
+    "id": 48,
+    "nombre": "Bowl de manzana verde con apio, nueces y aderezo de miel",
+    "descripcion": "La versión ensalada del Waldorf original, más fresca y menos pesada. La acidez de la manzana verde con el crunch del apio y el dulzor de la miel crean un equilibrio que engancha.",
+    "categoria": "frutal",
+    "ocasion": [
+      "almuerzo",
+      "cena"
+    ],
+    "tiempo_preparacion": 10,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": true,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": true,
+    "vegana": false,
+    "ingrediente_principal": "manzana verde",
+    "aderezo_recomendado_id": 3,
+    "ingredientes": [
+      {
+        "nombre": "manzanas verdes",
+        "cantidad": "2",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "apio",
+        "cantidad": "3",
+        "unidad": "ramas"
+      },
+      {
+        "nombre": "nueces tostadas",
+        "cantidad": "50",
+        "unidad": "g"
+      },
+      {
+        "nombre": "uvas pasas",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "1",
+        "unidad": "cda"
+      },
+      {
+        "nombre": "aderezo de miel y mostaza",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Cortás las manzanas en bastones o cubos con cáscara, las mezclás inmediatamente con el limón.",
+      "Cortás el apio en rodajas diagonales finas, usando también las hojas internas.",
+      "Tostás las nueces en sartén seca.",
+      "Mezclás la manzana, el apio y las pasas.",
+      "Aderezás con el aderezo de miel y mostaza.",
+      "Terminás con las nueces tostadas y pimienta."
+    ],
+    "tip_chef": "Las hojas internas del apio (las más pequeñas y tiernas) son la mejor parte para ensaladas — tienen sabor intenso y textura delicada. No las tirés.",
+    "conservacion": "Aguanta 1 día en heladera con las nueces guardadas aparte.",
+    "imagen_url": ""
+  },
+  {
+    "id": 49,
+    "nombre": "Ensalada de mandarina con endivias y piñones tostados",
+    "descripcion": "Elegante y diferente. Las endivias amargas con la dulzura cítrica de la mandarina y los piñones tostados es una combinación sofisticada que se hace en diez minutos.",
+    "categoria": "frutal",
+    "ocasion": [
+      "almuerzo",
+      "juntada"
+    ],
+    "tiempo_preparacion": 10,
+    "porciones": 2,
+    "nivel_dificultad": "facil",
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": true,
+    "vegetariana": true,
+    "vegana": true,
+    "ingrediente_principal": "mandarina",
+    "aderezo_recomendado_id": 9,
+    "ingredientes": [
+      {
+        "nombre": "mandarinas",
+        "cantidad": "3",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "endivias",
+        "cantidad": "3",
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "piñones",
+        "cantidad": "25",
+        "unidad": "g"
+      },
+      {
+        "nombre": "rúcula",
+        "cantidad": "50",
+        "unidad": "g"
+      },
+      {
+        "nombre": "aceite de oliva",
+        "cantidad": "2",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "vinagreta de frambuesa",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Separás las hojas de endivia. Las cortás en trozos o las dejás enteras según el tamaño.",
+      "Pelás las mandarinas y separás los gajos, recogiendo el jugo.",
+      "Tostás los piñones en sartén seca 2-3 minutos hasta que tomen color dorado.",
+      "Mezclás las endivias con la rúcula.",
+      "Distribuís los gajos de mandarina.",
+      "Aderezás con la vinagreta de frambuesa y el aceite de oliva, terminás con piñones y pimienta."
+    ],
+    "tip_chef": "Los piñones se queman en segundos — no los dejés solos en la sartén. Movelos constantemente y sacalos del fuego cuando están dorados, siguen cocinando por el calor residual.",
+    "conservacion": "Armala al momento. Las endivias se oxidan cortadas y los piñones se ablandan.",
+    "imagen_url": ""
+  },
+  {
+    "id": 50,
+    "nombre": "Bowl de frambuesas con rúcula, brie y vinagreta de frambuesa",
+    "descripcion": "El bowl que hace que todos te pidan la receta en la primera juntada que lo servís. Frambuesas frescas, brie cremoso y rúcula amarga con una vinagreta del mismo fruto — todo en armonía.",
+    "categoria": "frutal",
+    "ocasion": [
+      "juntada",
+      "cena"
+    ],
+    "tiempo_preparacion": 10,
+    "porciones": 4,
+    "nivel_dificultad": "facil",
+    "apta_vianda": false,
+    "sin_gluten": true,
+    "sin_lacteos": false,
+    "vegetariana": true,
+    "vegana": false,
+    "ingrediente_principal": "frambuesas",
+    "aderezo_recomendado_id": 9,
+    "ingredientes": [
+      {
+        "nombre": "frambuesas frescas",
+        "cantidad": "250",
+        "unidad": "g"
+      },
+      {
+        "nombre": "rúcula",
+        "cantidad": "100",
+        "unidad": "g"
+      },
+      {
+        "nombre": "queso brie",
+        "cantidad": "120",
+        "unidad": "g"
+      },
+      {
+        "nombre": "nueces o pistachos",
+        "cantidad": "40",
+        "unidad": "g"
+      },
+      {
+        "nombre": "vinagreta de frambuesa",
+        "cantidad": "3",
+        "unidad": "cdas"
+      },
+      {
+        "nombre": "miel",
+        "cantidad": "1",
+        "unidad": "cdita"
+      },
+      {
+        "nombre": "sal y pimienta",
+        "cantidad": "a gusto",
+        "unidad": ""
+      }
+    ],
+    "pasos": [
+      "Sacás el brie de la heladera 20 minutos antes — a temperatura ambiente es mucho más cremoso y sabroso.",
+      "Cortás el brie en porciones o láminas.",
+      "Tostás las nueces o pistachos en sartén seca 2 minutos.",
+      "Armás el bowl con rúcula de base.",
+      "Distribuís las frambuesas y el brie.",
+      "Esparcís los frutos secos, aderezás con la vinagreta de frambuesa y un hilo de miel."
+    ],
+    "tip_chef": "El brie a temperatura ambiente es otro queso — pierde esa frialdad que lo hace grasoso al paladar y gana una cremosidad perfecta. Este paso transforma el plato.",
+    "conservacion": "Armalo al momento. Las frambuesas son frágiles y el brie se reblandece si espera aderezado.",
+    "imagen_url": ""
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "id": 1,
+    "nombre": "César sin huevo",
+    "descripcion": "El clásico aderezo César en versión sin huevo crudo pero con todo el sabor umami que te hace pedir más. Tipo restaurante, sin complicaciones.",
+    "tiempo_preparacion": 5,
+    "rinde": "para 4 ensaladas",
+    "ingredientes": [
+      {"nombre": "mayonesa", "cantidad": "3", "unidad": "cdas"},
+      {"nombre": "queso parmesano rallado", "cantidad": "2", "unidad": "cdas"},
+      {"nombre": "ajo", "cantidad": "1", "unidad": "diente"},
+      {"nombre": "jugo de limón", "cantidad": "1", "unidad": "cda"},
+      {"nombre": "mostaza dijon", "cantidad": "1", "unidad": "cdita"},
+      {"nombre": "salsa Worcestershire", "cantidad": "1", "unidad": "cdita"},
+      {"nombre": "aceite de oliva", "cantidad": "2", "unidad": "cdas"},
+      {"nombre": "sal y pimienta", "cantidad": "a gusto", "unidad": ""}
+    ],
+    "pasos": [
+      "Triturás el diente de ajo o lo rallás fino con un microplane.",
+      "En un bol mezclás la mayonesa, el parmesano, la mostaza y la Worcestershire.",
+      "Agregás el jugo de limón y el ajo, emulsionás con el aceite de oliva de a poco.",
+      "Probás y ajustás sal y pimienta. Si queda muy espeso, tirás un chorrito de agua fría."
+    ],
+    "tip_chef": "El truco es el microplane para el ajo: se integra sin dejar pedazos y libera más sabor. Si tenés, sumá una anchoa picada finísima — transforma el aderezo.",
+    "ensaladas_que_combina": [12, 26, 29],
+    "imagen_url": ""
+  },
+  {
+    "id": 2,
+    "nombre": "Tahini con limón",
+    "descripcion": "Aderezo cremoso de sésamo con limón que convierte cualquier verdura en algo que parece de restaurante medio-oriental. Adictivo y versátil.",
+    "tiempo_preparacion": 5,
+    "rinde": "para 4 ensaladas",
+    "ingredientes": [
+      {"nombre": "tahini", "cantidad": "3", "unidad": "cdas"},
+      {"nombre": "jugo de limón", "cantidad": "2", "unidad": "cdas"},
+      {"nombre": "ajo", "cantidad": "1", "unidad": "diente pequeño"},
+      {"nombre": "agua fría", "cantidad": "3", "unidad": "cdas"},
+      {"nombre": "aceite de oliva", "cantidad": "1", "unidad": "cda"},
+      {"nombre": "sal", "cantidad": "a gusto", "unidad": ""},
+      {"nombre": "comino", "cantidad": "1", "unidad": "pizca"}
+    ],
+    "pasos": [
+      "Rallás o triturás el ajo y lo mezclás con el tahini y el jugo de limón.",
+      "La mezcla se va a poner espesa y grumosa — eso es normal. Agregás el agua de a poco mezclando.",
+      "Incorporás el aceite de oliva y el comino, seguís mezclando hasta que quede sedoso.",
+      "Probás y ajustás limón y sal. Si queda muy espeso tirás un poco más de agua."
+    ],
+    "tip_chef": "El secreto es el agua fría: la incorporás de a cucharadas y el tahini emulsiona solo. Cuanto más frío el agua, más sedoso queda.",
+    "ensaladas_que_combina": [11, 6, 24, 19, 33, 36],
+    "imagen_url": ""
+  },
+  {
+    "id": 3,
+    "nombre": "Miel y mostaza",
+    "descripcion": "El aderezo que convence hasta al más escéptico de las ensaladas. Dulce, ácido y con ese kick que te hace seguir comiendo. Se hace en 2 minutos.",
+    "tiempo_preparacion": 3,
+    "rinde": "para 4 ensaladas",
+    "ingredientes": [
+      {"nombre": "miel", "cantidad": "2", "unidad": "cdas"},
+      {"nombre": "mostaza dijon", "cantidad": "2", "unidad": "cdas"},
+      {"nombre": "vinagre de manzana", "cantidad": "1", "unidad": "cda"},
+      {"nombre": "aceite de oliva", "cantidad": "3", "unidad": "cdas"},
+      {"nombre": "sal y pimienta", "cantidad": "a gusto", "unidad": ""}
+    ],
+    "pasos": [
+      "Mezclás la miel con la mostaza y el vinagre en un frasco o bol pequeño.",
+      "Incorporás el aceite de oliva batiendo con un tenedor hasta emulsionar.",
+      "Probás y ajustás: más miel si querés más dulce, más vinagre si querés más acidez."
+    ],
+    "tip_chef": "Usá mostaza dijon en lugar de mostaza común — la diferencia de sabor es enorme. Si tenés miel de buena calidad, notás el upgrade al toque.",
+    "ensaladas_que_combina": [10, 4, 7, 31, 43, 46, 48],
+    "imagen_url": ""
+  },
+  {
+    "id": 4,
+    "nombre": "Yogur con eneldo",
+    "descripcion": "Fresco, cremoso y con ese sabor escandinavo que hace que la gente te pregunte qué pusiste. Perfecto para ensaladas con pepino, papa o pollo.",
+    "tiempo_preparacion": 5,
+    "rinde": "para 4 ensaladas",
+    "ingredientes": [
+      {"nombre": "yogur natural entero", "cantidad": "4", "unidad": "cdas"},
+      {"nombre": "eneldo fresco o seco", "cantidad": "1", "unidad": "cda"},
+      {"nombre": "jugo de limón", "cantidad": "1", "unidad": "cda"},
+      {"nombre": "ajo", "cantidad": "1/2", "unidad": "diente"},
+      {"nombre": "aceite de oliva", "cantidad": "1", "unidad": "cda"},
+      {"nombre": "sal y pimienta", "cantidad": "a gusto", "unidad": ""}
+    ],
+    "pasos": [
+      "Rallás el medio diente de ajo finísimo y lo mezclás con el yogur.",
+      "Agregás el eneldo, el jugo de limón y el aceite de oliva.",
+      "Mezclás bien, probás y ajustás sal y pimienta.",
+      "Lo dejás reposar 10 minutos en la heladera para que los sabores se integren."
+    ],
+    "tip_chef": "Si usás eneldo fresco, trituralo un poco entre las manos antes de agregar — libera más aceites esenciales y el sabor se potencia.",
+    "ensaladas_que_combina": [5, 17, 21, 38, 39],
+    "imagen_url": ""
+  },
+  {
+    "id": 5,
+    "nombre": "Vinagreta balsámica",
+    "descripcion": "La vinagreta que nunca falla. Dulce, ácida y brillante — hace que cualquier ensalada parezca de carta. La receta base que todos deberían saber de memoria.",
+    "tiempo_preparacion": 3,
+    "rinde": "para 4 ensaladas",
+    "ingredientes": [
+      {"nombre": "vinagre balsámico", "cantidad": "2", "unidad": "cdas"},
+      {"nombre": "aceite de oliva extra virgen", "cantidad": "4", "unidad": "cdas"},
+      {"nombre": "mostaza dijon", "cantidad": "1/2", "unidad": "cdita"},
+      {"nombre": "miel", "cantidad": "1", "unidad": "cdita"},
+      {"nombre": "sal y pimienta negra", "cantidad": "a gusto", "unidad": ""}
+    ],
+    "pasos": [
+      "En un frasco con tapa mezclás el vinagre balsámico con la mostaza y la miel.",
+      "Agregás el aceite de oliva, cerrás el frasco y agitás hasta emulsionar.",
+      "Probás y ajustás sal, pimienta o acidez según preferencia."
+    ],
+    "tip_chef": "La proporción clásica es 1 parte de vinagre por 2 de aceite, pero con balsámico podés ir 1:2 o incluso 1:1.5 porque es más suave. El truco del frasco para emulsionar es de chef de restaurante.",
+    "ensaladas_que_combina": [1, 2, 8, 14, 18, 22, 25, 32, 34, 35, 37, 44],
+    "imagen_url": ""
+  },
+  {
+    "id": 6,
+    "nombre": "Ajonjolí y jengibre",
+    "descripcion": "Aderezo asiático con profundidad de sabor — umami, dulce y con un kick de jengibre fresco. El que hace que todos te pidan la receta en una juntada.",
+    "tiempo_preparacion": 5,
+    "rinde": "para 4 ensaladas",
+    "ingredientes": [
+      {"nombre": "aceite de sésamo tostado", "cantidad": "2", "unidad": "cdas"},
+      {"nombre": "salsa de soja", "cantidad": "2", "unidad": "cdas"},
+      {"nombre": "jengibre fresco rallado", "cantidad": "1", "unidad": "cdita"},
+      {"nombre": "ajo", "cantidad": "1", "unidad": "diente"},
+      {"nombre": "miel o azúcar mascabo", "cantidad": "1", "unidad": "cdita"},
+      {"nombre": "vinagre de arroz", "cantidad": "1", "unidad": "cda"},
+      {"nombre": "aceite neutro (girasol)", "cantidad": "2", "unidad": "cdas"},
+      {"nombre": "semillas de sésamo", "cantidad": "1", "unidad": "cda"}
+    ],
+    "pasos": [
+      "Rallás el jengibre y el ajo finísimos.",
+      "Mezclás todos los ingredientes líquidos: soja, vinagre de arroz, aceite de sésamo y aceite neutro.",
+      "Incorporás el jengibre, el ajo y la miel, mezclás bien.",
+      "Tostás las semillas de sésamo en seco 1 minuto y las agregás al final."
+    ],
+    "tip_chef": "El aceite de sésamo tostado es el alma del aderezo — usá poco pero de buena calidad. El de supermercado chino es el mejor y más barato.",
+    "ensaladas_que_combina": [3, 13, 15, 28, 40, 42, 47],
+    "imagen_url": ""
+  },
+  {
+    "id": 7,
+    "nombre": "Blue cheese criollo",
+    "descripcion": "Aderezo de queso azul intenso y cremoso — para los que saben lo que quieren. Transforma una ensalada simple en algo que se sirve en los mejores restaurantes.",
+    "tiempo_preparacion": 5,
+    "rinde": "para 4 ensaladas",
+    "ingredientes": [
+      {"nombre": "queso azul (gorgonzola o roquefort)", "cantidad": "60", "unidad": "g"},
+      {"nombre": "crema de leche", "cantidad": "3", "unidad": "cdas"},
+      {"nombre": "jugo de limón", "cantidad": "1", "unidad": "cda"},
+      {"nombre": "ajo en polvo", "cantidad": "1", "unidad": "pizca"},
+      {"nombre": "pimienta negra", "cantidad": "a gusto", "unidad": ""},
+      {"nombre": "cebollín o cebolla de verdeo", "cantidad": "1", "unidad": "cda picada"}
+    ],
+    "pasos": [
+      "Pisás el queso azul con un tenedor hasta desmenuzarlo bien.",
+      "Agregás la crema de leche y mezclás hasta integrar — no tiene que quedar perfectamente liso, los pedacitos de queso son parte del encanto.",
+      "Sumás el jugo de limón, el ajo en polvo y la pimienta.",
+      "Incorporás el cebollín picado fino y mezclás."
+    ],
+    "tip_chef": "Usá roquefort argentino si conseguís — tiene más carácter que el gorgonzola importado y es más económico. El aderezo mejora notablemente si lo hacés el día anterior.",
+    "ensaladas_que_combina": [27, 45],
+    "imagen_url": ""
+  },
+  {
+    "id": 8,
+    "nombre": "Hummus aderezo",
+    "descripcion": "Cuando el hummus se vuelve aderezo — cremoso, nutritivo y con una versatilidad que te sorprende. Perfecto para darle cuerpo a ensaladas con vegetales asados.",
+    "tiempo_preparacion": 5,
+    "rinde": "para 4 ensaladas",
+    "ingredientes": [
+      {"nombre": "hummus (comprado o casero)", "cantidad": "4", "unidad": "cdas"},
+      {"nombre": "jugo de limón", "cantidad": "2", "unidad": "cdas"},
+      {"nombre": "agua fría", "cantidad": "3-4", "unidad": "cdas"},
+      {"nombre": "aceite de oliva", "cantidad": "1", "unidad": "cda"},
+      {"nombre": "páprika ahumada", "cantidad": "1", "unidad": "pizca"},
+      {"nombre": "sal", "cantidad": "a gusto", "unidad": ""}
+    ],
+    "pasos": [
+      "Mezclás el hummus con el jugo de limón hasta integrar.",
+      "Agregás el agua de a poco hasta lograr la consistencia de un aderezo — más fluido que el hummus puro.",
+      "Incorporás el aceite de oliva, la páprika y ajustás sal.",
+      "Probás y ajustás acidez con más limón si hace falta."
+    ],
+    "tip_chef": "El truco está en la consistencia: tiene que fluir como un aderezo cremoso, no como pasta. El agua fría es clave para lograrlo sin perder el cuerpo.",
+    "ensaladas_que_combina": [11, 33, 36, 19],
+    "imagen_url": ""
+  },
+  {
+    "id": 9,
+    "nombre": "Vinagreta de frambuesa",
+    "descripcion": "Dulce, frutal y con una acidez elegante que funciona perfectamente con quesos, frutos secos y hojas amargas. La vinagreta que parece de restaurante gourmet.",
+    "tiempo_preparacion": 5,
+    "rinde": "para 4 ensaladas",
+    "ingredientes": [
+      {"nombre": "frambuesas frescas o congeladas", "cantidad": "1/3", "unidad": "taza"},
+      {"nombre": "vinagre de vino tinto", "cantidad": "2", "unidad": "cdas"},
+      {"nombre": "miel", "cantidad": "1", "unidad": "cda"},
+      {"nombre": "mostaza dijon", "cantidad": "1/2", "unidad": "cdita"},
+      {"nombre": "aceite de oliva", "cantidad": "4", "unidad": "cdas"},
+      {"nombre": "sal y pimienta", "cantidad": "a gusto", "unidad": ""}
+    ],
+    "pasos": [
+      "Pisás las frambuesas con un tenedor o las pasás por un colador fino para obtener el jugo y descartar las semillas.",
+      "Mezclás el jugo de frambuesa con el vinagre, la miel y la mostaza.",
+      "Incorporás el aceite de oliva de a poco, emulsionando con un batidor o tenedor.",
+      "Probás y ajustás dulzor o acidez según preferencia."
+    ],
+    "tip_chef": "Con frambuesas congeladas queda igual de rico — las descongelás, las pisás y listo. Si querés color vibrante sin semillas, usá el colador fino.",
+    "ensaladas_que_combina": [23, 30, 41, 49, 50],
+    "imagen_url": ""
+  },
+  {
+    "id": 10,
+    "nombre": "Romesco",
+    "descripcion": "La salsa catalana que se convierte en aderezo — pimientos asados, almendras y tomate forman algo profundo y ahumado que eleva cualquier ensalada a nivel de bistró.",
+    "tiempo_preparacion": 10,
+    "rinde": "para 4 ensaladas",
+    "ingredientes": [
+      {"nombre": "pimiento rojo asado (de frasco o asado)", "cantidad": "2", "unidad": "unidades"},
+      {"nombre": "almendras tostadas", "cantidad": "30", "unidad": "g"},
+      {"nombre": "tomate perita maduro", "cantidad": "1", "unidad": "unidad"},
+      {"nombre": "ajo", "cantidad": "1", "unidad": "diente"},
+      {"nombre": "vinagre de vino tinto", "cantidad": "1", "unidad": "cda"},
+      {"nombre": "páprika ahumada", "cantidad": "1", "unidad": "cdita"},
+      {"nombre": "aceite de oliva", "cantidad": "3", "unidad": "cdas"},
+      {"nombre": "sal y pimienta", "cantidad": "a gusto", "unidad": ""}
+    ],
+    "pasos": [
+      "Si asás el pimiento en casa, lo ponés directo en la llama o en el horno a 220°C hasta que se ennegrece la piel, lo envolvés en papel film y lo dejás enfriar — la piel sale sola.",
+      "Procesás los pimientos pelados con las almendras, el tomate, el ajo y el vinagre.",
+      "Agregás la páprika ahumada y el aceite de oliva mientras procesás hasta lograr una salsa con algo de textura.",
+      "Probás y ajustás sal — si queda muy espeso, tirás un chorrito de agua."
+    ],
+    "tip_chef": "Con pimientos de frasco queda igual de rico y tardás la mitad. El secreto del romesco es la textura: no lo procesés demasiado, tiene que tener algo de rusticidad.",
+    "ensaladas_que_combina": [16, 19, 32, 40],
+    "imagen_url": ""
+  }
+]
